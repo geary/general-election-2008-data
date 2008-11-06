@@ -8,11 +8,11 @@
 {"Winning Trend":177,"Leading":4,"Holdovers":0,"Current":199,"Net Change":-21,"Won":173}},
 "President":
 {"Others":
-{"votes":"1573828","won":false,"electoral":"0"},
+{"votes":"1574144","won":false,"electoral":"0"},
 "McCain":
-{"votes":"56712551","won":false,"electoral":"162"},
+{"votes":"56733958","won":false,"electoral":"162"},
 "Obama":
-{"votes":"64385746","won":true,"electoral":"364"}},
+{"votes":"64413006","won":true,"electoral":"364"}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":2,"Leading":0,"Holdovers":2,"Current":2,"Net Change":0,"Won":0},
@@ -2366,7 +2366,7 @@
 "abbr":"PA"},
 "Florida":
 {"name":"Florida","precincts":
-{"total":7005,"reporting":6992},
+{"total":7005,"reporting":7005},
 "electoral":27,"races":
 {"U.S. House":
 {"24":
@@ -2448,8 +2448,8 @@
 "final":"59898"},
 "11":
 {"votes":[
-{"votes":140834,"id":"10546"},
-{"votes":59589,"id":"51848"}],
+{"votes":152260,"id":"10546"},
+{"votes":64003,"id":"51848"}],
 "final":"10546"},
 "10":
 {"votes":[
@@ -2465,8 +2465,8 @@
 "final":"53213"},
 "12":
 {"votes":[
-{"votes":168754,"id":"861"},
-{"votes":117451,"id":"58615"}],
+{"votes":178808,"id":"861"},
+{"votes":127477,"id":"58615"}],
 "final":"861"},
 "15":
 {"votes":[
