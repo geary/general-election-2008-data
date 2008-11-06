@@ -1,4 +1,4 @@
-{"state":"MS","total":1212506,"candidates":
+{"state":"MS","total":1216656,"candidates":
 {"57822":"GOP|Cook|Richard Cook","57814":"Dem|Childers|Travis Childers","690":"GOP|Cochran|Thad Cochran","212":"GOP|Wicker|Roger Wicker","58430":"Grn|Wages|John Wages","57825":"GOP|Harper|Gregg Harper","57824":"Dem|Gill|Joel Gill","1335":"Dem|Thompson|Bennie Thompson","27387":"GOP|Davis|Greg Davis","55619":"Dem|Fleming|Erik Fleming","57830":"GOP|McCay|John McCay","59208":"AKI|Baldwin|Chuck Baldwin","58428":"Ind|Pang|Wally Pang","1701":"GOP|McCain|John McCain","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","1300":"Dem|Musgrove|Ronnie Musgrove","28726":"RP|Weill|Ted Weill","12619":"Grn|McKinney|Cynthia McKinney","1918":"Dem|Obama|Barack Obama","220":"Dem|Taylor|Gene Taylor"},
 "locals":
 {"Yalobusha":
@@ -1222,16 +1222,16 @@
 {"President":
 {"":
 {"votes":[
-{"votes":7328,"id":"1918"},
-{"votes":7190,"id":"1701"},
-{"votes":41,"id":"11527"},
-{"votes":41,"id":"3850"},
-{"votes":23,"id":"59208"},
-{"votes":15,"id":"12619"},
+{"votes":9326,"id":"1918"},
+{"votes":9320,"id":"1701"},
+{"votes":50,"id":"11527"},
+{"votes":48,"id":"3850"},
+{"votes":28,"id":"59208"},
+{"votes":16,"id":"12619"},
 {"votes":4,"id":"28726"}],
-"total":14642,"final":"1701"}}},
+"total":18792,"final":"1701"}}},
 "precincts":
-{"total":21,"reporting":20},
+{"total":21,"reporting":21},
 "name":"Oktibbeha"},
 "Alcorn":
 {"fips":"28003","races":
@@ -1317,7 +1317,7 @@
 {"name":"Mississippi","electoral":6,"fix":
 {"Jeff Davis":"Jefferson Davis"},
 "precincts":
-{"total":1887,"reporting":1885},
+{"total":1887,"reporting":1886},
 "races":
 {"U.S. House":
 {"1":
@@ -1345,23 +1345,23 @@
 "President":
 {"":
 {"votes":[
-{"votes":684475,"electoral":6,"id":"1701"},
-{"votes":517899,"electoral":0,"id":"1918"},
-{"votes":3719,"electoral":0,"id":"3850"},
-{"votes":2441,"electoral":0,"id":"59208"},
-{"votes":2416,"electoral":0,"id":"11527"},
-{"votes":1086,"electoral":0,"id":"12619"},
+{"votes":686605,"electoral":6,"id":"1701"},
+{"votes":519897,"electoral":0,"id":"1918"},
+{"votes":3726,"electoral":0,"id":"3850"},
+{"votes":2446,"electoral":0,"id":"59208"},
+{"votes":2425,"electoral":0,"id":"11527"},
+{"votes":1087,"electoral":0,"id":"12619"},
 {"votes":470,"electoral":0,"id":"28726"}],
 "final":"1701"}},
 "U.S. Senate":
 {"2008":
 {"votes":[
-{"votes":720200,"id":"690"},
-{"votes":447316,"id":"55619"}],
+{"votes":722594,"id":"690"},
+{"votes":448950,"id":"55619"}],
 "final":"690"},
 "2006":
 {"votes":[
-{"votes":646394,"id":"212"},
-{"votes":522419,"id":"1300"}],
+{"votes":648651,"id":"212"},
+{"votes":524148,"id":"1300"}],
 "final":"212"}}},
 "abbr":"MS"}}
