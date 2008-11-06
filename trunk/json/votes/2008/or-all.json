@@ -1,4 +1,4 @@
-{"state":"OR","total":1470053,"candidates":
+{"state":"OR","total":1485887,"candidates":
 {"51801":"GOP|Erickson|Mike Erickson","57469":"Dem|Merkley|Jeff Merkley","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","54333":"CST|Patterson|Douglas Patterson","1918":"Dem|Obama|Barack Obama","59208":"AKI|Baldwin|Chuck Baldwin","3":"|No| No","2":"|Yes| Yes","481":"GOP|Walden|Greg Walden","3850":"Ind|Nader|Ralph Nader","59807":"PAG|Beilstein|Mike Beilstein","59806":"PAG|Mock|Tristin Mock","1400":"GOP|Smith|Gordon Smith","39371":"Lib|Tabor|Joe Tabor","59848":"Ind|Bates|Sean Bates","1701":"GOP|McCain|John McCain","59847":"PAG|Polikoff|Alex Polikoff","59846":"PAG|Henry|Chris Henry","59797":"PAG|Meo|Michael Meo","59796":"CST|Hake|Richard Hake","59795":"CST|Semrau|Scott Semrau","1494":"CST|Brownlow|Dave Brownlow","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","59799":"Lib|Milligan|Steve Milligan","59798":"CST|Germond|Jaynee Germond","58440":"Ind|Haugen|Joel Haugen","58441":"Dem|Lemas|Noah Lemas","57501":"Dem|Schrader|Kurt Schrader","478":"Dem|Wu|David Wu"},
 "locals":
 {"Wheeler":
@@ -321,13 +321,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":20345,"id":"1918"},
-{"votes":8718,"id":"1701"},
-{"votes":230,"id":"3850"},
-{"votes":117,"id":"11527"},
-{"votes":94,"id":"12619"},
-{"votes":81,"id":"59208"}],
-"total":29585,"final":"1918"}}},
+{"votes":29421,"id":"1918"},
+{"votes":15036,"id":"1701"},
+{"votes":419,"id":"3850"},
+{"votes":211,"id":"11527"},
+{"votes":169,"id":"59208"},
+{"votes":163,"id":"12619"}],
+"total":45419,"final":"1918"}}},
 "precincts":
 {"total":23,"reporting":23},
 "name":"Benton"},
@@ -569,28 +569,28 @@
 "final":"481"},
 "5":
 {"votes":[
-{"votes":162372,"id":"57501"},
-{"votes":113090,"id":"51801"},
-{"votes":6030,"id":"59848"},
-{"votes":5704,"id":"54333"},
-{"votes":4522,"id":"59847"},
-{"votes":4210,"id":"59799"}],
+{"votes":164938,"id":"57501"},
+{"votes":115248,"id":"51801"},
+{"votes":6112,"id":"59848"},
+{"votes":5779,"id":"54333"},
+{"votes":4693,"id":"59847"},
+{"votes":4305,"id":"59799"}],
 "final":"57501"},
 "4":
 {"votes":[
-{"votes":170610,"id":"484"},
-{"votes":29732,"id":"59798"},
-{"votes":8195,"id":"59807"}],
+{"votes":177442,"id":"484"},
+{"votes":30769,"id":"59798"},
+{"votes":8762,"id":"59807"}],
 "final":"484"}},
 "President":
 {"":
 {"votes":[
-{"votes":841184,"electoral":7,"id":"1918"},
-{"votes":598367,"electoral":0,"id":"1701"},
-{"votes":14876,"electoral":0,"id":"3850"},
-{"votes":6080,"electoral":0,"id":"59208"},
-{"votes":5977,"electoral":0,"id":"11527"},
-{"votes":3569,"electoral":0,"id":"12619"}],
+{"votes":850260,"electoral":7,"id":"1918"},
+{"votes":604685,"electoral":0,"id":"1701"},
+{"votes":15065,"electoral":0,"id":"3850"},
+{"votes":6168,"electoral":0,"id":"59208"},
+{"votes":6071,"electoral":0,"id":"11527"},
+{"votes":3638,"electoral":0,"id":"12619"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
@@ -607,12 +607,12 @@
 "final":"3"},
 "60-Teacher Merit Pay":
 {"votes":[
-{"votes":863737,"id":"3"},
-{"votes":549881,"id":"2"}],
+{"votes":873710,"id":"3"},
+{"votes":554901,"id":"2"}],
 "final":"3"},
 "58-Bilingual Education":
 {"votes":[
-{"votes":790004,"id":"3"},
-{"votes":621945,"id":"2"}],
+{"votes":799358,"id":"3"},
+{"votes":627440,"id":"2"}],
 "final":"3"}}},
 "abbr":"OR"}}
