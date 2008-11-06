@@ -1,4 +1,4 @@
-{"state":"NH","total":689562,"candidates":
+{"state":"NH","total":690970,"candidates":
 {"50448":"Dem|Hodes|Paul Hodes","1701":"GOP|McCain|John McCain","59849":"Lib|Newell|Susan Newell","59722":"Lib|Phillies|George Phillies","1077":"GOP|Bradley|Jeb Bradley","1074":"GOP|Sununu|John Sununu","1075":"Lib|Blevens|Ken Blevens","1073":"Dem|Shaheen|Jeanne Shaheen","1918":"Dem|Obama|Barack Obama","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","59864":"GOP|Horn|Jennifer Horn","59838":"Lib|Kingsbury|Robert Kingsbury","59839":"Lib|Lapointe|Chester Lapointe","53539":"Dem|Shea-Porter|Carol Shea-Porter","7722":"Dem|Lynch|John Lynch","56619":"GOP|Kenney|Joe Kenney"},
 "locals":
 {"Albany":
@@ -2498,14 +2498,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":0,"id":"59722"},
-{"votes":0,"id":"1918"},
-{"votes":0,"id":"11527"},
-{"votes":0,"id":"3850"},
-{"votes":0,"id":"1701"}],
-"total":0,"final":"1918"}}},
+{"votes":869,"id":"1918"},
+{"votes":517,"id":"1701"},
+{"votes":16,"id":"3850"},
+{"votes":6,"id":"11527"},
+{"votes":0,"id":"59722"}],
+"total":1408,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Bethlehem"},
 "Lancaster":
 {"fips":"33007","races":
@@ -3323,7 +3323,7 @@
 {"name":"New Hampshire","electoral":4,"fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
-{"total":301,"reporting":289},
+{"total":301,"reporting":290},
 "races":
 {"U.S. House":
 {"1":
@@ -3334,31 +3334,31 @@
 "final":"53539"},
 "2":
 {"votes":[
-{"votes":183047,"id":"50448"},
-{"votes":133663,"id":"59864"},
-{"votes":6865,"id":"59839"}],
+{"votes":183872,"id":"50448"},
+{"votes":134137,"id":"59864"},
+{"votes":6886,"id":"59839"}],
 "final":"50448"}},
 "President":
 {"":
 {"votes":[
-{"votes":374390,"electoral":4,"id":"1918"},
-{"votes":309278,"electoral":0,"id":"1701"},
-{"votes":3321,"electoral":0,"id":"3850"},
-{"votes":2082,"electoral":0,"id":"11527"},
+{"votes":375259,"electoral":4,"id":"1918"},
+{"votes":309795,"electoral":0,"id":"1701"},
+{"votes":3337,"electoral":0,"id":"3850"},
+{"votes":2088,"electoral":0,"id":"11527"},
 {"votes":491,"electoral":0,"id":"59722"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":349301,"id":"1073"},
-{"votes":306461,"id":"1074"},
-{"votes":20698,"id":"1075"}],
+{"votes":350096,"id":"1073"},
+{"votes":306993,"id":"1074"},
+{"votes":20740,"id":"1075"}],
 "final":"1073"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":465307,"id":"7722"},
-{"votes":185805,"id":"56619"},
-{"votes":15574,"id":"59849"}],
+{"votes":466305,"id":"7722"},
+{"votes":186129,"id":"56619"},
+{"votes":15606,"id":"59849"}],
 "final":"7722"}}},
 "abbr":"NH","votesby":"town"}}

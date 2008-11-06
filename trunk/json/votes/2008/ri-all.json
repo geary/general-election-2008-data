@@ -1,4 +1,4 @@
-{"state":"RI","total":434411,"candidates":
+{"state":"RI","total":435261,"candidates":
 {"964":"Dem|Reed|Jack Reed","1701":"GOP|McCain|John McCain","966":"Dem|Kennedy|Patrick Kennedy","967":"Dem|Langevin|Jim Langevin","12619":"Grn|McKinney|Cynthia McKinney","965":"GOP|Tingle|Bob Tingle","51914":"GOP|Scott|Jonathan Scott","59208":"AKI|Baldwin|Chuck Baldwin","59621":"GOP|Zaccaria|Mark Zaccaria","56221":"Ind|Capalbo|Kenneth Capalbo","7623":"PSL|La Riva|Gloria La Riva","1918":"Dem|Obama|Barack Obama","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Cumberland":
@@ -22,16 +22,16 @@
 {"President":
 {"":
 {"votes":[
-{"votes":2141,"id":"1918"},
-{"votes":1630,"id":"1701"},
+{"votes":2076,"id":"1918"},
+{"votes":1590,"id":"1701"},
 {"votes":64,"id":"3850"},
 {"votes":19,"id":"11527"},
 {"votes":7,"id":"59208"},
 {"votes":6,"id":"12619"},
 {"votes":4,"id":"7623"}],
-"total":3871,"final":"1918"}}},
+"total":3766,"final":"1918"}}},
 "precincts":
-{"total":3,"reporting":3},
+{"total":3,"reporting":2},
 "name":"Hopkinton"},
 "Central Falls":
 {"fips":"44007","races":
@@ -103,13 +103,13 @@
 {"":
 {"votes":[
 {"votes":1292,"id":"1918"},
-{"votes":1122,"id":"1701"},
+{"votes":1123,"id":"1701"},
 {"votes":43,"id":"3850"},
 {"votes":15,"id":"11527"},
 {"votes":8,"id":"12619"},
 {"votes":6,"id":"59208"},
 {"votes":1,"id":"7623"}],
-"total":2487,"final":"1918"}}},
+"total":2488,"final":"1918"}}},
 "precincts":
 {"total":2,"reporting":2},
 "name":"Foster"},
@@ -150,16 +150,16 @@
 {"President":
 {"":
 {"votes":[
-{"votes":5127,"id":"1918"},
-{"votes":4419,"id":"1701"},
-{"votes":128,"id":"3850"},
-{"votes":31,"id":"11527"},
-{"votes":19,"id":"12619"},
-{"votes":17,"id":"59208"},
-{"votes":3,"id":"7623"}],
-"total":9744,"final":"1918"}}},
+{"votes":0,"id":"1701"},
+{"votes":0,"id":"7623"},
+{"votes":0,"id":"59208"},
+{"votes":0,"id":"1918"},
+{"votes":0,"id":"11527"},
+{"votes":0,"id":"12619"},
+{"votes":0,"id":"3850"}],
+"total":0,"final":"1918"}}},
 "precincts":
-{"total":10,"reporting":9},
+{"total":10,"reporting":0},
 "name":"Smithfield"},
 "Cranston":
 {"fips":"44007","races":
@@ -175,7 +175,7 @@
 {"votes":1,"id":"7623"}],
 "total":34543,"final":"1918"}}},
 "precincts":
-{"total":43,"reporting":43},
+{"total":43,"reporting":42},
 "name":"Cranston"},
 "East Providence":
 {"fips":"44007","races":
@@ -294,14 +294,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":4699,"id":"1918"},
-{"votes":2900,"id":"1701"},
-{"votes":61,"id":"11527"},
-{"votes":24,"id":"7623"},
-{"votes":13,"id":"3850"},
-{"votes":11,"id":"59208"},
-{"votes":1,"id":"12619"}],
-"total":7709,"final":"1918"}}},
+{"votes":5628,"id":"1918"},
+{"votes":3426,"id":"1701"},
+{"votes":76,"id":"3850"},
+{"votes":28,"id":"11527"},
+{"votes":15,"id":"12619"},
+{"votes":12,"id":"59208"},
+{"votes":1,"id":"7623"}],
+"total":9186,"final":"1918"}}},
 "precincts":
 {"total":8,"reporting":8},
 "name":"Barrington"},
@@ -627,7 +627,7 @@
 "name":"Warren"}},
 "totals":
 {"name":"Rhode Island","precincts":
-{"total":541,"reporting":532},
+{"total":541,"reporting":524},
 "electoral":4,"races":
 {"U.S. House":
 {"1":
@@ -644,13 +644,13 @@
 "President":
 {"":
 {"votes":[
-{"votes":275028,"electoral":4,"id":"1918"},
-{"votes":152197,"electoral":0,"id":"1701"},
-{"votes":4402,"electoral":0,"id":"3850"},
-{"votes":1313,"electoral":0,"id":"11527"},
-{"votes":707,"electoral":0,"id":"12619"},
-{"votes":626,"electoral":0,"id":"59208"},
-{"votes":138,"electoral":0,"id":"7623"}],
+{"votes":275488,"electoral":4,"id":"1918"},
+{"votes":152502,"electoral":0,"id":"1701"},
+{"votes":4514,"electoral":0,"id":"3850"},
+{"votes":1289,"electoral":0,"id":"11527"},
+{"votes":726,"electoral":0,"id":"12619"},
+{"votes":627,"electoral":0,"id":"59208"},
+{"votes":115,"electoral":0,"id":"7623"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":

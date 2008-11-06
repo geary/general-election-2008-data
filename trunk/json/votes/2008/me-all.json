@@ -1,4 +1,4 @@
-{"state":"ME","total":693692,"candidates":
+{"state":"ME","total":699653,"candidates":
 {"59612":"GOP|Summers|Charlie Summers","59613":"Dem|Pingree|Chellie Pingree","585":"Dem|Michaud|Mike Michaud","12619":"Grn|McKinney|Cynthia McKinney","59614":"GOP|Frary|John Frary","1701":"GOP|McCain|John McCain","1317":"Dem|Allen|Tom Allen","1727":"GOP|Collins|Susan Collins","1918":"Dem|Obama|Barack Obama","3":"|No| No","2":"|Yes| Yes","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Baring Plt.":
@@ -4608,13 +4608,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":0,"id":"1918"},
+{"votes":23,"id":"1701"},
+{"votes":13,"id":"1918"},
 {"votes":0,"id":"12619"},
-{"votes":0,"id":"3850"},
-{"votes":0,"id":"1701"}],
-"total":0,"final":"1918"}}},
+{"votes":0,"id":"3850"}],
+"total":36,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"West Forks Plt."},
 "Bingham":
 {"fips":"23025","races":
@@ -6467,13 +6467,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":0,"id":"1918"},
-{"votes":0,"id":"12619"},
-{"votes":0,"id":"3850"},
-{"votes":0,"id":"1701"}],
-"total":0,"final":"1918"}}},
+{"votes":3353,"id":"1918"},
+{"votes":2476,"id":"1701"},
+{"votes":77,"id":"3850"},
+{"votes":19,"id":"12619"}],
+"total":5925,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Wells"},
 "Pleasant Ridge Plt.":
 {"fips":"23025","races":
@@ -6752,37 +6752,37 @@
 {"name":"Maine","electoral":4,"fix":
 {},
 "precincts":
-{"total":613,"reporting":587},
+{"total":613,"reporting":589},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":184299,"id":"59613"},
-{"votes":149811,"id":"59612"}],
+{"votes":187288,"id":"59613"},
+{"votes":152587,"id":"59612"}],
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":218774,"id":"585"},
-{"votes":106467,"id":"59614"}],
+{"votes":218798,"id":"585"},
+{"votes":106480,"id":"59614"}],
 "final":"585"}},
 "President":
 {"":
 {"votes":[
-{"votes":400353,"electoral":4,"id":"1918"},
-{"votes":280346,"electoral":0,"id":"1701"},
-{"votes":10234,"electoral":0,"id":"3850"},
-{"votes":2759,"electoral":0,"id":"12619"}],
+{"votes":403719,"electoral":4,"id":"1918"},
+{"votes":282845,"electoral":0,"id":"1701"},
+{"votes":10311,"electoral":0,"id":"3850"},
+{"votes":2778,"electoral":0,"id":"12619"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":420993,"id":"1727"},
-{"votes":265173,"id":"1317"}],
+{"votes":424859,"id":"1727"},
+{"votes":267163,"id":"1317"}],
 "final":"1727"}},
 "Question":
 {"1-Veto Tax on Drinks & Insurance":
 {"votes":[
-{"votes":435226,"id":"2"},
-{"votes":242226,"id":"3"}],
+{"votes":438888,"id":"2"},
+{"votes":244309,"id":"3"}],
 "final":"2"}}},
 "abbr":"ME"}}
