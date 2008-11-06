@@ -374,7 +374,7 @@
 {"votes":28,"id":"12619"}],
 "total":10272,"final":"1918"}}},
 "precincts":
-{"total":6,"reporting":5},
+{"total":6,"reporting":6},
 "name":"Malheur"},
 "Deschutes":
 {"fips":"41017","races":
@@ -543,7 +543,7 @@
 "name":"Polk"}},
 "totals":
 {"name":"Oregon","precincts":
-{"total":1000,"reporting":781},
+{"total":1000,"reporting":782},
 "electoral":7,"races":
 {"U.S. House":
 {"1":
