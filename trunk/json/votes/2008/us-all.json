@@ -3119,7 +3119,7 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":255987,"id":"581"},
+{"votes":255988,"id":"581"},
 {"votes":122951,"id":"58308"}],
 "final":"581"}},
 "President":
@@ -3135,12 +3135,12 @@
 {"J-Eliminate Term Limits":
 {"votes":[
 {"votes":272578,"id":"3"},
-{"votes":87365,"id":"2"}],
+{"votes":87366,"id":"2"}],
 "final":"3"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":237831,"id":"189"},
+{"votes":237832,"id":"189"},
 {"votes":142764,"id":"58077"}],
 "final":"189"}},
 "Initiative":
