@@ -499,17 +499,17 @@
 {"President":
 {"":
 {"votes":[
-{"votes":20604,"id":"1918"},
-{"votes":16146,"id":"1701"},
-{"votes":348,"id":"3850"},
-{"votes":140,"id":"11527"},
-{"votes":91,"id":"59208"},
-{"votes":56,"id":"12619"},
+{"votes":21725,"id":"1918"},
+{"votes":17012,"id":"1701"},
+{"votes":369,"id":"3850"},
+{"votes":152,"id":"11527"},
+{"votes":104,"id":"59208"},
+{"votes":58,"id":"12619"},
 {"votes":12,"id":"7623"},
 {"votes":7,"id":"3486"}],
-"total":37404,"final":"1918"}}},
+"total":39439,"final":"1918"}}},
 "precincts":
-{"total":122,"reporting":87},
+{"total":122,"reporting":92},
 "name":"Skagit"},
 "Skamania":
 {"fips":"53059","races":
@@ -666,7 +666,7 @@
 "name":"Asotin"}},
 "totals":
 {"name":"Washington","precincts":
-{"total":6719,"reporting":4481},
+{"total":6719,"reporting":4486},
 "electoral":11,"races":
 {"U.S. House":
 {"1":
