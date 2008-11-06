@@ -518,14 +518,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":6741,"id":"1701"},
-{"votes":5381,"id":"1918"},
+{"votes":6737,"id":"1701"},
+{"votes":5379,"id":"1918"},
 {"votes":235,"id":"3850"},
 {"votes":83,"id":"59208"},
 {"votes":27,"id":"12619"},
 {"votes":21,"id":"11527"},
 {"votes":6,"id":"51183"}],
-"total":12494,"final":"1918"}}},
+"total":12488,"final":"1918"}}},
 "precincts":
 {"total":30,"reporting":30},
 "name":"Meeker"},
