@@ -1,4 +1,4 @@
-{"state":"IN","total":2737551,"candidates":
+{"state":"IN","total":2738359,"candidates":
 {"59385":"GOP|Goode|Greg Goode","49997":"GOP|Daniels|Mitch Daniels","18669":"GOP|Buyer|Steve Buyer","51511":"Dem|Welsh|Barry Welsh","51513":"Dem|Ellsworth|Brad Ellsworth","11527":"Lib|Barr|Bob Barr","51514":"Lib|Schansberg|D. Eric Schansberg","50000":"Dem|Donnelly|Joe Donnelly","59368":"Dem|Montagano|Michael Montagano","18954":"Lib|Larsen|William Larsen","429":"GOP|Burton|Dan Burton","732":"Lib|Horning|Andy Horning","422":"Dem|Visclosky|Peter Visclosky","1295":"Dem|Hill|Baron Hill","57849":"Dem|Carson|Andre Carson","59632":"GOP|Campo|Gabrielle Campo","1918":"Dem|Obama|Barack Obama","59421":"Lib|Duensing|Jeff Duensing","59423":"GOP|Puckett|Luke Puckett","59422":"Lib|Vogel|Mark Vogel","1701":"GOP|McCain|John McCain","1287":"GOP|Leyva|Mark Leyva","59370":"Dem|Ackerson|Nels Ackerson","59373":"Dem|Ruley|Mary Ruley","1289":"Dem|Thompson|Jill Thompson","436":"GOP|Sodrel|Mike Sodrel","18907":"Lib|Holland|George Holland","426":"GOP|Souder|Mark Souder","431":"GOP|Pence|Mike Pence"},
 "locals":
 {"Daviess":
@@ -306,12 +306,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":77102,"id":"1701"},
-{"votes":70844,"id":"1918"},
-{"votes":1109,"id":"11527"}],
-"total":149055,"final":"1918"}}},
+{"votes":77668,"id":"1701"},
+{"votes":71083,"id":"1918"},
+{"votes":1112,"id":"11527"}],
+"total":149863,"final":"1918"}}},
 "precincts":
-{"total":294,"reporting":287},
+{"total":294,"reporting":294},
 "name":"Allen"},
 "Warren":
 {"fips":"18171","races":
@@ -1107,7 +1107,7 @@
 "name":"Steuben"}},
 "totals":
 {"name":"Indiana","precincts":
-{"total":5230,"reporting":5223},
+{"total":5230,"reporting":5230},
 "electoral":11,"races":
 {"U.S. House":
 {"1":
@@ -1118,9 +1118,9 @@
 "final":"422"},
 "3":
 {"votes":[
-{"votes":155045,"id":"426"},
-{"votes":111938,"id":"59368"},
-{"votes":14829,"id":"18954"}],
+{"votes":155512,"id":"426"},
+{"votes":112091,"id":"59368"},
+{"votes":14861,"id":"18954"}],
 "final":"426"},
 "2":
 {"votes":[
@@ -1145,9 +1145,9 @@
 "final":"57849"},
 "6":
 {"votes":[
-{"votes":180424,"id":"431"},
-{"votes":94190,"id":"51511"},
-{"votes":7528,"id":"18907"}],
+{"votes":180549,"id":"431"},
+{"votes":94223,"id":"51511"},
+{"votes":7534,"id":"18907"}],
 "final":"431"},
 "9":
 {"votes":[
@@ -1163,15 +1163,15 @@
 "President":
 {"":
 {"votes":[
-{"votes":1367264,"electoral":11,"id":"1918"},
-{"votes":1341101,"electoral":0,"id":"1701"},
-{"votes":29186,"electoral":0,"id":"11527"}],
+{"votes":1367503,"electoral":11,"id":"1918"},
+{"votes":1341667,"electoral":0,"id":"1701"},
+{"votes":29189,"electoral":0,"id":"11527"}],
 "final":"1918"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1557965,"id":"49997"},
-{"votes":1078448,"id":"1289"},
-{"votes":57193,"id":"732"}],
+{"votes":1558609,"id":"49997"},
+{"votes":1078609,"id":"1289"},
+{"votes":57207,"id":"732"}],
 "final":"49997"}}},
 "abbr":"IN"}}
