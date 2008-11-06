@@ -1,4 +1,4 @@
-{"state":"NM","total":805083,"candidates":
+{"state":"NM","total":810432,"candidates":
 {"1701":"GOP|McCain|John McCain","32103":"GOP|Tinsley|Edward Tinsley","1918":"Dem|Obama|Barack Obama","31836":"Ind|Miller|Carol Miller","31918":"GOP|Pearce|Steve Pearce","577":"Dem|Udall|Tom Udall","59208":"AKI|Baldwin|Chuck Baldwin","59494":"Dem|Teague|Harry Teague","59495":"GOP|East|Daniel East","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","59492":"Dem|Heinrich|Martin Heinrich","59493":"GOP|White|Darren White","56805":"Dem|Lujan|Ben R. Lujan","12619":"Grn|McKinney|Cynthia McKinney"},
 "locals":
 {"San Juan":
@@ -6,13 +6,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":23724,"id":"1701"},
-{"votes":16084,"id":"1918"},
-{"votes":262,"id":"3850"},
-{"votes":92,"id":"11527"},
-{"votes":88,"id":"59208"},
-{"votes":72,"id":"12619"}],
-"total":40322,"final":"1918"}}},
+{"votes":27418,"id":"1701"},
+{"votes":17645,"id":"1918"},
+{"votes":308,"id":"3850"},
+{"votes":114,"id":"11527"},
+{"votes":104,"id":"59208"},
+{"votes":82,"id":"12619"}],
+"total":45671,"final":"1918"}}},
 "precincts":
 {"total":72,"reporting":72},
 "name":"San Juan"},
@@ -510,9 +510,9 @@
 "final":"59492"},
 "3":
 {"votes":[
-{"votes":154801,"id":"56805"},
-{"votes":82039,"id":"59495"},
-{"votes":34815,"id":"31836"}],
+{"votes":156342,"id":"56805"},
+{"votes":85139,"id":"59495"},
+{"votes":35420,"id":"31836"}],
 "final":"56805"},
 "2":
 {"votes":[
@@ -522,17 +522,17 @@
 "President":
 {"":
 {"votes":[
-{"votes":457656,"electoral":5,"id":"1918"},
-{"votes":336891,"electoral":0,"id":"1701"},
-{"votes":5097,"electoral":0,"id":"3850"},
-{"votes":2349,"electoral":0,"id":"11527"},
-{"votes":1555,"electoral":0,"id":"59208"},
-{"votes":1535,"electoral":0,"id":"12619"}],
+{"votes":459217,"electoral":5,"id":"1918"},
+{"votes":340585,"electoral":0,"id":"1701"},
+{"votes":5143,"electoral":0,"id":"3850"},
+{"votes":2371,"electoral":0,"id":"11527"},
+{"votes":1571,"electoral":0,"id":"59208"},
+{"votes":1545,"electoral":0,"id":"12619"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":488670,"id":"577"},
-{"votes":309309,"id":"31918"}],
+{"votes":490702,"id":"577"},
+{"votes":312599,"id":"31918"}],
 "final":"577"}}},
 "abbr":"NM"}}
