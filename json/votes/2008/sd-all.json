@@ -1,4 +1,4 @@
-{"state":"SD","total":381891,"candidates":
+{"state":"SD","total":381896,"candidates":
 {"1701":"GOP|McCain|John McCain","189":"Dem|Johnson|Tim Johnson","581":"Dem|Herseth Sandlin|Stephanie Herseth Sandlin","59208":"AKI|Baldwin|Chuck Baldwin","1918":"Dem|Obama|Barack Obama","3":"|No| No","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","2":"|Yes| Yes","58077":"GOP|Dykstra|Joel Dykstra","58308":"GOP|Lien|Chris Lien"},
 "locals":
 {"Bon Homme":
@@ -692,12 +692,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":668,"id":"1701"},
+{"votes":669,"id":"1701"},
 {"votes":500,"id":"1918"},
 {"votes":26,"id":"3850"},
 {"votes":7,"id":"59208"},
 {"votes":5,"id":"11527"}],
-"total":1206,"final":"1701"}}},
+"total":1207,"final":"1701"}}},
 "precincts":
 {"total":7,"reporting":7},
 "name":"Sanborn"},
@@ -734,12 +734,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":2347,"id":"1701"},
-{"votes":1335,"id":"1918"},
+{"votes":2348,"id":"1701"},
+{"votes":1338,"id":"1918"},
 {"votes":54,"id":"3850"},
 {"votes":43,"id":"59208"},
 {"votes":26,"id":"11527"}],
-"total":3805,"final":"1701"}}},
+"total":3809,"final":"1701"}}},
 "precincts":
 {"total":16,"reporting":16},
 "name":"Fall River"},
@@ -932,14 +932,14 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":255984,"id":"581"},
-{"votes":122948,"id":"58308"}],
+{"votes":255987,"id":"581"},
+{"votes":122951,"id":"58308"}],
 "final":"581"}},
 "President":
 {"":
 {"votes":[
-{"votes":203014,"electoral":3,"id":"1701"},
-{"votes":170880,"electoral":0,"id":"1918"},
+{"votes":203016,"electoral":3,"id":"1701"},
+{"votes":170883,"electoral":0,"id":"1918"},
 {"votes":4267,"electoral":0,"id":"3850"},
 {"votes":1895,"electoral":0,"id":"59208"},
 {"votes":1835,"electoral":0,"id":"11527"}],
@@ -947,19 +947,19 @@
 "Amendment":
 {"J-Eliminate Term Limits":
 {"votes":[
-{"votes":272574,"id":"3"},
-{"votes":87364,"id":"2"}],
+{"votes":272578,"id":"3"},
+{"votes":87365,"id":"2"}],
 "final":"3"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":237825,"id":"189"},
+{"votes":237831,"id":"189"},
 {"votes":142764,"id":"58077"}],
 "final":"189"}},
 "Initiative":
 {"11-Abortion Ban":
 {"votes":[
-{"votes":206483,"id":"3"},
-{"votes":167530,"id":"2"}],
+{"votes":206485,"id":"3"},
+{"votes":167534,"id":"2"}],
 "final":"3"}}},
 "abbr":"SD"}}

@@ -1,4 +1,4 @@
-{"state":"MN","total":2900593,"candidates":
+{"state":"MN","total":2900617,"candidates":
 {"59601":"GOP|Davis|Brian Davis","59603":"Dem|Madia|Ashwin Madia","59602":"Inp|Dillon|David Dillon","59605":"GOP|Davis White|Barb Davis White","59604":"GOP|Matthews|Ed Matthews","55265":"Dem|Ellison|Keith Ellison","59606":"Dem|Tinklenberg|El Tinklenberg","59609":"Dem|Sarvi|Steve Sarvi","59608":"Dem|Franken|Al Franken","985":"GOP|Kline|John Kline","989":"Dem|McCollum|Betty McCollum","12619":"Grn|McKinney|Cynthia McKinney","51531":"Dem|Walz|Tim Walz","59607":"GOP|Cummins|Michael Cummins","59680":"CST|Niemackl|James Niemackl","59208":"AKI|Baldwin|Chuck Baldwin","55233":"GOP|Paulsen|Erik Paulsen","3850":"Ind|Nader|Ralph Nader","59610":"Inp|Anderson|Bob Anderson","996":"Dem|Oberstar|James Oberstar","1330":"Inp|Mikkelson|Gregory Mikkelson","1333":"Dem|Peterson|Collin Peterson","55336":"GOP|Bachmann|Michele Bachmann","1918":"Dem|Obama|Barack Obama","26543":"Inp|McGaughey|Bill McGaughey","51525":"Lib|Aldrich|Charles Aldrich","972":"GOP|Coleman|Norm Coleman","1701":"GOP|McCain|John McCain","51183":"SWP|Calero|Roger Calero","26560":"GOP|Menze|Glen Menze","59679":"Inp|Barkley|Dean Barkley","11527":"Lib|Barr|Bob Barr"},
 "locals":
 {"Red Lake":
@@ -518,14 +518,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":6737,"id":"1701"},
-{"votes":5380,"id":"1918"},
+{"votes":6741,"id":"1701"},
+{"votes":5381,"id":"1918"},
 {"votes":235,"id":"3850"},
 {"votes":83,"id":"59208"},
 {"votes":27,"id":"12619"},
 {"votes":21,"id":"11527"},
 {"votes":6,"id":"51183"}],
-"total":12489,"final":"1918"}}},
+"total":12494,"final":"1918"}}},
 "precincts":
 {"total":30,"reporting":30},
 "name":"Meeker"},
@@ -711,13 +711,13 @@
 {"":
 {"votes":[
 {"votes":16307,"id":"1918"},
-{"votes":10970,"id":"1701"},
+{"votes":10972,"id":"1701"},
 {"votes":295,"id":"3850"},
 {"votes":106,"id":"11527"},
 {"votes":75,"id":"59208"},
 {"votes":57,"id":"12619"},
 {"votes":8,"id":"51183"}],
-"total":27818,"final":"1918"}}},
+"total":27820,"final":"1918"}}},
 "precincts":
 {"total":49,"reporting":49},
 "name":"Winona"},
@@ -726,14 +726,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":182950,"id":"1918"},
-{"votes":88927,"id":"1701"},
+{"votes":182961,"id":"1918"},
+{"votes":88933,"id":"1701"},
 {"votes":2491,"id":"3850"},
 {"votes":963,"id":"11527"},
 {"votes":536,"id":"12619"},
 {"votes":515,"id":"59208"},
 {"votes":90,"id":"51183"}],
-"total":276472,"final":"1918"}}},
+"total":276489,"final":"1918"}}},
 "precincts":
 {"total":178,"reporting":178},
 "name":"Ramsey"},
@@ -1425,13 +1425,13 @@
 "final":"55265"},
 "4":
 {"votes":[
-{"votes":216250,"id":"989"},
-{"votes":98928,"id":"59604"}],
+{"votes":216258,"id":"989"},
+{"votes":98929,"id":"59604"}],
 "final":"989"},
 "7":
 {"votes":[
-{"votes":227180,"id":"1333"},
-{"votes":87057,"id":"26560"}],
+{"votes":227184,"id":"1333"},
+{"votes":87058,"id":"26560"}],
 "final":"1333"},
 "6":
 {"votes":[
@@ -1447,8 +1447,8 @@
 "President":
 {"":
 {"votes":[
-{"votes":1573129,"electoral":10,"id":"1918"},
-{"votes":1275347,"electoral":0,"id":"1701"},
+{"votes":1573141,"electoral":10,"id":"1918"},
+{"votes":1275359,"electoral":0,"id":"1701"},
 {"votes":30154,"electoral":0,"id":"3850"},
 {"votes":9176,"electoral":0,"id":"11527"},
 {"votes":6787,"electoral":0,"id":"59208"},
@@ -1458,9 +1458,9 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1211520,"id":"972"},
-{"votes":1211081,"id":"59608"},
-{"votes":437345,"id":"59679"},
+{"votes":1211530,"id":"972"},
+{"votes":1211089,"id":"59608"},
+{"votes":437346,"id":"59679"},
 {"votes":13916,"id":"51525"},
 {"votes":8906,"id":"59680"}]}}},
 "abbr":"MN"}}
