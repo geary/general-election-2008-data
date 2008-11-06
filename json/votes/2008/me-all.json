@@ -4452,13 +4452,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":0,"id":"1918"},
-{"votes":0,"id":"12619"},
-{"votes":0,"id":"3850"},
-{"votes":0,"id":"1701"}],
-"total":0,"final":"1918"}}},
+{"votes":236,"id":"1918"},
+{"votes":213,"id":"1701"},
+{"votes":4,"id":"3850"},
+{"votes":2,"id":"12619"}],
+"total":455,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"New Portland"},
 "Mercer":
 {"fips":"23025","races":
@@ -6752,7 +6752,7 @@
 {"name":"Maine","electoral":4,"fix":
 {},
 "precincts":
-{"total":613,"reporting":594},
+{"total":613,"reporting":595},
 "races":
 {"U.S. House":
 {"1":
