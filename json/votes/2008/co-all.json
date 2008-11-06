@@ -1,4 +1,4 @@
-{"state":"CO","total":2113208,"candidates":
+{"state":"CO","total":2172446,"candidates":
 {"1224":"Dem|Udall|Mark Udall","9344":"Dem|Salazar|John Salazar","59791":"AmC|Scott|Brian Scott","746":"GOP|Musgrave|Marilyn Musgrave","59790":"Uty|Hammons|Bill Hammons","59788":"Lib|Buchanan|Martin Buchanan","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","59348":"Dem|Markey|Betsy Markey","59349":"Dem|Bidlack|Hal Bidlack","59661":"PCF|Lyttle|Bradford Lyttle","59660":"Obj|Stevens|Thomas Stevens","9302":"Dem|Polis|Jared Polis","1222":"AmC|Campbell|Douglas Campbell","59060":"GOP|Wolf|Wayne Wolf","59208":"AKI|Baldwin|Chuck Baldwin","3":"|No| No","2":"|Yes| Yes","734":"Dem|DeGette|Diana DeGette","3850":"Ind|Nader|Ralph Nader","3635":"AIP|Keyes|Alan Keyes","737":"GOP|Lilly|George Lilly","9358":"GOP|Schaffer|Bob Schaffer","3486":"SWP|Harris|James Harris","1918":"Dem|Obama|Barack Obama","51991":"Grn|Calhoun|J. A. Calhoun","59351":"GOP|Lerew|John Lerew","59350":"Dem|Eng|Hank Eng","9174":"GOP|Lamborn|Doug Lamborn","1701":"GOP|McCain|John McCain","9291":"Dem|Perlmutter|Ed Perlmutter","57761":"Una|McEnulty|Frank McEnulty","8993":"GOP|Coffman|Mike Coffman","59056":"GOP|Starin|Scott Starin","7623":"PSL|La Riva|Gloria La Riva","1243":"SPU|Moore|Brian Moore","59783":"Grn|Kinsey|Bob Kinsey","51335":"BoT|Jay|Charles Jay","59659":"HQ8|Allen|Jonathan Allen","51331":"Pro|Amondson|Gene Amondson"},
 "locals":
 {"San Juan":
@@ -956,25 +956,25 @@
 {"President":
 {"":
 {"votes":[
-{"votes":55233,"id":"1918"},
-{"votes":39070,"id":"1701"},
-{"votes":697,"id":"3850"},
-{"votes":431,"id":"11527"},
-{"votes":277,"id":"59208"},
-{"votes":210,"id":"3635"},
-{"votes":120,"id":"12619"},
-{"votes":70,"id":"57761"},
-{"votes":18,"id":"51335"},
-{"votes":13,"id":"59659"},
-{"votes":8,"id":"1243"},
-{"votes":6,"id":"59660"},
-{"votes":5,"id":"3486"},
-{"votes":4,"id":"51331"},
-{"votes":3,"id":"7623"},
-{"votes":3,"id":"59661"}],
-"total":96168,"final":"1918"}}},
+{"votes":90113,"id":"1918"},
+{"votes":62321,"id":"1701"},
+{"votes":1073,"id":"3850"},
+{"votes":705,"id":"11527"},
+{"votes":447,"id":"59208"},
+{"votes":336,"id":"3635"},
+{"votes":210,"id":"12619"},
+{"votes":86,"id":"57761"},
+{"votes":28,"id":"51335"},
+{"votes":24,"id":"59659"},
+{"votes":16,"id":"1243"},
+{"votes":14,"id":"3486"},
+{"votes":12,"id":"59660"},
+{"votes":8,"id":"51331"},
+{"votes":7,"id":"59661"},
+{"votes":6,"id":"7623"}],
+"total":155406,"final":"1918"}}},
 "precincts":
-{"total":216,"reporting":130},
+{"total":216,"reporting":210},
 "name":"Adams"},
 "Montezuma":
 {"fips":"08083","races":
@@ -1603,7 +1603,7 @@
 "name":"Las Animas"}},
 "totals":
 {"name":"Colorado","precincts":
-{"total":3215,"reporting":2962},
+{"total":3215,"reporting":3042},
 "electoral":9,"races":
 {"U.S. House":
 {"1":
@@ -1619,10 +1619,10 @@
 "final":"9344"},
 "2":
 {"votes":[
-{"votes":136800,"id":"9302"},
-{"votes":84130,"id":"59056"},
-{"votes":6522,"id":"51991"},
-{"votes":1398,"id":"59790"}],
+{"votes":157563,"id":"9302"},
+{"votes":96729,"id":"59056"},
+{"votes":7465,"id":"51991"},
+{"votes":1764,"id":"59790"}],
 "final":"9302"},
 "5":
 {"votes":[
@@ -1637,8 +1637,8 @@
 "final":"59348"},
 "7":
 {"votes":[
-{"votes":152515,"id":"9291"},
-{"votes":88756,"id":"59351"}],
+{"votes":164416,"id":"9291"},
+{"votes":96191,"id":"59351"}],
 "final":"9291"},
 "6":
 {"votes":[
@@ -1648,28 +1648,28 @@
 "President":
 {"":
 {"votes":[
-{"votes":1110668,"electoral":9,"id":"1918"},
-{"votes":968508,"electoral":0,"id":"1701"},
-{"votes":11626,"electoral":0,"id":"3850"},
-{"votes":9415,"electoral":0,"id":"11527"},
-{"votes":5454,"electoral":0,"id":"59208"},
-{"votes":2656,"electoral":0,"id":"3635"},
-{"votes":2405,"electoral":0,"id":"12619"},
-{"votes":745,"electoral":0,"id":"57761"},
-{"votes":526,"electoral":0,"id":"51335"},
-{"votes":281,"electoral":0,"id":"59660"},
-{"votes":280,"electoral":0,"id":"59659"},
-{"votes":200,"electoral":0,"id":"1243"},
-{"votes":142,"electoral":0,"id":"7623"},
-{"votes":130,"electoral":0,"id":"3486"},
-{"votes":98,"electoral":0,"id":"59661"},
-{"votes":74,"electoral":0,"id":"51331"}],
+{"votes":1145548,"electoral":9,"id":"1918"},
+{"votes":991759,"electoral":0,"id":"1701"},
+{"votes":12002,"electoral":0,"id":"3850"},
+{"votes":9689,"electoral":0,"id":"11527"},
+{"votes":5624,"electoral":0,"id":"59208"},
+{"votes":2782,"electoral":0,"id":"3635"},
+{"votes":2495,"electoral":0,"id":"12619"},
+{"votes":761,"electoral":0,"id":"57761"},
+{"votes":536,"electoral":0,"id":"51335"},
+{"votes":291,"electoral":0,"id":"59659"},
+{"votes":287,"electoral":0,"id":"59660"},
+{"votes":208,"electoral":0,"id":"1243"},
+{"votes":145,"electoral":0,"id":"7623"},
+{"votes":139,"electoral":0,"id":"3486"},
+{"votes":102,"electoral":0,"id":"59661"},
+{"votes":78,"electoral":0,"id":"51331"}],
 "final":"1918"}},
 "Amendment":
 {"47-Conditions of Emplymt":
 {"votes":[
-{"votes":1112223,"id":"3"},
-{"votes":906250,"id":"2"}]},
+{"votes":1148903,"id":"3"},
+{"votes":925702,"id":"2"}]},
 "48-Definition of Person":
 {"votes":[
 {"votes":1482413,"id":"3"},
@@ -1677,14 +1677,14 @@
 "final":"3"},
 "46-Discrimination by Gov":
 {"votes":[
-{"votes":996646,"id":"3"},
-{"votes":982573,"id":"2"}]}},
+{"votes":1025010,"id":"3"},
+{"votes":1008270,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1066555,"id":"1224"},
-{"votes":891600,"id":"9358"},
-{"votes":53086,"id":"1222"},
-{"votes":43637,"id":"59783"}],
+{"votes":1098975,"id":"1224"},
+{"votes":912857,"id":"9358"},
+{"votes":54995,"id":"1222"},
+{"votes":44997,"id":"59783"}],
 "final":"1224"}}},
 "abbr":"CO"}}
