@@ -1,4 +1,4 @@
-{"state":"ME","total":713546,"candidates":
+{"state":"ME","total":715217,"candidates":
 {"59612":"GOP|Summers|Charlie Summers","59613":"Dem|Pingree|Chellie Pingree","585":"Dem|Michaud|Mike Michaud","12619":"Grn|McKinney|Cynthia McKinney","59614":"GOP|Frary|John Frary","1701":"GOP|McCain|John McCain","1317":"Dem|Allen|Tom Allen","1727":"GOP|Collins|Susan Collins","1918":"Dem|Obama|Barack Obama","3":"|No| No","2":"|Yes| Yes","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Baring Plt.":
@@ -175,13 +175,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":0,"id":"1918"},
-{"votes":0,"id":"12619"},
-{"votes":0,"id":"3850"},
-{"votes":0,"id":"1701"}],
-"total":0,"final":"1918"}}},
+{"votes":839,"id":"1701"},
+{"votes":796,"id":"1918"},
+{"votes":31,"id":"3850"},
+{"votes":5,"id":"12619"}],
+"total":1671,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Bowdoin"},
 "Macwahoc Plt.":
 {"fips":"23003","races":
@@ -6752,13 +6752,13 @@
 {"name":"Maine","electoral":4,"fix":
 {},
 "precincts":
-{"total":613,"reporting":596},
+{"total":613,"reporting":597},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":192784,"id":"59613"},
-{"votes":157881,"id":"59612"}],
+{"votes":193524,"id":"59613"},
+{"votes":158790,"id":"59612"}],
 "final":"59613"},
 "2":
 {"votes":[
@@ -6768,16 +6768,16 @@
 "President":
 {"":
 {"votes":[
-{"votes":411342,"electoral":4,"id":"1918"},
-{"votes":288844,"electoral":0,"id":"1701"},
-{"votes":10526,"electoral":0,"id":"3850"},
-{"votes":2834,"electoral":0,"id":"12619"}],
+{"votes":412138,"electoral":4,"id":"1918"},
+{"votes":289683,"electoral":0,"id":"1701"},
+{"votes":10557,"electoral":0,"id":"3850"},
+{"votes":2839,"electoral":0,"id":"12619"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":433609,"id":"1727"},
-{"votes":272093,"id":"1317"}],
+{"votes":434799,"id":"1727"},
+{"votes":272575,"id":"1317"}],
 "final":"1727"}},
 "Question":
 {"1-Veto Tax on Drinks & Insurance":
