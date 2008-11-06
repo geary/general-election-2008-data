@@ -314,7 +314,7 @@
 {"votes":32,"id":"12619"}],
 "total":12507,"final":"1918"}}},
 "precincts":
-{"total":10,"reporting":6},
+{"total":10,"reporting":10},
 "name":"Clatsop"},
 "Benton":
 {"fips":"41003","races":
@@ -543,7 +543,7 @@
 "name":"Polk"}},
 "totals":
 {"name":"Oregon","precincts":
-{"total":1000,"reporting":767},
+{"total":1000,"reporting":771},
 "electoral":7,"races":
 {"U.S. House":
 {"1":
