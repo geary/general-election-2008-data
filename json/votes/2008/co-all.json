@@ -974,7 +974,7 @@
 {"votes":6,"id":"7623"}],
 "total":155406,"final":"1918"}}},
 "precincts":
-{"total":216,"reporting":210},
+{"total":216,"reporting":216},
 "name":"Adams"},
 "Montezuma":
 {"fips":"08083","races":
@@ -1603,7 +1603,7 @@
 "name":"Las Animas"}},
 "totals":
 {"name":"Colorado","precincts":
-{"total":3215,"reporting":3188},
+{"total":3215,"reporting":3194},
 "electoral":9,"races":
 {"U.S. House":
 {"1":
