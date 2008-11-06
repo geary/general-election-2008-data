@@ -1,4 +1,4 @@
-{"state":"MO","total":2916663,"candidates":
+{"state":"MO","total":2916792,"candidates":
 {"1342":"GOP|Graves|Sam Graves","1343":"GOP|Blunt|Roy Blunt","954":"GOP|Hulshof|Kenny Hulshof","11527":"Lib|Barr|Bob Barr","59472":"GOP|Sander|Chris Sander","50053":"GOP|Parnell|Jeff Parnell","51616":"Lib|McCullough|Branden McCullough","951":"GOP|Emerson|Jo Ann Emerson","1852":"Dem|Carnahan|Russ Carnahan","59208":"AKI|Baldwin|Chuck Baldwin","3":"|No| No","2":"|Yes| Yes","3850":"Ind|Nader|Ralph Nader","51610":"Lib|Cunningham|Robb Cunningham","50436":"Lib|Craig|Kevin Craig","50040":"Dem|Cleaver|Emanuel Cleaver","51614":"GOP|Turk|Jacob Turk","934":"Lib|Millay|Tamara Millay","55466":"GOP|Luetkemeyer|Blaine Luetkemeyer","59483":"Dem|Monroe|Richard Monroe","59482":"Lib|Browning|Dave Browning","1337":"Dem|Clay|Lacy Clay","59480":"Dem|Barnes|Kay Barnes","59486":"Dem|Baker|Judy Baker","59485":"Dem|Allen|Joe Allen","28829":"Lib|Babcock|Kevin Babcock","59468":"Dem|Haas|Bill Haas","59467":"Lib|Finkenstadt|Andrew Finkenstadt","29087":"Lib|Knapp|Thomas Knapp","1701":"GOP|McCain|John McCain","1918":"Dem|Obama|Barack Obama","937":"GOP|Akin|Todd Akin","942":"Dem|Skelton|Ike Skelton","59832":"CST|Redburn|Cindy Redburn","59833":"CST|Maddox|Travis Maddox","59831":"CST|Thompson|Gregory Thompson","50510":"CST|Smith|Richard Smith","29169":"Dem|Nixon|Jay Nixon"},
 "locals":
 {"Daviess":
@@ -720,12 +720,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":54425,"id":"1701"},
-{"votes":53651,"id":"1918"},
+{"votes":54485,"id":"1701"},
+{"votes":53720,"id":"1918"},
 {"votes":636,"id":"3850"},
 {"votes":384,"id":"11527"},
 {"votes":303,"id":"59208"}],
-"total":109399}}},
+"total":109528}}},
 "precincts":
 {"total":78,"reporting":78},
 "name":"Clay"},
@@ -1675,8 +1675,8 @@
 "President":
 {"":
 {"votes":[
-{"votes":1442613,"electoral":0,"id":"1701"},
-{"votes":1436745,"electoral":0,"id":"1918"},
+{"votes":1442673,"electoral":0,"id":"1701"},
+{"votes":1436814,"electoral":0,"id":"1918"},
 {"votes":17769,"electoral":0,"id":"3850"},
 {"votes":11355,"electoral":0,"id":"11527"},
 {"votes":8181,"electoral":0,"id":"59208"}]}},
