@@ -2203,13 +2203,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":0,"id":"1918"},
-{"votes":0,"id":"12619"},
-{"votes":0,"id":"3850"},
-{"votes":0,"id":"1701"}],
-"total":0,"final":"1918"}}},
+{"votes":1996,"id":"1918"},
+{"votes":1578,"id":"1701"},
+{"votes":64,"id":"3850"},
+{"votes":13,"id":"12619"}],
+"total":3651,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Waterboro"},
 "Montville":
 {"fips":"23027","races":
@@ -6752,7 +6752,7 @@
 {"name":"Maine","electoral":4,"fix":
 {},
 "precincts":
-{"total":613,"reporting":589},
+{"total":613,"reporting":590},
 "races":
 {"U.S. House":
 {"1":
