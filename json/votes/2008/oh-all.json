@@ -91,17 +91,17 @@
 {"President":
 {"":
 {"votes":[
-{"votes":132375,"id":"1918"},
-{"votes":119026,"id":"1701"},
-{"votes":1595,"id":"3850"},
-{"votes":887,"id":"11527"},
-{"votes":439,"id":"59208"},
-{"votes":341,"id":"12619"},
+{"votes":136110,"id":"1918"},
+{"votes":123040,"id":"1701"},
+{"votes":1637,"id":"3850"},
+{"votes":919,"id":"11527"},
+{"votes":462,"id":"59208"},
+{"votes":355,"id":"12619"},
 {"votes":136,"id":"56224"},
-{"votes":128,"id":"1243"}],
-"total":254927,"final":"1918"}}},
+{"votes":132,"id":"1243"}],
+"total":262791,"final":"1918"}}},
 "precincts":
-{"total":548,"reporting":356},
+{"total":548,"reporting":548},
 "name":"Montgomery"},
 "Wayne":
 {"fips":"39169","races":
@@ -1499,7 +1499,7 @@
 "name":"Monroe"}},
 "totals":
 {"name":"Ohio","precincts":
-{"total":11156,"reporting":10964},
+{"total":11156,"reporting":11156},
 "electoral":20,"races":
 {"U.S. House":
 {"11":
