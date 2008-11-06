@@ -1,4 +1,4 @@
-{"state":"ME","total":716271,"candidates":
+{"state":"ME","total":717564,"candidates":
 {"59612":"GOP|Summers|Charlie Summers","59613":"Dem|Pingree|Chellie Pingree","585":"Dem|Michaud|Mike Michaud","12619":"Grn|McKinney|Cynthia McKinney","59614":"GOP|Frary|John Frary","1701":"GOP|McCain|John McCain","1317":"Dem|Allen|Tom Allen","1727":"GOP|Collins|Susan Collins","1918":"Dem|Obama|Barack Obama","3":"|No| No","2":"|Yes| Yes","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Baring Plt.":
@@ -4894,11 +4894,11 @@
 {"President":
 {"":
 {"votes":[
-{"votes":27240,"id":"1918"},
-{"votes":7595,"id":"1701"},
-{"votes":480,"id":"3850"},
-{"votes":140,"id":"12619"}],
-"total":35455,"final":"1918"}}},
+{"votes":28272,"id":"1918"},
+{"votes":7833,"id":"1701"},
+{"votes":500,"id":"3850"},
+{"votes":143,"id":"12619"}],
+"total":36748,"final":"1918"}}},
 "precincts":
 {"total":18,"reporting":18},
 "name":"Portland"},
@@ -6757,8 +6757,8 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":194014,"id":"59613"},
-{"votes":159307,"id":"59612"}],
+{"votes":194926,"id":"59613"},
+{"votes":159625,"id":"59612"}],
 "final":"59613"},
 "2":
 {"votes":[
@@ -6768,21 +6768,21 @@
 "President":
 {"":
 {"votes":[
-{"votes":412598,"electoral":4,"id":"1918"},
-{"votes":290265,"electoral":0,"id":"1701"},
-{"votes":10564,"electoral":0,"id":"3850"},
-{"votes":2844,"electoral":0,"id":"12619"}],
+{"votes":413630,"electoral":4,"id":"1918"},
+{"votes":290503,"electoral":0,"id":"1701"},
+{"votes":10584,"electoral":0,"id":"3850"},
+{"votes":2847,"electoral":0,"id":"12619"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":435594,"id":"1727"},
-{"votes":272844,"id":"1317"}],
+{"votes":436026,"id":"1727"},
+{"votes":273655,"id":"1317"}],
 "final":"1727"}},
 "Question":
 {"1-Veto Tax on Drinks & Insurance":
 {"votes":[
-{"votes":448805,"id":"2"},
-{"votes":248940,"id":"3"}],
+{"votes":449471,"id":"2"},
+{"votes":249512,"id":"3"}],
 "final":"2"}}},
 "abbr":"ME"}}
