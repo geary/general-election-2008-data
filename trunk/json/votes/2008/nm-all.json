@@ -1,4 +1,4 @@
-{"state":"NM","total":801860,"candidates":
+{"state":"NM","total":805082,"candidates":
 {"1701":"GOP|McCain|John McCain","32103":"GOP|Tinsley|Edward Tinsley","1918":"Dem|Obama|Barack Obama","31836":"Ind|Miller|Carol Miller","31918":"GOP|Pearce|Steve Pearce","577":"Dem|Udall|Tom Udall","59208":"AKI|Baldwin|Chuck Baldwin","59494":"Dem|Teague|Harry Teague","59495":"GOP|East|Daniel East","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","59492":"Dem|Heinrich|Martin Heinrich","59493":"GOP|White|Darren White","56805":"Dem|Lujan|Ben R. Lujan","12619":"Grn|McKinney|Cynthia McKinney"},
 "locals":
 {"San Juan":
@@ -516,23 +516,23 @@
 "final":"56805"},
 "2":
 {"votes":[
-{"votes":122181,"id":"59494"},
-{"votes":98119,"id":"32103"}],
+{"votes":124006,"id":"59494"},
+{"votes":99451,"id":"32103"}],
 "final":"59494"}},
 "President":
 {"":
 {"votes":[
-{"votes":456185,"electoral":5,"id":"1918"},
-{"votes":335196,"electoral":0,"id":"1701"},
-{"votes":5071,"electoral":0,"id":"3850"},
-{"votes":2332,"electoral":0,"id":"11527"},
-{"votes":1545,"electoral":0,"id":"59208"},
-{"votes":1531,"electoral":0,"id":"12619"}],
+{"votes":457657,"electoral":5,"id":"1918"},
+{"votes":336890,"electoral":0,"id":"1701"},
+{"votes":5097,"electoral":0,"id":"3850"},
+{"votes":2348,"electoral":0,"id":"11527"},
+{"votes":1555,"electoral":0,"id":"59208"},
+{"votes":1535,"electoral":0,"id":"12619"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":487050,"id":"577"},
-{"votes":307718,"id":"31918"}],
+{"votes":488670,"id":"577"},
+{"votes":309309,"id":"31918"}],
 "final":"577"}}},
 "abbr":"NM"}}
