@@ -1,4 +1,4 @@
-{"state":"NH","total":703975,"candidates":
+{"state":"NH","total":704321,"candidates":
 {"50448":"Dem|Hodes|Paul Hodes","1701":"GOP|McCain|John McCain","59849":"Lib|Newell|Susan Newell","59722":"Lib|Phillies|George Phillies","1077":"GOP|Bradley|Jeb Bradley","1074":"GOP|Sununu|John Sununu","1075":"Lib|Blevens|Ken Blevens","1073":"Dem|Shaheen|Jeanne Shaheen","1918":"Dem|Obama|Barack Obama","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","59864":"GOP|Horn|Jennifer Horn","59838":"Lib|Kingsbury|Robert Kingsbury","59839":"Lib|Lapointe|Chester Lapointe","53539":"Dem|Shea-Porter|Carol Shea-Porter","7722":"Dem|Lynch|John Lynch","56619":"GOP|Kenney|Joe Kenney"},
 "locals":
 {"Albany":
@@ -832,14 +832,14 @@
 {"President":
 {"":
 {"votes":[
+{"votes":67,"id":"1918"},
+{"votes":59,"id":"1701"},
 {"votes":0,"id":"59722"},
-{"votes":0,"id":"1918"},
 {"votes":0,"id":"11527"},
-{"votes":0,"id":"3850"},
-{"votes":0,"id":"1701"}],
-"total":0,"final":"1918"}}},
+{"votes":0,"id":"3850"}],
+"total":126,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Windsor"},
 "Center Harbor":
 {"fips":"33001","races":
@@ -1224,14 +1224,14 @@
 {"President":
 {"":
 {"votes":[
+{"votes":134,"id":"1918"},
+{"votes":85,"id":"1701"},
+{"votes":1,"id":"3850"},
 {"votes":0,"id":"59722"},
-{"votes":0,"id":"1918"},
-{"votes":0,"id":"11527"},
-{"votes":0,"id":"3850"},
-{"votes":0,"id":"1701"}],
-"total":0,"final":"1918"}}},
+{"votes":0,"id":"11527"}],
+"total":220,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Waterville"},
 "Berlin":
 {"fips":"33007","races":
@@ -3323,7 +3323,7 @@
 {"name":"New Hampshire","electoral":4,"fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
-{"total":301,"reporting":298},
+{"total":301,"reporting":300},
 "races":
 {"U.S. House":
 {"1":
@@ -3341,9 +3341,9 @@
 "President":
 {"":
 {"votes":[
-{"votes":382241,"electoral":4,"id":"1918"},
-{"votes":315708,"electoral":0,"id":"1701"},
-{"votes":3392,"electoral":0,"id":"3850"},
+{"votes":382442,"electoral":4,"id":"1918"},
+{"votes":315852,"electoral":0,"id":"1701"},
+{"votes":3393,"electoral":0,"id":"3850"},
 {"votes":2125,"electoral":0,"id":"11527"},
 {"votes":509,"electoral":0,"id":"59722"}],
 "final":"1918"}},
