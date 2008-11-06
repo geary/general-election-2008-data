@@ -509,7 +509,7 @@
 {"votes":355,"id":"12619"}],
 "total":153093,"final":"1701"}}},
 "precincts":
-{"total":187,"reporting":186},
+{"total":187,"reporting":187},
 "name":"Charleston"},
 "Chesterfield":
 {"fips":"45025","races":
@@ -693,7 +693,7 @@
 "name":"Florence"}},
 "totals":
 {"name":"South Carolina","precincts":
-{"total":2291,"reporting":2290},
+{"total":2291,"reporting":2291},
 "electoral":8,"races":
 {"U.S. House":
 {"1":
