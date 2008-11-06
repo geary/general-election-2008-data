@@ -1,4 +1,4 @@
-{"state":"NC","total":4257976,"candidates":
+{"state":"NC","total":4258231,"candidates":
 {"458":"Dem|Watt|Mel Watt","56014":"GOP|Webster|Hugh Webster","56017":"Dem|Hagan|Kay Hagan","450":"Dem|Price|David Price","453":"GOP|Coble|Howard Coble","34352":"Dem|Butterfield|G.K. Butterfield","35254":"GOP|McCrory|Pat McCrory","59436":"GOP|Mumpower|Carl Mumpower","1877":"GOP|Foxx|Virginia Foxx","59434":"Dem|Taylor|Harry Taylor","59435":"Dem|Johnson|Daniel Johnson","59432":"Dem|Bratton|Teresa Sue Bratton","59433":"GOP|Breazeale|Will Breazeale","59430":"GOP|Lawson|William Lawson","59431":"Dem|Carter|Roy Carter","59438":"GOP|Cobb|Ty Cobb","59439":"Lib|Munger|Michael Munger","1372":"Dem|Miller|Brad Miller","51652":"Dem|Kissell|Larry Kissell","1033":"GOP|Dole|Elizabeth Dole","448":"Dem|Etheridge|Bob Etheridge","454":"GOP|Myrick|Sue Myrick","35209":"GOP|Mansell|Dan Mansell","35265":"GOP|McHenry|Patrick McHenry","51910":"Dem|Weber|Craig Weber","1918":"Dem|Obama|Barack Obama","51655":"Dem|Shuler|Heath Shuler","35450":"Dem|Perdue|Bev Perdue","59429":"Lib|Adkins|Will Adkins","59428":"GOP|Stephens|Dean Stephens","1025":"Dem|McIntyre|Mike McIntyre","1701":"GOP|McCain|John McCain","59437":"Lib|Smith|Keith Smith","1028":"Lib|Cole|Christopher Cole","1366":"GOP|Hayes|Robin Hayes","11527":"Lib|Barr|Bob Barr","1362":"GOP|Jones|Walter Jones","34795":"Lib|Grum|Andy Grum"},
 "locals":
 {"Bladen":
@@ -30,10 +30,10 @@
 {"President":
 {"":
 {"votes":[
-{"votes":53721,"id":"1701"},
-{"votes":30945,"id":"1918"},
-{"votes":527,"id":"11527"}],
-"total":85193,"final":"1918"}}},
+{"votes":53882,"id":"1701"},
+{"votes":31038,"id":"1918"},
+{"votes":528,"id":"11527"}],
+"total":85448,"final":"1918"}}},
 "precincts":
 {"total":51,"reporting":51},
 "name":"Union"},
@@ -1277,16 +1277,16 @@
 "President":
 {"":
 {"votes":[
-{"votes":2123317,"electoral":15,"id":"1918"},
-{"votes":2109241,"electoral":0,"id":"1701"},
-{"votes":25418,"electoral":0,"id":"11527"}],
+{"votes":2123410,"electoral":15,"id":"1918"},
+{"votes":2109402,"electoral":0,"id":"1701"},
+{"votes":25419,"electoral":0,"id":"11527"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2225576,"id":"56017"},
-{"votes":1868158,"id":"1033"},
-{"votes":131901,"id":"1028"}],
+{"votes":2225647,"id":"56017"},
+{"votes":1868274,"id":"1033"},
+{"votes":131906,"id":"1028"}],
 "final":"56017"}},
 "Governor":
 {"":
