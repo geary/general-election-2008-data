@@ -1,4 +1,4 @@
-{"state":"VA","total":3616975,"candidates":
+{"state":"VA","total":3616986,"candidates":
 {"1782":"Dem|Warner|Mark Warner","50483":"IGr|Oddo|Joseph Oddo","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","59000":"Dem|Miller|Andrea Miller","50496":"Lib|Redpath|William Redpath","59040":"Dem|Connolly|Gerry Connolly","59208":"AKI|Baldwin|Chuck Baldwin","59027":"Dem|Rasoul|Sam Rasoul","59827":"Dem|Day|Bill Day","59829":"Ind|Allen|Janice Lee Allen","59828":"Lib|Larson|Nathan Larson","45618":"GOP|Drake|Thelma Drake","57798":"GOP|Wittman|Rob Wittman","45650":"GOP|Gilmore|Jim Gilmore","3850":"Ind|Nader|Ralph Nader","719":"GOP|Wolf|Frank Wolf","1701":"GOP|McCain|John McCain","717":"Dem|Boucher|Rick Boucher","715":"GOP|Cantor|Eric Cantor","714":"GOP|Goodlatte|Bob Goodlatte","713":"GOP|Goode|Virgil Goode","711":"GOP|Forbes|Randy Forbes","1918":"Dem|Obama|Barack Obama","59015":"Dem|Perriello|Tom Perriello","59750":"GOP|Ellmore|Mark Ellmore","58993":"Dem|Nye|Glenn Nye","51706":"Dem|Feder|Judy Feder","59032":"Dem|Hartke|Anita Hartke","59052":"GOP|Fimian|Keith Fimian","59830":"IGr|Fisher|J. Ron Fisher","1451":"Dem|Scott|Bobby Scott","1453":"Dem|Moran|Jim Moran","59800":"IGr|Parker|Gail Parker","51928":"Ind|Nigam|Neeraj Nigam"},
 "locals":
 {"Roanoke":
@@ -711,13 +711,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":5827,"id":"1701"},
-{"votes":3212,"id":"1918"},
+{"votes":5825,"id":"1701"},
+{"votes":3219,"id":"1918"},
 {"votes":72,"id":"3850"},
 {"votes":49,"id":"59208"},
 {"votes":27,"id":"11527"},
 {"votes":16,"id":"12619"}],
-"total":9203,"final":"1918"}}},
+"total":9208,"final":"1918"}}},
 "precincts":
 {"total":20,"reporting":20},
 "name":"Lee"},
@@ -876,13 +876,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":1917,"id":"1918"},
+{"votes":1918,"id":"1918"},
 {"votes":1763,"id":"1701"},
 {"votes":9,"id":"3850"},
 {"votes":7,"id":"11527"},
 {"votes":3,"id":"59208"},
 {"votes":1,"id":"12619"}],
-"total":3700,"final":"1918"}}},
+"total":3701,"final":"1918"}}},
 "precincts":
 {"total":6,"reporting":6},
 "name":"King and Queen"},
@@ -1521,13 +1521,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":3644,"id":"1701"},
-{"votes":3232,"id":"1918"},
+{"votes":3647,"id":"1701"},
+{"votes":3235,"id":"1918"},
 {"votes":17,"id":"3850"},
 {"votes":15,"id":"11527"},
 {"votes":13,"id":"59208"},
 {"votes":4,"id":"12619"}],
-"total":6925,"final":"1918"}}},
+"total":6931,"final":"1918"}}},
 "precincts":
 {"total":7,"reporting":7},
 "name":"Lancaster"},
@@ -2032,8 +2032,8 @@
 "final":"719"},
 "1":
 {"votes":[
-{"votes":198883,"id":"57798"},
-{"votes":147017,"id":"59827"},
+{"votes":198886,"id":"57798"},
+{"votes":147020,"id":"59827"},
 {"votes":5106,"id":"59828"}],
 "final":"57798"},
 "3":
@@ -2078,8 +2078,8 @@
 "President":
 {"":
 {"votes":[
-{"votes":1891416,"electoral":13,"id":"1918"},
-{"votes":1693805,"electoral":0,"id":"1701"},
+{"votes":1891426,"electoral":13,"id":"1918"},
+{"votes":1693806,"electoral":0,"id":"1701"},
 {"votes":11198,"electoral":0,"id":"3850"},
 {"votes":10899,"electoral":0,"id":"11527"},
 {"votes":7326,"electoral":0,"id":"59208"},
@@ -2088,8 +2088,8 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2295415,"id":"1782"},
-{"votes":1215694,"id":"45650"},
+{"votes":2295426,"id":"1782"},
+{"votes":1215696,"id":"45650"},
 {"votes":21506,"id":"59800"},
 {"votes":19739,"id":"50496"}],
 "final":"1782"}}},

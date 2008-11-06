@@ -142,17 +142,17 @@
 {"President":
 {"":
 {"votes":[
-{"votes":39054,"id":"1918"},
-{"votes":25284,"id":"1701"},
-{"votes":545,"id":"3850"},
-{"votes":163,"id":"11527"},
-{"votes":150,"id":"59208"},
-{"votes":107,"id":"12619"},
-{"votes":17,"id":"3486"},
-{"votes":9,"id":"7623"}],
-"total":65329,"final":"1918"}}},
+{"votes":46463,"id":"1918"},
+{"votes":30230,"id":"1701"},
+{"votes":654,"id":"3850"},
+{"votes":214,"id":"11527"},
+{"votes":197,"id":"59208"},
+{"votes":145,"id":"12619"},
+{"votes":18,"id":"3486"},
+{"votes":12,"id":"7623"}],
+"total":77933,"final":"1918"}}},
 "precincts":
-{"total":215,"reporting":141},
+{"total":215,"reporting":169},
 "name":"Whatcom"},
 "Wahkiakum":
 {"fips":"53069","races":
@@ -666,7 +666,7 @@
 "name":"Asotin"}},
 "totals":
 {"name":"Washington","precincts":
-{"total":6719,"reporting":4486},
+{"total":6719,"reporting":4514},
 "electoral":11,"races":
 {"U.S. House":
 {"1":
