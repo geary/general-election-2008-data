@@ -1,4 +1,4 @@
-{"state":"SD","total":381890,"candidates":
+{"state":"SD","total":381891,"candidates":
 {"1701":"GOP|McCain|John McCain","189":"Dem|Johnson|Tim Johnson","581":"Dem|Herseth Sandlin|Stephanie Herseth Sandlin","59208":"AKI|Baldwin|Chuck Baldwin","1918":"Dem|Obama|Barack Obama","3":"|No| No","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","2":"|Yes| Yes","58077":"GOP|Dykstra|Joel Dykstra","58308":"GOP|Lien|Chris Lien"},
 "locals":
 {"Bon Homme":
@@ -692,12 +692,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":667,"id":"1701"},
+{"votes":668,"id":"1701"},
 {"votes":500,"id":"1918"},
 {"votes":26,"id":"3850"},
 {"votes":7,"id":"59208"},
 {"votes":5,"id":"11527"}],
-"total":1205,"final":"1701"}}},
+"total":1206,"final":"1701"}}},
 "precincts":
 {"total":7,"reporting":7},
 "name":"Sanborn"},
@@ -938,7 +938,7 @@
 "President":
 {"":
 {"votes":[
-{"votes":203013,"electoral":3,"id":"1701"},
+{"votes":203014,"electoral":3,"id":"1701"},
 {"votes":170880,"electoral":0,"id":"1918"},
 {"votes":4267,"electoral":0,"id":"3850"},
 {"votes":1895,"electoral":0,"id":"59208"},

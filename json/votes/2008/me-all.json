@@ -1,4 +1,4 @@
-{"state":"ME","total":676418,"candidates":
+{"state":"ME","total":678291,"candidates":
 {"59612":"GOP|Summers|Charlie Summers","59613":"Dem|Pingree|Chellie Pingree","585":"Dem|Michaud|Mike Michaud","12619":"Grn|McKinney|Cynthia McKinney","59614":"GOP|Frary|John Frary","1701":"GOP|McCain|John McCain","1317":"Dem|Allen|Tom Allen","1727":"GOP|Collins|Susan Collins","1918":"Dem|Obama|Barack Obama","3":"|No| No","2":"|Yes| Yes","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Baring Plt.":
@@ -6757,8 +6757,8 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":180895,"id":"59613"},
-{"votes":146504,"id":"59612"}],
+{"votes":181853,"id":"59613"},
+{"votes":147377,"id":"59612"}],
 "final":"59613"},
 "2":
 {"votes":[
@@ -6768,21 +6768,21 @@
 "President":
 {"":
 {"votes":[
-{"votes":391134,"electoral":4,"id":"1918"},
-{"votes":272601,"electoral":0,"id":"1701"},
-{"votes":9999,"electoral":0,"id":"3850"},
-{"votes":2684,"electoral":0,"id":"12619"}],
+{"votes":392197,"electoral":4,"id":"1918"},
+{"votes":273382,"electoral":0,"id":"1701"},
+{"votes":10022,"electoral":0,"id":"3850"},
+{"votes":2690,"electoral":0,"id":"12619"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":409600,"id":"1727"},
-{"votes":259369,"id":"1317"}],
+{"votes":410779,"id":"1727"},
+{"votes":260048,"id":"1317"}],
 "final":"1727"}},
 "Question":
 {"1-Veto Tax on Drinks & Insurance":
 {"votes":[
-{"votes":423730,"id":"2"},
-{"votes":236553,"id":"3"}],
+{"votes":424889,"id":"2"},
+{"votes":237261,"id":"3"}],
 "final":"2"}}},
 "abbr":"ME"}}
