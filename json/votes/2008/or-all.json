@@ -329,7 +329,7 @@
 {"votes":81,"id":"59208"}],
 "total":29585,"final":"1918"}}},
 "precincts":
-{"total":23,"reporting":13},
+{"total":23,"reporting":23},
 "name":"Benton"},
 "Lake":
 {"fips":"41037","races":
@@ -543,7 +543,7 @@
 "name":"Polk"}},
 "totals":
 {"name":"Oregon","precincts":
-{"total":1000,"reporting":771},
+{"total":1000,"reporting":781},
 "electoral":7,"races":
 {"U.S. House":
 {"1":
