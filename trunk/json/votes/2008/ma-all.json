@@ -1,4 +1,4 @@
-{"state":"MA","total":3048435,"candidates":
+{"state":"MA","total":3048438,"candidates":
 {"883":"Dem|McGovern|Jim McGovern","882":"Dem|Neal|Richard Neal","880":"Dem|Olver|John Olver","887":"Dem|Tierney|John Tierney","884":"Dem|Frank|Barney Frank","59899":"Ind|Allen|Susan Allen","889":"Dem|Capuano|Mike Capuano","888":"Dem|Markey|Ed Markey","59620":"GOP|Cunningham|John Cunningham","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","59208":"AKI|Baldwin|Chuck Baldwin","3":"|No| No","2":"|Yes| Yes","3850":"Ind|Nader|Ralph Nader","890":"Dem|Lynch|Stephen Lynch","891":"Dem|Delahunt|Bill Delahunt","59616":"GOP|Sholley|Earl Sholley","59617":"Dem|Tsongas|Niki Tsongas","59615":"GOP|Bech|Nate Bech","59619":"GOP|Baker|Richard Baker","1918":"Dem|Obama|Barack Obama","51520":"GOP|Beatty|Jeff Beatty","1701":"GOP|McCain|John McCain","1724":"Dem|Kerry|John Kerry","59906":"Lib|Underwood|Robert Underwood"},
 "locals":
 {"Pepperell":
@@ -5279,8 +5279,8 @@
 "final":"891"},
 "1":
 {"votes":[
-{"votes":215904,"id":"880"},
-{"votes":79225,"id":"59615"}],
+{"votes":216199,"id":"880"},
+{"votes":79314,"id":"59615"}],
 "final":"880"},
 "3":
 {"votes":[
@@ -5324,31 +5324,31 @@
 {"votes":1891083,"electoral":12,"id":"1918"},
 {"votes":1104284,"electoral":0,"id":"1701"},
 {"votes":28520,"electoral":0,"id":"3850"},
-{"votes":12996,"electoral":0,"id":"11527"},
+{"votes":12999,"electoral":0,"id":"11527"},
 {"votes":6528,"electoral":0,"id":"12619"},
 {"votes":5024,"electoral":0,"id":"59208"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1959558,"id":"1724"},
-{"votes":922648,"id":"51520"},
+{"votes":1959843,"id":"1724"},
+{"votes":922727,"id":"51520"},
 {"votes":94791,"id":"59906"}],
 "final":"1724"}},
 "Question":
 {"3-Dog Racing Ban":
 {"votes":[
-{"votes":1645531,"id":"2"},
-{"votes":1282852,"id":"3"}],
+{"votes":1645828,"id":"2"},
+{"votes":1282940,"id":"3"}],
 "final":"2"},
 "2-Decriminalize Marijuana":
 {"votes":[
-{"votes":1939207,"id":"2"},
-{"votes":1036316,"id":"3"}],
+{"votes":1939505,"id":"2"},
+{"votes":1036409,"id":"3"}],
 "final":"2"},
 "1-Income Tax Ban":
 {"votes":[
-{"votes":2063568,"id":"3"},
-{"votes":901733,"id":"2"}],
+{"votes":2063891,"id":"3"},
+{"votes":901802,"id":"2"}],
 "final":"3"}}},
 "abbr":"MA","votesby":"town"}}

@@ -556,25 +556,25 @@
 {"President":
 {"":
 {"votes":[
-{"votes":10964,"id":"1701"},
-{"votes":5911,"id":"1918"},
-{"votes":96,"id":"3850"},
-{"votes":93,"id":"11527"},
-{"votes":71,"id":"59208"},
-{"votes":47,"id":"59659"},
-{"votes":33,"id":"3635"},
-{"votes":16,"id":"12619"},
-{"votes":9,"id":"57761"},
-{"votes":6,"id":"51335"},
+{"votes":11525,"id":"1701"},
+{"votes":6115,"id":"1918"},
+{"votes":107,"id":"3850"},
+{"votes":98,"id":"11527"},
+{"votes":81,"id":"59208"},
+{"votes":54,"id":"59659"},
+{"votes":35,"id":"3635"},
+{"votes":18,"id":"12619"},
+{"votes":10,"id":"57761"},
+{"votes":7,"id":"51335"},
 {"votes":4,"id":"7623"},
 {"votes":3,"id":"59660"},
 {"votes":1,"id":"3486"},
 {"votes":0,"id":"1243"},
 {"votes":0,"id":"59661"},
 {"votes":0,"id":"51331"}],
-"total":17254,"final":"1918"}}},
+"total":18058,"final":"1918"}}},
 "precincts":
-{"total":28,"reporting":26},
+{"total":28,"reporting":28},
 "name":"Montrose"},
 "Fremont":
 {"fips":"08043","races":
@@ -1603,7 +1603,7 @@
 "name":"Las Animas"}},
 "totals":
 {"name":"Colorado","precincts":
-{"total":3215,"reporting":3186},
+{"total":3215,"reporting":3188},
 "electoral":9,"races":
 {"U.S. House":
 {"1":
