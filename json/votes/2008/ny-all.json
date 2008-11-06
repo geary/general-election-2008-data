@@ -927,7 +927,7 @@
 {"votes":123,"id":"7623"}],
 "total":379130,"final":"1918"}}},
 "precincts":
-{"total":986,"reporting":900},
+{"total":986,"reporting":911},
 "name":"Erie"},
 "Schenectady":
 {"fips":"36093","races":
@@ -997,7 +997,7 @@
 {"name":"New York","electoral":31,"fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
-{"total":16300,"reporting":16201},
+{"total":16300,"reporting":16212},
 "races":
 {"U.S. House":
 {"24":
