@@ -104,7 +104,7 @@
 {"votes":116,"id":"12619"}],
 "total":48915,"final":"1918"}}},
 "precincts":
-{"total":31,"reporting":24},
+{"total":31,"reporting":31},
 "name":"Douglas"},
 "Klamath":
 {"fips":"41035","races":
@@ -119,7 +119,7 @@
 {"votes":64,"id":"12619"}],
 "total":28398,"final":"1918"}}},
 "precincts":
-{"total":17,"reporting":14},
+{"total":17,"reporting":17},
 "name":"Klamath"},
 "Wasco":
 {"fips":"41065","races":
@@ -254,7 +254,7 @@
 {"votes":120,"id":"12619"}],
 "total":44857,"final":"1918"}}},
 "precincts":
-{"total":29,"reporting":22},
+{"total":29,"reporting":29},
 "name":"Linn"},
 "Lane":
 {"fips":"41039","races":
@@ -543,7 +543,7 @@
 "name":"Polk"}},
 "totals":
 {"name":"Oregon","precincts":
-{"total":1000,"reporting":750},
+{"total":1000,"reporting":767},
 "electoral":7,"races":
 {"U.S. House":
 {"1":
