@@ -909,7 +909,7 @@
 {"votes":170,"id":"59208"}],
 "total":81194,"final":"1701"}}},
 "precincts":
-{"total":70,"reporting":69},
+{"total":70,"reporting":70},
 "name":"Baldwin"},
 "Monroe":
 {"fips":"01099","races":
@@ -941,7 +941,7 @@
 "name":"Autauga"}},
 "totals":
 {"name":"Alabama","precincts":
-{"total":2843,"reporting":2837},
+{"total":2843,"reporting":2838},
 "electoral":9,"races":
 {"U.S. House":
 {"1":
