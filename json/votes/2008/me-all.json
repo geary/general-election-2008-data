@@ -1,4 +1,4 @@
-{"state":"ME","total":717564,"candidates":
+{"state":"ME","total":719089,"candidates":
 {"59612":"GOP|Summers|Charlie Summers","59613":"Dem|Pingree|Chellie Pingree","585":"Dem|Michaud|Mike Michaud","12619":"Grn|McKinney|Cynthia McKinney","59614":"GOP|Frary|John Frary","1701":"GOP|McCain|John McCain","1317":"Dem|Allen|Tom Allen","1727":"GOP|Collins|Susan Collins","1918":"Dem|Obama|Barack Obama","3":"|No| No","2":"|Yes| Yes","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Baring Plt.":
@@ -6363,13 +6363,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":0,"id":"1918"},
-{"votes":0,"id":"12619"},
-{"votes":0,"id":"3850"},
-{"votes":0,"id":"1701"}],
-"total":0,"final":"1918"}}},
+{"votes":879,"id":"1918"},
+{"votes":619,"id":"1701"},
+{"votes":21,"id":"3850"},
+{"votes":6,"id":"12619"}],
+"total":1525,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Thomaston"},
 "Roxbury":
 {"fips":"23017","races":
@@ -6752,13 +6752,13 @@
 {"name":"Maine","electoral":4,"fix":
 {},
 "precincts":
-{"total":613,"reporting":597},
+{"total":613,"reporting":598},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":194926,"id":"59613"},
-{"votes":159625,"id":"59612"}],
+{"votes":195872,"id":"59613"},
+{"votes":160182,"id":"59612"}],
 "final":"59613"},
 "2":
 {"votes":[
@@ -6768,21 +6768,21 @@
 "President":
 {"":
 {"votes":[
-{"votes":413630,"electoral":4,"id":"1918"},
-{"votes":290503,"electoral":0,"id":"1701"},
-{"votes":10584,"electoral":0,"id":"3850"},
-{"votes":2847,"electoral":0,"id":"12619"}],
+{"votes":414509,"electoral":4,"id":"1918"},
+{"votes":291122,"electoral":0,"id":"1701"},
+{"votes":10605,"electoral":0,"id":"3850"},
+{"votes":2853,"electoral":0,"id":"12619"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":436026,"id":"1727"},
-{"votes":273655,"id":"1317"}],
+{"votes":436924,"id":"1727"},
+{"votes":274268,"id":"1317"}],
 "final":"1727"}},
 "Question":
 {"1-Veto Tax on Drinks & Insurance":
 {"votes":[
-{"votes":449471,"id":"2"},
-{"votes":249512,"id":"3"}],
+{"votes":450401,"id":"2"},
+{"votes":250068,"id":"3"}],
 "final":"2"}}},
 "abbr":"ME"}}
