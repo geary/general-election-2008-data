@@ -1,4 +1,4 @@
-{"state":"SC","total":1891514,"candidates":
+{"state":"SC","total":1892130,"candidates":
 {"608":"GOP|Barrett|Gresham Barrett","11527":"Lib|Barr|Bob Barr","58321":"Dem|Conley|Bob Conley","12619":"Grn|McKinney|Cynthia McKinney","50263":"GOP|Inglis|Bob Inglis","50369":"GOP|Spencer|Albert Spencer","59208":"AKI|Baldwin|Chuck Baldwin","1409":"GOP|Brown|Henry Brown","1408":"GOP|Graham|Lindsey Graham","3850":"Ind|Nader|Ralph Nader","59674":"Dem|Ketner|Linda Ketner","59675":"Dem|Miller|Rob Miller","59676":"Dem|Dyer|Jane Dyer","59677":"Dem|Corden|Paul Corden","612":"Dem|Spratt|John Spratt","611":"Grn|Walters|C. Faye Walters","59678":"GOP|Harrelson|Nancy Harrelson","1918":"Dem|Obama|Barack Obama","59751":"CST|Waggoner|Frank Waggoner","1701":"GOP|McCain|John McCain","1410":"GOP|Wilson|Joe Wilson","1414":"Dem|Clyburn|Jim Clyburn"},
 "locals":
 {"Lancaster":
@@ -698,8 +698,8 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":176337,"id":"1409"},
-{"votes":162541,"id":"59674"}],
+{"votes":176607,"id":"1409"},
+{"votes":162833,"id":"59674"}],
 "final":"1409"},
 "3":
 {"votes":[
@@ -725,23 +725,23 @@
 "final":"50263"},
 "6":
 {"votes":[
-{"votes":188710,"id":"1414"},
-{"votes":89622,"id":"59678"}],
+{"votes":188749,"id":"1414"},
+{"votes":89630,"id":"59678"}],
 "final":"1414"}},
 "President":
 {"":
 {"votes":[
-{"votes":1018418,"electoral":8,"id":"1701"},
-{"votes":849852,"electoral":0,"id":"1918"},
-{"votes":7207,"electoral":0,"id":"11527"},
-{"votes":6622,"electoral":0,"id":"59208"},
-{"votes":4987,"electoral":0,"id":"3850"},
-{"votes":4428,"electoral":0,"id":"12619"}],
+{"votes":1018756,"electoral":8,"id":"1701"},
+{"votes":850121,"electoral":0,"id":"1918"},
+{"votes":7209,"electoral":0,"id":"11527"},
+{"votes":6625,"electoral":0,"id":"59208"},
+{"votes":4990,"electoral":0,"id":"3850"},
+{"votes":4429,"electoral":0,"id":"12619"}],
 "final":"1701"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1060055,"id":"1408"},
-{"votes":779891,"id":"58321"}],
+{"votes":1060420,"id":"1408"},
+{"votes":780135,"id":"58321"}],
 "final":"1408"}}},
 "abbr":"SC"}}
