@@ -1,4 +1,4 @@
-{"state":"VA","total":3636629,"candidates":
+{"state":"VA","total":3636641,"candidates":
 {"1782":"Dem|Warner|Mark Warner","50483":"IGr|Oddo|Joseph Oddo","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","59000":"Dem|Miller|Andrea Miller","50496":"Lib|Redpath|William Redpath","59040":"Dem|Connolly|Gerry Connolly","59208":"AKI|Baldwin|Chuck Baldwin","59027":"Dem|Rasoul|Sam Rasoul","59827":"Dem|Day|Bill Day","59829":"Ind|Allen|Janice Lee Allen","59828":"Lib|Larson|Nathan Larson","45618":"GOP|Drake|Thelma Drake","57798":"GOP|Wittman|Rob Wittman","45650":"GOP|Gilmore|Jim Gilmore","3850":"Ind|Nader|Ralph Nader","719":"GOP|Wolf|Frank Wolf","1701":"GOP|McCain|John McCain","717":"Dem|Boucher|Rick Boucher","715":"GOP|Cantor|Eric Cantor","714":"GOP|Goodlatte|Bob Goodlatte","713":"GOP|Goode|Virgil Goode","711":"GOP|Forbes|Randy Forbes","1918":"Dem|Obama|Barack Obama","59015":"Dem|Perriello|Tom Perriello","59750":"GOP|Ellmore|Mark Ellmore","58993":"Dem|Nye|Glenn Nye","51706":"Dem|Feder|Judy Feder","59032":"Dem|Hartke|Anita Hartke","59052":"GOP|Fimian|Keith Fimian","59830":"IGr|Fisher|J. Ron Fisher","1451":"Dem|Scott|Bobby Scott","1453":"Dem|Moran|Jim Moran","59800":"IGr|Parker|Gail Parker","51928":"Ind|Nigam|Neeraj Nigam"},
 "locals":
 {"Roanoke":
@@ -321,13 +321,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":4322,"id":"1918"},
-{"votes":2350,"id":"1701"},
+{"votes":4328,"id":"1918"},
+{"votes":2353,"id":"1701"},
 {"votes":41,"id":"11527"},
 {"votes":22,"id":"3850"},
 {"votes":14,"id":"59208"},
 {"votes":4,"id":"12619"}],
-"total":6753,"final":"1918"}}},
+"total":6762,"final":"1918"}}},
 "precincts":
 {"total":3,"reporting":3},
 "name":"Williamsburg"},
@@ -1071,13 +1071,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":4576,"id":"1918"},
-{"votes":3718,"id":"1701"},
-{"votes":28,"id":"3850"},
+{"votes":4577,"id":"1918"},
+{"votes":3719,"id":"1701"},
+{"votes":29,"id":"3850"},
 {"votes":22,"id":"59208"},
 {"votes":16,"id":"11527"},
 {"votes":7,"id":"12619"}],
-"total":8367,"final":"1918"}}},
+"total":8370,"final":"1918"}}},
 "precincts":
 {"total":7,"reporting":7},
 "name":"Westmoreland"},
@@ -2032,8 +2032,8 @@
 "final":"719"},
 "1":
 {"votes":[
-{"votes":199949,"id":"57798"},
-{"votes":147701,"id":"59827"},
+{"votes":199953,"id":"57798"},
+{"votes":147708,"id":"59827"},
 {"votes":5146,"id":"59828"}],
 "final":"57798"},
 "3":
@@ -2061,7 +2061,7 @@
 "final":"715"},
 "6":
 {"votes":[
-{"votes":191080,"id":"714"},
+{"votes":191081,"id":"714"},
 {"votes":114394,"id":"59027"},
 {"votes":5414,"id":"59829"}],
 "final":"714"},
@@ -2078,9 +2078,9 @@
 "President":
 {"":
 {"votes":[
-{"votes":1903465,"electoral":13,"id":"1918"},
-{"votes":1701368,"electoral":0,"id":"1701"},
-{"votes":11254,"electoral":0,"id":"3850"},
+{"votes":1903472,"electoral":13,"id":"1918"},
+{"votes":1701372,"electoral":0,"id":"1701"},
+{"votes":11255,"electoral":0,"id":"3850"},
 {"votes":10847,"electoral":0,"id":"11527"},
 {"votes":7359,"electoral":0,"id":"59208"},
 {"votes":2336,"electoral":0,"id":"12619"}],
@@ -2088,8 +2088,8 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2306596,"id":"1782"},
-{"votes":1211537,"id":"45650"},
+{"votes":2306604,"id":"1782"},
+{"votes":1211540,"id":"45650"},
 {"votes":21874,"id":"59800"},
 {"votes":19842,"id":"50496"}],
 "final":"1782"}}},

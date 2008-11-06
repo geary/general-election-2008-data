@@ -1,4 +1,4 @@
-{"state":"WA","total":2027035,"candidates":
+{"state":"WA","total":2027097,"candidates":
 {"1482":"Dem|McDermott|Jim McDermott","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","1488":"Dem|Smith|Adam Smith","59208":"AKI|Baldwin|Chuck Baldwin","51718":"GOP|Ishmael|Larry Ishmael","3":"|No| No","2":"|Yes| Yes","1468":"Dem|Larsen|Rick Larsen","3850":"Ind|Nader|Ralph Nader","1465":"Dem|Inslee|Jay Inslee","51235":"GOP|Cloud|Doug Cloud","3486":"SWP|Harris|James Harris","1918":"Dem|Obama|Barack Obama","59508":"Dem|Mays|Mark Mays","50215":"GOP|Reichert|Dave Reichert","7623":"PSL|La Riva|Gloria La Riva","59503":"GOP|Delavar|Michael Delavar","1701":"GOP|McCain|John McCain","46291":"GOP|Rodgers|Cathy McMorris Rodgers","46399":"GOP|Rossi|Dino Rossi","46134":"Dem|Gregoire|Christine Gregoire","1472":"Dem|Baird|Brian Baird","59497":"GOP|Bart|Rick Bart","1475":"GOP|Hastings|Doc Hastings","51722":"GOP|Beren|Steve Beren","51723":"Dem|Burner|Darcy Burner","1479":"Dem|Dicks|Norm Dicks","59498":"Dem|Fearing|George Fearing","59499":"GOP|Postma|James Postma"},
 "locals":
 {"San Juan":
@@ -23,15 +23,15 @@
 {"President":
 {"":
 {"votes":[
-{"votes":3671,"id":"1701"},
-{"votes":2524,"id":"1918"},
-{"votes":137,"id":"3850"},
-{"votes":77,"id":"59208"},
-{"votes":36,"id":"11527"},
+{"votes":3704,"id":"1701"},
+{"votes":2546,"id":"1918"},
+{"votes":139,"id":"3850"},
+{"votes":80,"id":"59208"},
+{"votes":38,"id":"11527"},
 {"votes":8,"id":"12619"},
 {"votes":4,"id":"3486"},
 {"votes":2,"id":"7623"}],
-"total":6459,"final":"1918"}}},
+"total":6521,"final":"1918"}}},
 "precincts":
 {"total":15,"reporting":15},
 "name":"Pend Oreille"},
@@ -686,8 +686,8 @@
 "final":"1468"},
 "5":
 {"votes":[
-{"votes":160911,"id":"46291"},
-{"votes":89245,"id":"59508"}],
+{"votes":160959,"id":"46291"},
+{"votes":89255,"id":"59508"}],
 "final":"46291"},
 "4":
 {"votes":[
@@ -716,11 +716,11 @@
 "President":
 {"":
 {"votes":[
-{"votes":1180911,"electoral":11,"id":"1918"},
-{"votes":812036,"electoral":0,"id":"1701"},
-{"votes":17840,"electoral":0,"id":"3850"},
-{"votes":7491,"electoral":0,"id":"11527"},
-{"votes":5641,"electoral":0,"id":"59208"},
+{"votes":1180933,"electoral":11,"id":"1918"},
+{"votes":812069,"electoral":0,"id":"1701"},
+{"votes":17842,"electoral":0,"id":"3850"},
+{"votes":7493,"electoral":0,"id":"11527"},
+{"votes":5644,"electoral":0,"id":"59208"},
 {"votes":2295,"electoral":0,"id":"12619"},
 {"votes":426,"electoral":0,"id":"7623"},
 {"votes":395,"electoral":0,"id":"3486"}],
@@ -728,13 +728,13 @@
 "Initiative":
 {"1000-Medical Choice":
 {"votes":[
-{"votes":1167503,"id":"2"},
-{"votes":814969,"id":"3"}],
+{"votes":1167532,"id":"2"},
+{"votes":815001,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1090542,"id":"46134"},
-{"votes":917694,"id":"46399"}],
+{"votes":1090559,"id":"46134"},
+{"votes":917738,"id":"46399"}],
 "final":"46134"}}},
 "abbr":"WA"}}
