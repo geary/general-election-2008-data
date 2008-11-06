@@ -1,4 +1,4 @@
-{"state":"VT","total":302451,"candidates":
+{"state":"VT","total":303085,"candidates":
 {"1701":"GOP|McCain|John McCain","51183":"SWP|Calero|Roger Calero","56183":"Ind|Trudell|Jerry Trudell","1158":"Ind|Ericson|Cris Ericson","59881":"Ind|O'Connor|Tony O'Connor","59876":"Ind|Bethel|Mike Bethel","1154":"GOP|Douglas|Jim Douglas","1157":"LUn|Diamondstone|Peter Diamondstone","58883":"Dem|Welch|Peter Welch","45481":"Dem|Symington|Gaye Symington","59208":"AKI|Baldwin|Chuck Baldwin","1152":"LUn|Newton|Jane Newton","7623":"PSL|La Riva|Gloria La Riva","1918":"Dem|Obama|Barack Obama","1243":"SPU|Moore|Brian Moore","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","45415":"Ind|Pollina|Anthony Pollina","59686":"Prg|Hermann|Thomas Hermann","59882":"Ind|Young|Sam Young"},
 "locals":
 {"Albany":
@@ -4190,21 +4190,21 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":224565,"id":"58883"},
-{"votes":13108,"id":"59876"},
-{"votes":9574,"id":"56183"},
-{"votes":7689,"id":"59686"},
-{"votes":7129,"id":"1158"},
-{"votes":5262,"id":"1152"}],
+{"votes":225072,"id":"58883"},
+{"votes":13124,"id":"59876"},
+{"votes":9604,"id":"56183"},
+{"votes":7706,"id":"59686"},
+{"votes":7144,"id":"1158"},
+{"votes":5264,"id":"1152"}],
 "final":"58883"}},
 "President":
 {"":
 {"votes":[
-{"votes":202077,"electoral":3,"id":"1918"},
-{"votes":95457,"electoral":0,"id":"1701"},
-{"votes":2990,"electoral":0,"id":"3850"},
-{"votes":964,"electoral":0,"id":"11527"},
-{"votes":496,"electoral":0,"id":"59208"},
+{"votes":202538,"electoral":3,"id":"1918"},
+{"votes":95622,"electoral":0,"id":"1701"},
+{"votes":2993,"electoral":0,"id":"3850"},
+{"votes":968,"electoral":0,"id":"11527"},
+{"votes":497,"electoral":0,"id":"59208"},
 {"votes":194,"electoral":0,"id":"1243"},
 {"votes":139,"electoral":0,"id":"51183"},
 {"votes":134,"electoral":0,"id":"7623"}],
@@ -4212,12 +4212,12 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":161482,"id":"1154"},
-{"votes":62729,"id":"45415"},
-{"votes":62290,"id":"45481"},
-{"votes":3112,"id":"59881"},
-{"votes":2251,"id":"59882"},
-{"votes":1660,"id":"1157"},
+{"votes":161779,"id":"1154"},
+{"votes":62883,"id":"45415"},
+{"votes":62460,"id":"45481"},
+{"votes":3117,"id":"59881"},
+{"votes":2254,"id":"59882"},
+{"votes":1661,"id":"1157"},
 {"votes":1544,"id":"1158"}],
 "final":"1154"}}},
 "abbr":"VT","votesby":"town"}}
