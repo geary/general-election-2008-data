@@ -623,7 +623,7 @@
 {"votes":57,"id":"11527"}],
 "total":13725,"final":"1701"}}},
 "precincts":
-{"total":8,"reporting":7},
+{"total":8,"reporting":8},
 "name":"Coffee"},
 "Glynn":
 {"fips":"13127","races":
@@ -1487,7 +1487,7 @@
 {"votes":23,"id":"11527"}],
 "total":2894,"final":"1701"}}},
 "precincts":
-{"total":6,"reporting":5},
+{"total":6,"reporting":6},
 "name":"Atkinson"},
 "DeKalb":
 {"fips":"13089","races":
@@ -1667,7 +1667,7 @@
 {"votes":29,"id":"11527"}],
 "total":4126,"final":"1701"}}},
 "precincts":
-{"total":9,"reporting":8},
+{"total":9,"reporting":9},
 "name":"Dooly"},
 "Berrien":
 {"fips":"13019","races":
@@ -1911,7 +1911,7 @@
 "name":"Monroe"}},
 "totals":
 {"name":"Georgia","precincts":
-{"total":3303,"reporting":3295},
+{"total":3303,"reporting":3298},
 "electoral":15,"races":
 {"U.S. House":
 {"11":
