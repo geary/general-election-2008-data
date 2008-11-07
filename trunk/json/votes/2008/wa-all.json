@@ -346,17 +346,17 @@
 {"President":
 {"":
 {"votes":[
-{"votes":87597,"id":"1701"},
-{"votes":87290,"id":"1918"},
-{"votes":2027,"id":"3850"},
-{"votes":1082,"id":"59208"},
-{"votes":666,"id":"11527"},
-{"votes":218,"id":"12619"},
-{"votes":53,"id":"7623"},
-{"votes":27,"id":"3486"}],
-"total":178960,"final":"1918"}}},
+{"votes":95440,"id":"1701"},
+{"votes":93239,"id":"1918"},
+{"votes":2218,"id":"3850"},
+{"votes":1239,"id":"59208"},
+{"votes":734,"id":"11527"},
+{"votes":246,"id":"12619"},
+{"votes":55,"id":"7623"},
+{"votes":30,"id":"3486"}],
+"total":193201,"final":"1918"}}},
 "precincts":
-{"total":485,"reporting":417},
+{"total":485,"reporting":451},
 "name":"Spokane"},
 "Adams":
 {"fips":"53001","races":
@@ -666,7 +666,7 @@
 "name":"Asotin"}},
 "totals":
 {"name":"Washington","precincts":
-{"total":6719,"reporting":4951},
+{"total":6719,"reporting":4985},
 "electoral":11,"races":
 {"U.S. House":
 {"1":
