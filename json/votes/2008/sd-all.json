@@ -1,4 +1,4 @@
-{"state":"SD","total":381897,"candidates":
+{"state":"SD","total":381898,"candidates":
 {"1701":"GOP|McCain|John McCain","189":"Dem|Johnson|Tim Johnson","581":"Dem|Herseth Sandlin|Stephanie Herseth Sandlin","59208":"AKI|Baldwin|Chuck Baldwin","1918":"Dem|Obama|Barack Obama","3":"|No| No","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","2":"|Yes| Yes","58077":"GOP|Dykstra|Joel Dykstra","58308":"GOP|Lien|Chris Lien"},
 "locals":
 {"Bon Homme":
@@ -412,12 +412,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":2818,"id":"1701"},
+{"votes":2819,"id":"1701"},
 {"votes":1304,"id":"1918"},
 {"votes":51,"id":"3850"},
 {"votes":45,"id":"59208"},
 {"votes":33,"id":"11527"}],
-"total":4251,"final":"1701"}}},
+"total":4252,"final":"1701"}}},
 "precincts":
 {"total":16,"reporting":16},
 "name":"Butte"},
@@ -938,7 +938,7 @@
 "President":
 {"":
 {"votes":[
-{"votes":203016,"electoral":3,"id":"1701"},
+{"votes":203017,"electoral":3,"id":"1701"},
 {"votes":170884,"electoral":0,"id":"1918"},
 {"votes":4267,"electoral":0,"id":"3850"},
 {"votes":1895,"electoral":0,"id":"59208"},
