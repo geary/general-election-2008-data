@@ -6018,7 +6018,7 @@
 {"votes":20,"id":"12619"}],
 "total":11788,"final":"1918"}}},
 "precincts":
-{"total":3,"reporting":0},
+{"total":3,"reporting":3},
 "name":"Scarborough"},
 "Magalloway Plt.":
 {"fips":"23017","races":
@@ -6752,7 +6752,7 @@
 {"name":"Maine","electoral":4,"fix":
 {},
 "precincts":
-{"total":613,"reporting":610},
+{"total":613,"reporting":613},
 "races":
 {"U.S. House":
 {"1":
