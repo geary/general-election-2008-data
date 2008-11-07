@@ -482,17 +482,17 @@
 {"President":
 {"":
 {"votes":[
-{"votes":5208,"id":"1918"},
-{"votes":4778,"id":"1701"},
-{"votes":91,"id":"3850"},
-{"votes":49,"id":"11527"},
-{"votes":33,"id":"59208"},
-{"votes":11,"id":"12619"},
-{"votes":1,"id":"7623"},
-{"votes":1,"id":"3486"}],
-"total":10172,"final":"1918"}}},
+{"votes":6935,"id":"1918"},
+{"votes":6408,"id":"1701"},
+{"votes":152,"id":"3850"},
+{"votes":74,"id":"11527"},
+{"votes":52,"id":"59208"},
+{"votes":18,"id":"12619"},
+{"votes":4,"id":"7623"},
+{"votes":3,"id":"3486"}],
+"total":13646,"final":"1918"}}},
 "precincts":
-{"total":38,"reporting":22},
+{"total":38,"reporting":29},
 "name":"Whitman"},
 "Skagit":
 {"fips":"53057","races":
@@ -666,7 +666,7 @@
 "name":"Asotin"}},
 "totals":
 {"name":"Washington","precincts":
-{"total":6719,"reporting":4725},
+{"total":6719,"reporting":4732},
 "electoral":11,"races":
 {"U.S. House":
 {"1":
