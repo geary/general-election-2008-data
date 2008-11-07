@@ -449,7 +449,7 @@
 {"votes":169,"id":"12619"}],
 "total":67212,"final":"1918"}}},
 "precincts":
-{"total":150,"reporting":148},
+{"total":150,"reporting":150},
 "name":"Shasta"},
 "Siskiyou":
 {"fips":"06093","races":
@@ -873,7 +873,7 @@
 "name":"Santa Barbara"}},
 "totals":
 {"name":"California","precincts":
-{"total":25429,"reporting":25400},
+{"total":25429,"reporting":25402},
 "electoral":55,"races":
 {"U.S. House":
 {"30":
