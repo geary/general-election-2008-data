@@ -479,7 +479,7 @@
 {"votes":336,"id":"12619"}],
 "total":212389,"final":"1918"}}},
 "precincts":
-{"total":127,"reporting":103},
+{"total":127,"reporting":127},
 "name":"Washington"},
 "Crook":
 {"fips":"41013","races":
@@ -543,7 +543,7 @@
 "name":"Polk"}},
 "totals":
 {"name":"Oregon","precincts":
-{"total":1000,"reporting":942},
+{"total":1000,"reporting":966},
 "electoral":7,"races":
 {"U.S. House":
 {"1":
