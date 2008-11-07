@@ -1260,7 +1260,7 @@
 {"votes":0,"id":"1701"}],
 "total":0,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Trescott Twp"},
 "Hartford":
 {"fips":"23017","races":
@@ -2053,7 +2053,7 @@
 {"votes":0,"id":"1701"}],
 "total":0,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Sinclair Twp"},
 "Frankfort":
 {"fips":"23027","races":
@@ -3288,7 +3288,7 @@
 {"votes":0,"id":"1701"}],
 "total":0,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Langtown Twp"},
 "Lisbon":
 {"fips":"23001","races":
@@ -3561,7 +3561,7 @@
 {"votes":0,"id":"1701"}],
 "total":0,"final":"1918"}}},
 "precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Township 14"},
 "Millinocket":
 {"fips":"23019","races":
@@ -6752,7 +6752,7 @@
 {"name":"Maine","electoral":4,"fix":
 {},
 "precincts":
-{"total":613,"reporting":606},
+{"total":613,"reporting":610},
 "races":
 {"U.S. House":
 {"1":
