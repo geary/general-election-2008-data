@@ -1,4 +1,4 @@
-{"state":"SD","total":381899,"candidates":
+{"state":"SD","total":381901,"candidates":
 {"1701":"GOP|McCain|John McCain","189":"Dem|Johnson|Tim Johnson","581":"Dem|Herseth Sandlin|Stephanie Herseth Sandlin","59208":"AKI|Baldwin|Chuck Baldwin","1918":"Dem|Obama|Barack Obama","3":"|No| No","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","2":"|Yes| Yes","58077":"GOP|Dykstra|Joel Dykstra","58308":"GOP|Lien|Chris Lien"},
 "locals":
 {"Bon Homme":
@@ -412,12 +412,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":2820,"id":"1701"},
-{"votes":1304,"id":"1918"},
+{"votes":2821,"id":"1701"},
+{"votes":1305,"id":"1918"},
 {"votes":51,"id":"3850"},
 {"votes":45,"id":"59208"},
 {"votes":33,"id":"11527"}],
-"total":4253,"final":"1701"}}},
+"total":4255,"final":"1701"}}},
 "precincts":
 {"total":16,"reporting":16},
 "name":"Butte"},
@@ -932,14 +932,14 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":255988,"id":"581"},
+{"votes":255990,"id":"581"},
 {"votes":122943,"id":"58308"}],
 "final":"581"}},
 "President":
 {"":
 {"votes":[
-{"votes":203018,"electoral":3,"id":"1701"},
-{"votes":170884,"electoral":0,"id":"1918"},
+{"votes":203019,"electoral":3,"id":"1701"},
+{"votes":170885,"electoral":0,"id":"1918"},
 {"votes":4267,"electoral":0,"id":"3850"},
 {"votes":1895,"electoral":0,"id":"59208"},
 {"votes":1835,"electoral":0,"id":"11527"}],
@@ -947,19 +947,19 @@
 "Amendment":
 {"J-Eliminate Term Limits":
 {"votes":[
-{"votes":272579,"id":"3"},
+{"votes":272581,"id":"3"},
 {"votes":87366,"id":"2"}],
 "final":"3"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":237833,"id":"189"},
-{"votes":142765,"id":"58077"}],
+{"votes":237834,"id":"189"},
+{"votes":142766,"id":"58077"}],
 "final":"189"}},
 "Initiative":
 {"11-Abortion Ban":
 {"votes":[
-{"votes":206485,"id":"3"},
+{"votes":206487,"id":"3"},
 {"votes":167536,"id":"2"}],
 "final":"3"}}},
 "abbr":"SD"}}
