@@ -894,12 +894,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":244025,"id":"1918"},
-{"votes":107338,"id":"1701"},
-{"votes":2189,"id":"11527"}],
-"total":353552,"final":"1701"}}},
+{"votes":259914,"id":"1918"},
+{"votes":119856,"id":"1701"},
+{"votes":2346,"id":"11527"}],
+"total":382116,"final":"1701"}}},
 "precincts":
-{"total":344,"reporting":340},
+{"total":344,"reporting":342},
 "name":"Fulton"},
 "Macon":
 {"fips":"13193","races":
@@ -1911,7 +1911,7 @@
 "name":"Monroe"}},
 "totals":
 {"name":"Georgia","precincts":
-{"total":3303,"reporting":3272},
+{"total":3303,"reporting":3274},
 "electoral":15,"races":
 {"U.S. House":
 {"11":

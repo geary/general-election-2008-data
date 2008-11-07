@@ -1,4 +1,4 @@
-{"state":"PA","total":5837881,"candidates":
+{"state":"PA","total":5840258,"candidates":
 {"51543":"Dem|Altmire|Jason Altmire","58247":"Dem|Bennett|Sam Bennett","258":"GOP|Pitts|Joseph Pitts","259":"Dem|Holden|Tim Holden","58243":"Dem|Slater|Bruce Slater","59768":"CST|Frank|Daniel Frank","59766":"GOP|Russell|William Russell","59767":"Grn|North|Titus North","59764":"Lib|Fryman|James Fryman","251":"Dem|Kanjorski|Paul Kanjorski","11527":"Lib|Barr|Bob Barr","58266":"GOP|Manion|Tom Manion","58262":"GOP|Hackett|Chris Hackett","255":"Dem|Doyle|Mike Doyle","237":"Dem|Brady|Robert Brady","54139":"Dem|Barr|Tony Barr","49973":"Ind|Lingenfelter|Tom Lingenfelter","51553":"Dem|Avillo|Philip Avillo","58295":"Dem|McCracken|Mark McCracken","3850":"Ind|Nader|Ralph Nader","58298":"Dem|Dahlkemper|Kathy Dahlkemper","59805":"GOP|Lang|Adam Lang","58237":"Dem|O'Donnell|Steve O'Donnell","252":"GOP|Barletta|Lou Barletta","462":"Dem|Murtha|John Murtha","1918":"Dem|Obama|Barack Obama","262":"GOP|Platts|Todd Platts","261":"GOP|Murphy|Tim Murphy","244":"GOP|Gerlach|Jim Gerlach","1865":"GOP|Dent|Charles Dent","58276":"GOP|Williams|W. Craig Williams","242":"GOP|Hart|Melissa Hart","53980":"Ind|Murphy|John Murphy","58279":"Dem|Roggio|Bob Roggio","249":"GOP|Shuster|Bill Shuster","1701":"GOP|McCain|John McCain","39744":"Dem|Schwartz|Allyson Schwartz","58254":"GOP|Kats|Marina Kats","51546":"Dem|Murphy|Patrick Murphy","51547":"Dem|Carney|Christopher Carney","51545":"Dem|Sestak|Joe Sestak","58244":"GOP|Gilhooley|Toni Gilhooley","58283":"GOP|Thompson|Glenn Thompson","58300":"GOP|Muhammad|Mike Muhammad","241":"GOP|English|Phil English","1108":"CST|McDermott|John McDermott","239":"Dem|Fattah|Chaka Fattah"},
 "locals":
 {"Lancaster":
@@ -97,11 +97,11 @@
 {"President":
 {"":
 {"votes":[
-{"votes":169030,"id":"1918"},
-{"votes":109322,"id":"1701"},
-{"votes":1871,"id":"3850"},
-{"votes":859,"id":"11527"}],
-"total":281082,"final":"1918"}}},
+{"votes":170949,"id":"1918"},
+{"votes":109766,"id":"1701"},
+{"votes":1880,"id":"3850"},
+{"votes":864,"id":"11527"}],
+"total":283459,"final":"1918"}}},
 "precincts":
 {"total":425,"reporting":425},
 "name":"Delaware"},
@@ -980,9 +980,9 @@
 "President":
 {"":
 {"votes":[
-{"votes":3190397,"electoral":21,"id":"1918"},
-{"votes":2586052,"electoral":0,"id":"1701"},
-{"votes":41511,"electoral":0,"id":"3850"},
-{"votes":19921,"electoral":0,"id":"11527"}],
+{"votes":3192316,"electoral":21,"id":"1918"},
+{"votes":2586496,"electoral":0,"id":"1701"},
+{"votes":41520,"electoral":0,"id":"3850"},
+{"votes":19926,"electoral":0,"id":"11527"}],
 "final":"1918"}}},
 "abbr":"PA"}}
