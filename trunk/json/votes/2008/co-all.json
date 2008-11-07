@@ -1,4 +1,4 @@
-{"state":"CO","total":2235235,"candidates":
+{"state":"CO","total":2239369,"candidates":
 {"1224":"Dem|Udall|Mark Udall","9344":"Dem|Salazar|John Salazar","59791":"AmC|Scott|Brian Scott","746":"GOP|Musgrave|Marilyn Musgrave","59790":"Uty|Hammons|Bill Hammons","59788":"Lib|Buchanan|Martin Buchanan","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","59348":"Dem|Markey|Betsy Markey","59349":"Dem|Bidlack|Hal Bidlack","59661":"PCF|Lyttle|Bradford Lyttle","59660":"Obj|Stevens|Thomas Stevens","9302":"Dem|Polis|Jared Polis","1222":"AmC|Campbell|Douglas Campbell","59060":"GOP|Wolf|Wayne Wolf","59208":"AKI|Baldwin|Chuck Baldwin","3":"|No| No","2":"|Yes| Yes","734":"Dem|DeGette|Diana DeGette","3850":"Ind|Nader|Ralph Nader","3635":"AIP|Keyes|Alan Keyes","737":"GOP|Lilly|George Lilly","9358":"GOP|Schaffer|Bob Schaffer","3486":"SWP|Harris|James Harris","1918":"Dem|Obama|Barack Obama","51991":"Grn|Calhoun|J. A. Calhoun","59351":"GOP|Lerew|John Lerew","59350":"Dem|Eng|Hank Eng","9174":"GOP|Lamborn|Doug Lamborn","1701":"GOP|McCain|John McCain","9291":"Dem|Perlmutter|Ed Perlmutter","57761":"Una|McEnulty|Frank McEnulty","8993":"GOP|Coffman|Mike Coffman","59056":"GOP|Starin|Scott Starin","7623":"PSL|La Riva|Gloria La Riva","1243":"SPU|Moore|Brian Moore","59783":"Grn|Kinsey|Bob Kinsey","51335":"BoT|Jay|Charles Jay","59659":"HQ8|Allen|Jonathan Allen","51331":"Pro|Amondson|Gene Amondson"},
 "locals":
 {"San Juan":
@@ -881,25 +881,25 @@
 {"President":
 {"":
 {"votes":[
-{"votes":35442,"id":"1918"},
-{"votes":27102,"id":"1701"},
-{"votes":352,"id":"3850"},
-{"votes":139,"id":"11527"},
-{"votes":121,"id":"3635"},
-{"votes":116,"id":"59208"},
-{"votes":59,"id":"12619"},
-{"votes":43,"id":"51335"},
-{"votes":25,"id":"57761"},
+{"votes":38074,"id":"1918"},
+{"votes":28523,"id":"1701"},
+{"votes":385,"id":"3850"},
+{"votes":152,"id":"11527"},
+{"votes":126,"id":"3635"},
+{"votes":126,"id":"59208"},
+{"votes":73,"id":"12619"},
+{"votes":46,"id":"51335"},
+{"votes":27,"id":"57761"},
 {"votes":14,"id":"59660"},
 {"votes":13,"id":"1243"},
 {"votes":10,"id":"7623"},
+{"votes":8,"id":"3486"},
 {"votes":8,"id":"59661"},
-{"votes":7,"id":"3486"},
 {"votes":4,"id":"59659"},
 {"votes":2,"id":"51331"}],
-"total":63457,"final":"1918"}}},
+"total":67591,"final":"1918"}}},
 "precincts":
-{"total":131,"reporting":131},
+{"total":131,"reporting":105},
 "name":"Pueblo"},
 "Lincoln":
 {"fips":"08073","races":
@@ -1603,7 +1603,7 @@
 "name":"Las Animas"}},
 "totals":
 {"name":"Colorado","precincts":
-{"total":3215,"reporting":3123},
+{"total":3215,"reporting":3097},
 "electoral":9,"races":
 {"U.S. House":
 {"1":
@@ -1648,20 +1648,20 @@
 "President":
 {"":
 {"votes":[
-{"votes":1189754,"electoral":9,"id":"1918"},
-{"votes":1009237,"electoral":0,"id":"1701"},
-{"votes":12346,"electoral":0,"id":"3850"},
-{"votes":10073,"electoral":0,"id":"11527"},
-{"votes":5779,"electoral":0,"id":"59208"},
-{"votes":2842,"electoral":0,"id":"3635"},
-{"votes":2587,"electoral":0,"id":"12619"},
-{"votes":775,"electoral":0,"id":"57761"},
-{"votes":548,"electoral":0,"id":"51335"},
+{"votes":1192386,"electoral":9,"id":"1918"},
+{"votes":1010658,"electoral":0,"id":"1701"},
+{"votes":12379,"electoral":0,"id":"3850"},
+{"votes":10086,"electoral":0,"id":"11527"},
+{"votes":5789,"electoral":0,"id":"59208"},
+{"votes":2847,"electoral":0,"id":"3635"},
+{"votes":2601,"electoral":0,"id":"12619"},
+{"votes":777,"electoral":0,"id":"57761"},
+{"votes":551,"electoral":0,"id":"51335"},
 {"votes":308,"electoral":0,"id":"59660"},
 {"votes":305,"electoral":0,"id":"59659"},
 {"votes":210,"electoral":0,"id":"1243"},
 {"votes":145,"electoral":0,"id":"7623"},
-{"votes":143,"electoral":0,"id":"3486"},
+{"votes":144,"electoral":0,"id":"3486"},
 {"votes":103,"electoral":0,"id":"59661"},
 {"votes":80,"electoral":0,"id":"51331"}],
 "final":"1918"}},
@@ -1683,9 +1683,9 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1140585,"id":"1224"},
-{"votes":929816,"id":"9358"},
-{"votes":55870,"id":"1222"},
-{"votes":46259,"id":"59783"}],
+{"votes":1143135,"id":"1224"},
+{"votes":931069,"id":"9358"},
+{"votes":56072,"id":"1222"},
+{"votes":46346,"id":"59783"}],
 "final":"1224"}}},
 "abbr":"CO"}}
