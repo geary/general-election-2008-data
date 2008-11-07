@@ -899,7 +899,7 @@
 {"votes":2,"id":"51331"}],
 "total":67591,"final":"1918"}}},
 "precincts":
-{"total":131,"reporting":105},
+{"total":131,"reporting":131},
 "name":"Pueblo"},
 "Lincoln":
 {"fips":"08073","races":
@@ -1603,7 +1603,7 @@
 "name":"Las Animas"}},
 "totals":
 {"name":"Colorado","precincts":
-{"total":3215,"reporting":3097},
+{"total":3215,"reporting":3123},
 "electoral":9,"races":
 {"U.S. House":
 {"1":
@@ -1614,8 +1614,8 @@
 "final":"734"},
 "3":
 {"votes":[
-{"votes":192994,"id":"9344"},
-{"votes":122394,"id":"59060"}],
+{"votes":196214,"id":"9344"},
+{"votes":123346,"id":"59060"}],
 "final":"9344"},
 "2":
 {"votes":[
@@ -1668,18 +1668,18 @@
 "Amendment":
 {"47-Conditions of Emplymt":
 {"votes":[
-{"votes":1184025,"id":"3"},
-{"votes":949157,"id":"2"}],
+{"votes":1186966,"id":"3"},
+{"votes":950299,"id":"2"}],
 "final":"3"},
 "48-Definition of Person":
 {"votes":[
-{"votes":1575056,"id":"3"},
-{"votes":579209,"id":"2"}],
+{"votes":1577968,"id":"3"},
+{"votes":580382,"id":"2"}],
 "final":"3"},
 "46-Discrimination by Gov":
 {"votes":[
-{"votes":1061247,"id":"3"},
-{"votes":1033743,"id":"2"}]}},
+{"votes":1061396,"id":"3"},
+{"votes":1033865,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
