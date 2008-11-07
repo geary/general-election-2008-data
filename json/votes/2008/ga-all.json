@@ -443,7 +443,7 @@
 {"votes":49,"id":"11527"}],
 "total":5894,"final":"1701"}}},
 "precincts":
-{"total":9,"reporting":8},
+{"total":9,"reporting":9},
 "name":"Jasper"},
 "Effingham":
 {"fips":"13103","races":
@@ -575,7 +575,7 @@
 {"votes":21,"id":"11527"}],
 "total":3436,"final":"1701"}}},
 "precincts":
-{"total":7,"reporting":6},
+{"total":7,"reporting":7},
 "name":"Jenkins"},
 "White":
 {"fips":"13311","races":
@@ -719,7 +719,7 @@
 {"votes":29,"id":"11527"}],
 "total":3176,"final":"1701"}}},
 "precincts":
-{"total":9,"reporting":8},
+{"total":9,"reporting":9},
 "name":"Marion"},
 "Chatham":
 {"fips":"13051","races":
@@ -1643,7 +1643,7 @@
 {"votes":33,"id":"11527"}],
 "total":6784,"final":"1701"}}},
 "precincts":
-{"total":10,"reporting":9},
+{"total":10,"reporting":10},
 "name":"Pierce"},
 "Laurens":
 {"fips":"13175","races":
@@ -1911,7 +1911,7 @@
 "name":"Monroe"}},
 "totals":
 {"name":"Georgia","precincts":
-{"total":3303,"reporting":3291},
+{"total":3303,"reporting":3295},
 "electoral":15,"races":
 {"U.S. House":
 {"11":
