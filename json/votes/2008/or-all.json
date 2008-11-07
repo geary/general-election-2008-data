@@ -1,4 +1,4 @@
-{"state":"OR","total":1565244,"candidates":
+{"state":"OR","total":1570015,"candidates":
 {"51801":"GOP|Erickson|Mike Erickson","57469":"Dem|Merkley|Jeff Merkley","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","54333":"CST|Patterson|Douglas Patterson","1918":"Dem|Obama|Barack Obama","59208":"AKI|Baldwin|Chuck Baldwin","3":"|No| No","2":"|Yes| Yes","481":"GOP|Walden|Greg Walden","3850":"Ind|Nader|Ralph Nader","59807":"PAG|Beilstein|Mike Beilstein","59806":"PAG|Mock|Tristin Mock","1400":"GOP|Smith|Gordon Smith","39371":"Lib|Tabor|Joe Tabor","59848":"Ind|Bates|Sean Bates","1701":"GOP|McCain|John McCain","59847":"PAG|Polikoff|Alex Polikoff","59846":"PAG|Henry|Chris Henry","59797":"PAG|Meo|Michael Meo","59796":"CST|Hake|Richard Hake","59795":"CST|Semrau|Scott Semrau","1494":"CST|Brownlow|Dave Brownlow","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","59799":"Lib|Milligan|Steve Milligan","59798":"CST|Germond|Jaynee Germond","58440":"Ind|Haugen|Joel Haugen","58441":"Dem|Lemas|Noah Lemas","57501":"Dem|Schrader|Kurt Schrader","478":"Dem|Wu|David Wu"},
 "locals":
 {"Wheeler":
@@ -578,26 +578,26 @@
 "final":"57501"},
 "4":
 {"votes":[
-{"votes":177442,"id":"484"},
-{"votes":30769,"id":"59798"},
-{"votes":8762,"id":"59807"}],
+{"votes":180581,"id":"484"},
+{"votes":31586,"id":"59798"},
+{"votes":8931,"id":"59807"}],
 "final":"484"}},
 "President":
 {"":
 {"votes":[
-{"votes":894835,"electoral":7,"id":"1918"},
-{"votes":637621,"electoral":0,"id":"1701"},
-{"votes":15879,"electoral":0,"id":"3850"},
-{"votes":6584,"electoral":0,"id":"59208"},
-{"votes":6524,"electoral":0,"id":"11527"},
-{"votes":3801,"electoral":0,"id":"12619"}],
+{"votes":896692,"electoral":7,"id":"1918"},
+{"votes":640382,"electoral":0,"id":"1701"},
+{"votes":15946,"electoral":0,"id":"3850"},
+{"votes":6625,"electoral":0,"id":"59208"},
+{"votes":6544,"electoral":0,"id":"11527"},
+{"votes":3826,"electoral":0,"id":"12619"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":799190,"id":"57469"},
-{"votes":750149,"id":"1400"},
-{"votes":85516,"id":"1494"}],
+{"votes":799510,"id":"57469"},
+{"votes":750494,"id":"1400"},
+{"votes":85596,"id":"1494"}],
 "final":"57469"}},
 "Measure":
 {"65-Open Primaries":
