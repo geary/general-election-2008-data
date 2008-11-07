@@ -312,17 +312,17 @@
 {"President":
 {"":
 {"votes":[
-{"votes":411115,"id":"1918"},
-{"votes":157823,"id":"1701"},
-{"votes":3831,"id":"3850"},
-{"votes":2291,"id":"11527"},
-{"votes":770,"id":"59208"},
-{"votes":649,"id":"12619"},
-{"votes":116,"id":"3486"},
-{"votes":85,"id":"7623"}],
-"total":576680,"final":"1918"}}},
+{"votes":455050,"id":"1918"},
+{"votes":178261,"id":"1701"},
+{"votes":4401,"id":"3850"},
+{"votes":2639,"id":"11527"},
+{"votes":878,"id":"59208"},
+{"votes":733,"id":"12619"},
+{"votes":128,"id":"3486"},
+{"votes":92,"id":"7623"}],
+"total":642182,"final":"1918"}}},
 "precincts":
-{"total":2058,"reporting":1440},
+{"total":2058,"reporting":1605},
 "name":"King"},
 "Lincoln":
 {"fips":"53043","races":
@@ -666,7 +666,7 @@
 "name":"Asotin"}},
 "totals":
 {"name":"Washington","precincts":
-{"total":6719,"reporting":5059},
+{"total":6719,"reporting":5224},
 "electoral":11,"races":
 {"U.S. House":
 {"1":
