@@ -1019,7 +1019,7 @@
 {"votes":3,"id":"51183"}],
 "total":6281,"final":"1918"}}},
 "precincts":
-{"total":3,"reporting":1},
+{"total":3,"reporting":3},
 "name":"Brattleboro"},
 "Rochester":
 {"fips":"50027","races":
@@ -4185,7 +4185,7 @@
 "name":"Norwich"}},
 "totals":
 {"name":"Vermont","electoral":3,"precincts":
-{"total":260,"reporting":258},
+{"total":260,"reporting":260},
 "races":
 {"U.S. House":
 {"1":
