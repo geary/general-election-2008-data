@@ -3,7 +3,7 @@
 {"Others":
 {"Winning Trend":0,"Leading":0,"Holdovers":0,"Current":0,"Net Change":0,"Won":0},
 "Dem":
-{"Winning Trend":256,"Leading":2,"Holdovers":0,"Current":236,"Net Change":21,"Won":254},
+{"Winning Trend":256,"Leading":1,"Holdovers":0,"Current":236,"Net Change":21,"Won":255},
 "GOP":
 {"Winning Trend":177,"Leading":4,"Holdovers":0,"Current":199,"Net Change":-21,"Won":173}},
 "President":
@@ -570,7 +570,8 @@
 {"votes":[
 {"votes":171497,"id":"57792"},
 {"votes":169494,"id":"54777"},
-{"votes":8518,"id":"58655"}]},
+{"votes":8518,"id":"58655"}],
+"final":"57792"},
 "3":
 {"votes":[
 {"votes":184831,"id":"51603"},
@@ -2136,7 +2137,7 @@
 "abbr":"VT","votesby":"town"},
 "Georgia":
 {"name":"Georgia","precincts":
-{"total":3303,"reporting":3295},
+{"total":3303,"reporting":3298},
 "electoral":15,"races":
 {"U.S. House":
 {"11":
