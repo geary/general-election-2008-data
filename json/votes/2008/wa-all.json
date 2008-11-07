@@ -227,17 +227,17 @@
 {"President":
 {"":
 {"votes":[
-{"votes":27651,"id":"1701"},
-{"votes":22565,"id":"1918"},
-{"votes":396,"id":"3850"},
-{"votes":180,"id":"59208"},
-{"votes":118,"id":"11527"},
-{"votes":43,"id":"12619"},
+{"votes":29522,"id":"1701"},
+{"votes":24210,"id":"1918"},
+{"votes":435,"id":"3850"},
+{"votes":198,"id":"59208"},
+{"votes":128,"id":"11527"},
+{"votes":44,"id":"12619"},
 {"votes":14,"id":"3486"},
 {"votes":12,"id":"7623"}],
-"total":50979,"final":"1918"}}},
+"total":54563,"final":"1918"}}},
 "precincts":
-{"total":183,"reporting":126},
+{"total":183,"reporting":135},
 "name":"Yakima"},
 "Island":
 {"fips":"53029","races":
@@ -666,7 +666,7 @@
 "name":"Asotin"}},
 "totals":
 {"name":"Washington","precincts":
-{"total":6719,"reporting":4732},
+{"total":6719,"reporting":4741},
 "electoral":11,"races":
 {"U.S. House":
 {"1":
