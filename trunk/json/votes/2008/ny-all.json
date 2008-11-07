@@ -1,4 +1,4 @@
-{"state":"NY","total":7012737,"candidates":
+{"state":"NY","total":7020118,"candidates":
 {"59708":"Inp|Morano|Carmine Morano","59720":"Dem|Kryzan|Alice Kryzan","51259":"SWP|Koppel|Martin Koppel","59740":"GOP|Zeldin|Lee Zeldin","59741":"GOP|Carr|Hugh Carr","59742":"Con|Gore|Cartrell Gore","59700":"GOP|Crimmen|David Crimmen","59702":"GOP|Berney|Elizabeth Berney","53886":"Dem|Hall|John Hall","32471":"Dem|Clarke|Yvette Clarke","59705":"GOP|Lin|Grace Lin","51183":"SWP|Calero|Roger Calero","11527":"Lib|Barr|Bob Barr","1899":"GOP|Kuhl|Randy Kuhl","56994":"GOP|Straniere|Robert Straniere","59902":"Con|Cochrane|Timothy Cochrane","12619":"Grn|McKinney|Cynthia McKinney","32548":"GOP|Daniels|Edward Daniels","59689":"GOP|Lalor|Kieran Lalor","59688":"Dem|Long|Graham Long","1545":"Dem|Serrano|Jose E. Serrano","59903":"Lib|Matos|Isaiah Matos","1543":"Dem|Rangel|Charles Rangel","1701":"GOP|McCain|John McCain","32876":"GOP|Grupico|Salvatore Grupico","59904":"Ind|Schley|Craig Schley","1581":"Dem|Slaughter|Louise Slaughter","59687":"GOP|Stalzer|Frank Stalzer","1525":"Dem|Nadler|Jerrold Nadler","1529":"Dem|Weiner|Anthony Weiner","1507":"Dem|Bishop|Timothy Bishop","33669":"GOP|Romaguera|Allan Romaguera","1523":"Dem|Crowley|Joseph Crowley","32916":"Oth|Hawkins|Howie Hawkins","1541":"Dem|Maloney|Carolyn Maloney","1562":"Dem|Hinchey|Maurice Hinchey","59802":"GOP|Martins|Jack Martins","1566":"GOP|McHugh|John McHugh","1521":"Dem|Meeks|Gregory Meeks","51919":"Dem|Maffei|Daniel Maffei","51918":"Dem|Arcuri|Michael Arcuri","59718":"GOP|Phillips|George Phillips","1530":"Con|Donohue|Alfred Donohue","51916":"Dem|Gillibrand|Kirsten Gillibrand","33335":"Dem|McMahon|Michael McMahon","59710":"GOP|Heim|Robert Heim","1918":"Dem|Obama|Barack Obama","1547":"Dem|Engel|Eliot Engel","7623":"PSL|La Riva|Gloria La Riva","32362":"GOP|Britt|William Britt","3850":"Ind|Nader|Ralph Nader","1551":"Dem|Lowey|Nita Lowey","32940":"Dem|Higgins|Brian Higgins","59699":"GOP|Humiston|Daniel Humiston","33371":"GOP|Mohamed|Ali Mohamed","50305":"Con|Policarpio|Jun Policarpio","59692":"Inp|Steck|Phillip Steck","59693":"Dem|Oot|Michael Oot","59690":"GOP|Treadwell|Sandy Treadwell","59691":"GOP|Buhrmaster|James Buhrmaster","59696":"WF|Powers|Jonathan Powers","59697":"GOP|Lee|Christopher Lee","59694":"GOP|Hanna|Richard Hanna","59695":"GOP|Sweetland|Dale Sweetland","51924":"Dem|Massa|Eric Massa","50632":"GOP|Russell|Jim Russell","1535":"Dem|Velazquez|Nydia Velazquez","57037":"Dem|Tonko|Paul Tonko","1519":"Dem|Ackerman|Gary Ackerman","1531":"Dem|Towns|Edolphus Towns","51923":"Con|Schroeder|Harold Schroeder","1514":"GOP|King|Peter King","1516":"Dem|McCarthy|Carolyn McCarthy","32827":"GOP|Goodman|Robert Goodman","1510":"Dem|Israel|Steve Israel"},
 "locals":
 {"Albany":
@@ -1036,8 +1036,8 @@
 "final":"57037"},
 "22":
 {"votes":[
-{"votes":150528,"id":"1562"},
-{"votes":77598,"id":"59718"}],
+{"votes":154524,"id":"1562"},
+{"votes":79155,"id":"59718"}],
 "final":"1562"},
 "23":
 {"votes":[
@@ -1147,8 +1147,8 @@
 "final":"1545"},
 "19":
 {"votes":[
-{"votes":152148,"id":"53886"},
-{"votes":109119,"id":"59689"}],
+{"votes":153919,"id":"53886"},
+{"votes":109291,"id":"59689"}],
 "final":"53886"},
 "18":
 {"votes":[
@@ -1158,12 +1158,12 @@
 "President":
 {"":
 {"votes":[
-{"votes":4358247,"electoral":31,"id":"1918"},
-{"votes":2573976,"electoral":0,"id":"1701"},
-{"votes":37981,"electoral":0,"id":"3850"},
-{"votes":22523,"electoral":0,"id":"11527"},
-{"votes":12017,"electoral":0,"id":"12619"},
-{"votes":5699,"electoral":0,"id":"51183"},
-{"votes":2294,"electoral":0,"id":"7623"}],
+{"votes":4363386,"electoral":31,"id":"1918"},
+{"votes":2576360,"electoral":0,"id":"1701"},
+{"votes":38048,"electoral":0,"id":"3850"},
+{"votes":22292,"electoral":0,"id":"11527"},
+{"votes":12031,"electoral":0,"id":"12619"},
+{"votes":5703,"electoral":0,"id":"51183"},
+{"votes":2298,"electoral":0,"id":"7623"}],
 "final":"1918"}}},
 "abbr":"NY"}}
