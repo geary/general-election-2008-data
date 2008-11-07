@@ -1,4 +1,4 @@
-{"state":"OR","total":1494442,"candidates":
+{"state":"OR","total":1506948,"candidates":
 {"51801":"GOP|Erickson|Mike Erickson","57469":"Dem|Merkley|Jeff Merkley","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","54333":"CST|Patterson|Douglas Patterson","1918":"Dem|Obama|Barack Obama","59208":"AKI|Baldwin|Chuck Baldwin","3":"|No| No","2":"|Yes| Yes","481":"GOP|Walden|Greg Walden","3850":"Ind|Nader|Ralph Nader","59807":"PAG|Beilstein|Mike Beilstein","59806":"PAG|Mock|Tristin Mock","1400":"GOP|Smith|Gordon Smith","39371":"Lib|Tabor|Joe Tabor","59848":"Ind|Bates|Sean Bates","1701":"GOP|McCain|John McCain","59847":"PAG|Polikoff|Alex Polikoff","59846":"PAG|Henry|Chris Henry","59797":"PAG|Meo|Michael Meo","59796":"CST|Hake|Richard Hake","59795":"CST|Semrau|Scott Semrau","1494":"CST|Brownlow|Dave Brownlow","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","59799":"Lib|Milligan|Steve Milligan","59798":"CST|Germond|Jaynee Germond","58440":"Ind|Haugen|Joel Haugen","58441":"Dem|Lemas|Noah Lemas","57501":"Dem|Schrader|Kurt Schrader","478":"Dem|Wu|David Wu"},
 "locals":
 {"Wheeler":
@@ -556,9 +556,9 @@
 "final":"478"},
 "3":
 {"votes":[
-{"votes":234681,"id":"482"},
-{"votes":62979,"id":"58449"},
-{"votes":13551,"id":"59797"}],
+{"votes":237814,"id":"482"},
+{"votes":65505,"id":"58449"},
+{"votes":13768,"id":"59797"}],
 "final":"482"},
 "2":
 {"votes":[
@@ -569,12 +569,12 @@
 "final":"481"},
 "5":
 {"votes":[
-{"votes":165463,"id":"57501"},
-{"votes":115442,"id":"51801"},
-{"votes":6122,"id":"59848"},
-{"votes":5788,"id":"54333"},
-{"votes":4707,"id":"59847"},
-{"votes":4314,"id":"59799"}],
+{"votes":168086,"id":"57501"},
+{"votes":117934,"id":"51801"},
+{"votes":6215,"id":"59848"},
+{"votes":5922,"id":"54333"},
+{"votes":4775,"id":"59847"},
+{"votes":4392,"id":"59799"}],
 "final":"57501"},
 "4":
 {"votes":[
@@ -585,19 +585,19 @@
 "President":
 {"":
 {"votes":[
-{"votes":856970,"electoral":7,"id":"1918"},
-{"votes":606349,"electoral":0,"id":"1701"},
-{"votes":15167,"electoral":0,"id":"3850"},
-{"votes":6191,"electoral":0,"id":"59208"},
-{"votes":6100,"electoral":0,"id":"11527"},
-{"votes":3665,"electoral":0,"id":"12619"}],
+{"votes":862741,"electoral":7,"id":"1918"},
+{"votes":612765,"electoral":0,"id":"1701"},
+{"votes":15323,"electoral":0,"id":"3850"},
+{"votes":6265,"electoral":0,"id":"59208"},
+{"votes":6168,"electoral":0,"id":"11527"},
+{"votes":3686,"electoral":0,"id":"12619"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":791673,"id":"57469"},
-{"votes":742124,"id":"1400"},
-{"votes":84659,"id":"1494"}],
+{"votes":796391,"id":"57469"},
+{"votes":748800,"id":"1400"},
+{"votes":85329,"id":"1494"}],
 "final":"57469"}},
 "Measure":
 {"65-Open Primaries":
