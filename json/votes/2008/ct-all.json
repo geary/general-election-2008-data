@@ -1,4 +1,4 @@
-{"state":"CT","total":1603429,"candidates":
+{"state":"CT","total":1603496,"candidates":
 {"1701":"GOP|McCain|John McCain","1139":"Dem|Larson|John Larson","1141":"Dem|DeLauro|Rosa DeLauro","59883":"Ind|Winn|Thomas Winn","1231":"Dem|Courtney|Joe Courtney","59878":"Grn|Deshefy|Scott Deshefy","59880":"Grn|Burbank|Harold Burbank","59877":"Grn|Fournier|Stephen Fournier","59879":"Lib|Carrano|Michael Carrano","52147":"Dem|Murphy|Chris Murphy","59590":"Dem|Himes|Jim Himes","1144":"GOP|Shays|Christopher Shays","59587":"GOP|Visconti|Joe Visconti","3850":"Ind|Nader|Ralph Nader","9700":"Grn|Ferrucci|Ralph Ferrucci","59588":"GOP|Sullivan|Sean Sullivan","59589":"GOP|Itshaky|Bo Itshaky","53798":"Grn|Duffee|Richard Duffee","1918":"Dem|Obama|Barack Obama","52155":"GOP|Cappiello|David Cappiello"},
 "locals":
 {"New London":
@@ -1434,10 +1434,10 @@
 {"President":
 {"":
 {"votes":[
-{"votes":6267,"id":"1918"},
-{"votes":4345,"id":"1701"},
-{"votes":129,"id":"3850"}],
-"total":10741,"final":"1918"}}},
+{"votes":6301,"id":"1918"},
+{"votes":4376,"id":"1701"},
+{"votes":131,"id":"3850"}],
+"total":10808,"final":"1918"}}},
 "precincts":
 {"total":4,"reporting":4},
 "name":"Waterford"},
@@ -2048,9 +2048,9 @@
 "final":"1141"},
 "2":
 {"votes":[
-{"votes":209355,"id":"1231"},
-{"votes":103983,"id":"59588"},
-{"votes":6936,"id":"59878"}],
+{"votes":209444,"id":"1231"},
+{"votes":103999,"id":"59588"},
+{"votes":6938,"id":"59878"}],
 "final":"1231"},
 "5":
 {"votes":[
@@ -2069,8 +2069,8 @@
 "President":
 {"":
 {"votes":[
-{"votes":971393,"electoral":7,"id":"1918"},
-{"votes":613843,"electoral":0,"id":"1701"},
-{"votes":18193,"electoral":0,"id":"3850"}],
+{"votes":971427,"electoral":7,"id":"1918"},
+{"votes":613874,"electoral":0,"id":"1701"},
+{"votes":18195,"electoral":0,"id":"3850"}],
 "final":"1918"}}},
 "abbr":"CT","votesby":"town"}}
