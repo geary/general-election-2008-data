@@ -8,11 +8,11 @@
 {"Winning Trend":178,"Leading":5,"Holdovers":0,"Current":199,"Net Change":-20,"Won":173}},
 "President":
 {"Others":
-{"votes":"1589518","won":false,"electoral":"0"},
+{"votes":"1589734","won":false,"electoral":"0"},
 "McCain":
-{"votes":"57083294","won":false,"electoral":"162"},
+{"votes":"57087039","won":false,"electoral":"162"},
 "Obama":
-{"votes":"64908628","won":true,"electoral":"364"}},
+{"votes":"64919202","won":true,"electoral":"364"}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":2,"Leading":0,"Holdovers":2,"Current":2,"Net Change":0,"Won":0},
@@ -3168,10 +3168,10 @@
 "final":"9344"},
 "2":
 {"votes":[
-{"votes":181573,"id":"9302"},
-{"votes":104758,"id":"59056"},
-{"votes":8569,"id":"51991"},
-{"votes":1923,"id":"59790"}],
+{"votes":189433,"id":"9302"},
+{"votes":107282,"id":"59056"},
+{"votes":8839,"id":"51991"},
+{"votes":1964,"id":"59790"}],
 "final":"9302"},
 "5":
 {"votes":[
@@ -3181,8 +3181,8 @@
 "final":"9174"},
 "4":
 {"votes":[
-{"votes":171129,"id":"59348"},
-{"votes":135648,"id":"746"}],
+{"votes":173237,"id":"59348"},
+{"votes":136798,"id":"746"}],
 "final":"59348"},
 "7":
 {"votes":[
@@ -3217,18 +3217,18 @@
 "Amendment":
 {"47-Conditions of Emplymt":
 {"votes":[
-{"votes":1175798,"id":"3"},
-{"votes":943578,"id":"2"}],
+{"votes":1184025,"id":"3"},
+{"votes":949157,"id":"2"}],
 "final":"3"},
 "48-Definition of Person":
 {"votes":[
-{"votes":1563032,"id":"3"},
-{"votes":577140,"id":"2"}],
+{"votes":1575056,"id":"3"},
+{"votes":579209,"id":"2"}],
 "final":"3"},
 "46-Discrimination by Gov":
 {"votes":[
-{"votes":1052864,"id":"3"},
-{"votes":1028500,"id":"2"}]}},
+{"votes":1061247,"id":"3"},
+{"votes":1033743,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
