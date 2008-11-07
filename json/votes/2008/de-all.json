@@ -1,4 +1,4 @@
-{"state":"DE","total":403631,"candidates":
+{"state":"DE","total":412328,"candidates":
 {"59890":"Lib|Parks|Mark Parks","1701":"GOP|McCain|John McCain","57577":"GOP|O'Donnell|Christine O'Donnell","10263":"Dem|Markell|Jack Markell","12619":"Grn|McKinney|Cynthia McKinney","56001":"Dem|Hartley-Nagle|Karen Hartley-Nagle","59208":"AKI|Baldwin|Chuck Baldwin","59889":"BEP|Brown|Jeffrey Brown","51183":"SWP|Calero|Roger Calero","1918":"Dem|Obama|Barack Obama","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","50230":"GOP|Lee|Bill Lee","1036":"Dem|Biden|Joe Biden","1035":"GOP|Castle|Mike Castle"},
 "locals":
 {"New Castle":
@@ -63,8 +63,8 @@
 "President":
 {"":
 {"votes":[
-{"votes":247386,"electoral":3,"id":"1918"},
-{"votes":151667,"electoral":0,"id":"1701"},
+{"votes":255394,"electoral":3,"id":"1918"},
+{"votes":152356,"electoral":0,"id":"1701"},
 {"votes":2401,"electoral":0,"id":"3850"},
 {"votes":1108,"electoral":0,"id":"11527"},
 {"votes":626,"electoral":0,"id":"59208"},
