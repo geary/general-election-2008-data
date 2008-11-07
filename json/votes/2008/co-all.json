@@ -799,7 +799,7 @@
 {"votes":2,"id":"51331"}],
 "total":68165,"final":"1918"}}},
 "precincts":
-{"total":82,"reporting":77},
+{"total":82,"reporting":82},
 "name":"Mesa"},
 "Yuma":
 {"fips":"08125","races":
@@ -1603,7 +1603,7 @@
 "name":"Las Animas"}},
 "totals":
 {"name":"Colorado","precincts":
-{"total":3215,"reporting":3152},
+{"total":3215,"reporting":3157},
 "electoral":9,"races":
 {"U.S. House":
 {"1":
