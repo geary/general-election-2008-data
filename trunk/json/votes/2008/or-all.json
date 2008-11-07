@@ -419,7 +419,7 @@
 {"votes":245,"id":"12619"}],
 "total":174464,"final":"1918"}}},
 "precincts":
-{"total":104,"reporting":82},
+{"total":104,"reporting":104},
 "name":"Clackamas"},
 "Gilliam":
 {"fips":"41021","races":
@@ -543,7 +543,7 @@
 "name":"Polk"}},
 "totals":
 {"name":"Oregon","precincts":
-{"total":1000,"reporting":920},
+{"total":1000,"reporting":942},
 "electoral":7,"races":
 {"U.S. House":
 {"1":
