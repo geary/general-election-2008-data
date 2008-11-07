@@ -1,4 +1,4 @@
-{"state":"OR","total":1575681,"candidates":
+{"state":"OR","total":1607917,"candidates":
 {"51801":"GOP|Erickson|Mike Erickson","57469":"Dem|Merkley|Jeff Merkley","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","54333":"CST|Patterson|Douglas Patterson","1918":"Dem|Obama|Barack Obama","59208":"AKI|Baldwin|Chuck Baldwin","3":"|No| No","2":"|Yes| Yes","481":"GOP|Walden|Greg Walden","3850":"Ind|Nader|Ralph Nader","59807":"PAG|Beilstein|Mike Beilstein","59806":"PAG|Mock|Tristin Mock","1400":"GOP|Smith|Gordon Smith","39371":"Lib|Tabor|Joe Tabor","59848":"Ind|Bates|Sean Bates","1701":"GOP|McCain|John McCain","59847":"PAG|Polikoff|Alex Polikoff","59846":"PAG|Henry|Chris Henry","59797":"PAG|Meo|Michael Meo","59796":"CST|Hake|Richard Hake","59795":"CST|Semrau|Scott Semrau","1494":"CST|Brownlow|Dave Brownlow","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","59799":"Lib|Milligan|Steve Milligan","59798":"CST|Germond|Jaynee Germond","58440":"Ind|Haugen|Joel Haugen","58441":"Dem|Lemas|Noah Lemas","57501":"Dem|Schrader|Kurt Schrader","478":"Dem|Wu|David Wu"},
 "locals":
 {"Wheeler":
@@ -21,15 +21,15 @@
 {"President":
 {"":
 {"votes":[
-{"votes":34091,"id":"1918"},
-{"votes":29925,"id":"1701"},
-{"votes":507,"id":"3850"},
-{"votes":336,"id":"59208"},
-{"votes":256,"id":"11527"},
-{"votes":141,"id":"12619"}],
-"total":65256,"final":"1918"}}},
+{"votes":47806,"id":"1701"},
+{"votes":47664,"id":"1918"},
+{"votes":816,"id":"3850"},
+{"votes":582,"id":"59208"},
+{"votes":409,"id":"11527"},
+{"votes":215,"id":"12619"}],
+"total":97492,"final":"1918"}}},
 "precincts":
-{"total":56,"reporting":31},
+{"total":56,"reporting":56},
 "name":"Jackson"},
 "Grant":
 {"fips":"41023","races":
@@ -543,7 +543,7 @@
 "name":"Polk"}},
 "totals":
 {"name":"Oregon","precincts":
-{"total":1000,"reporting":824},
+{"total":1000,"reporting":849},
 "electoral":7,"races":
 {"U.S. House":
 {"1":
@@ -562,10 +562,10 @@
 "final":"482"},
 "2":
 {"votes":[
-{"votes":212280,"id":"481"},
-{"votes":78522,"id":"58441"},
-{"votes":8186,"id":"59806"},
-{"votes":5040,"id":"59796"}],
+{"votes":233005,"id":"481"},
+{"votes":86089,"id":"58441"},
+{"votes":9407,"id":"59806"},
+{"votes":5681,"id":"59796"}],
 "final":"481"},
 "5":
 {"votes":[
@@ -585,19 +585,19 @@
 "President":
 {"":
 {"votes":[
-{"votes":899960,"electoral":7,"id":"1918"},
-{"votes":642593,"electoral":0,"id":"1701"},
-{"votes":16047,"electoral":0,"id":"3850"},
-{"votes":6652,"electoral":0,"id":"59208"},
-{"votes":6568,"electoral":0,"id":"11527"},
-{"votes":3861,"electoral":0,"id":"12619"}],
+{"votes":913533,"electoral":7,"id":"1918"},
+{"votes":660474,"electoral":0,"id":"1701"},
+{"votes":16356,"electoral":0,"id":"3850"},
+{"votes":6898,"electoral":0,"id":"59208"},
+{"votes":6721,"electoral":0,"id":"11527"},
+{"votes":3935,"electoral":0,"id":"12619"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":799510,"id":"57469"},
-{"votes":750494,"id":"1400"},
-{"votes":85596,"id":"1494"}],
+{"votes":803303,"id":"57469"},
+{"votes":755784,"id":"1400"},
+{"votes":86282,"id":"1494"}],
 "final":"57469"}},
 "Measure":
 {"65-Open Primaries":
