@@ -1,4 +1,4 @@
-{"state":"MN","total":2900647,"candidates":
+{"state":"MN","total":2900609,"candidates":
 {"59601":"GOP|Davis|Brian Davis","59603":"Dem|Madia|Ashwin Madia","59602":"Inp|Dillon|David Dillon","59605":"GOP|Davis White|Barb Davis White","59604":"GOP|Matthews|Ed Matthews","55265":"Dem|Ellison|Keith Ellison","59606":"Dem|Tinklenberg|El Tinklenberg","59609":"Dem|Sarvi|Steve Sarvi","59608":"Dem|Franken|Al Franken","985":"GOP|Kline|John Kline","989":"Dem|McCollum|Betty McCollum","12619":"Grn|McKinney|Cynthia McKinney","51531":"Dem|Walz|Tim Walz","59607":"GOP|Cummins|Michael Cummins","59680":"CST|Niemackl|James Niemackl","59208":"AKI|Baldwin|Chuck Baldwin","55233":"GOP|Paulsen|Erik Paulsen","3850":"Ind|Nader|Ralph Nader","59610":"Inp|Anderson|Bob Anderson","996":"Dem|Oberstar|James Oberstar","1330":"Inp|Mikkelson|Gregory Mikkelson","1333":"Dem|Peterson|Collin Peterson","55336":"GOP|Bachmann|Michele Bachmann","1918":"Dem|Obama|Barack Obama","26543":"Inp|McGaughey|Bill McGaughey","51525":"Lib|Aldrich|Charles Aldrich","972":"GOP|Coleman|Norm Coleman","1701":"GOP|McCain|John McCain","51183":"SWP|Calero|Roger Calero","26560":"GOP|Menze|Glen Menze","59679":"Inp|Barkley|Dean Barkley","11527":"Lib|Barr|Bob Barr"},
 "locals":
 {"Red Lake":
@@ -1270,14 +1270,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":77232,"id":"1918"},
-{"votes":38730,"id":"1701"},
+{"votes":77230,"id":"1918"},
+{"votes":38732,"id":"1701"},
 {"votes":1311,"id":"3850"},
 {"votes":342,"id":"11527"},
 {"votes":318,"id":"59208"},
-{"votes":257,"id":"12619"},
+{"votes":219,"id":"12619"},
 {"votes":49,"id":"51183"}],
-"total":118239,"final":"1918"}}},
+"total":118201,"final":"1918"}}},
 "precincts":
 {"total":184,"reporting":184},
 "name":"St. Louis"},
@@ -1447,12 +1447,12 @@
 "President":
 {"":
 {"votes":[
-{"votes":1573162,"electoral":10,"id":"1918"},
-{"votes":1275368,"electoral":0,"id":"1701"},
+{"votes":1573160,"electoral":10,"id":"1918"},
+{"votes":1275370,"electoral":0,"id":"1701"},
 {"votes":30154,"electoral":0,"id":"3850"},
 {"votes":9176,"electoral":0,"id":"11527"},
 {"votes":6787,"electoral":0,"id":"59208"},
-{"votes":5210,"electoral":0,"id":"12619"},
+{"votes":5172,"electoral":0,"id":"12619"},
 {"votes":790,"electoral":0,"id":"51183"}],
 "final":"1918"}},
 "U.S. Senate":
