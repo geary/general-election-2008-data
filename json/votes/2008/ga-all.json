@@ -95,7 +95,7 @@
 {"votes":23,"id":"11527"}],
 "total":4668,"final":"1701"}}},
 "precincts":
-{"total":11,"reporting":10},
+{"total":11,"reporting":11},
 "name":"Wilkinson"},
 "Ben Hill":
 {"fips":"13017","races":
@@ -611,7 +611,7 @@
 {"votes":59,"id":"11527"}],
 "total":9115,"final":"1701"}}},
 "precincts":
-{"total":11,"reporting":10},
+{"total":11,"reporting":11},
 "name":"Putnam"},
 "Coffee":
 {"fips":"13069","races":
@@ -1911,7 +1911,7 @@
 "name":"Monroe"}},
 "totals":
 {"name":"Georgia","precincts":
-{"total":3303,"reporting":3289},
+{"total":3303,"reporting":3291},
 "electoral":15,"races":
 {"U.S. House":
 {"11":
@@ -1987,8 +1987,8 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1863986,"id":"823"},
-{"votes":1752978,"id":"12572"},
+{"votes":1863989,"id":"823"},
+{"votes":1752980,"id":"12572"},
 {"votes":127719,"id":"50921"}],
 "final":"823"}}},
 "abbr":"GA"}}
