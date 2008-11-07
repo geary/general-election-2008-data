@@ -8,11 +8,11 @@
 {"Winning Trend":177,"Leading":4,"Holdovers":0,"Current":199,"Net Change":-21,"Won":173}},
 "President":
 {"Others":
-{"votes":"1594060","won":false,"electoral":"0"},
+{"votes":"1593918","won":false,"electoral":"0"},
 "McCain":
-{"votes":"57192255","won":false,"electoral":"162"},
+{"votes":"57194639","won":false,"electoral":"162"},
 "Obama":
-{"votes":"65139550","won":true,"electoral":"364"}},
+{"votes":"65144689","won":true,"electoral":"364"}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":2,"Leading":0,"Holdovers":2,"Current":2,"Net Change":0,"Won":0},
@@ -2942,7 +2942,7 @@
 {"name":"New York","electoral":31,"fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
-{"total":16300,"reporting":16214},
+{"total":16300,"reporting":16218},
 "races":
 {"U.S. House":
 {"24":
