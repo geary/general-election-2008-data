@@ -1,4 +1,4 @@
-{"state":"GA","total":3910206,"candidates":
+{"state":"GA","total":3910212,"candidates":
 {"12873":"GOP|Price|Tom Price","11527":"Lib|Barr|Bob Barr","51799":"GOP|Honeycutt|Deborah Honeycutt","13348":"GOP|Westmoreland|Lynn Westmoreland","833":"Dem|Lewis|John Lewis","837":"GOP|Linder|John Linder","1257":"Dem|Scott|David Scott","1253":"Dem|Bishop|Sanford Bishop","50921":"Lib|Buckley|Allen Buckley","59442":"GOP|Stone|John Stone","59441":"Dem|Scott|Jeff Scott","59440":"Dem|Jones|Bill Jones","59402":"Dem|Heckman|Doug Heckman","59399":"Dem|Camp|Stephen Camp","59400":"Dem|Johnson|Hank Johnson","59406":"Dem|Gammon|Bud Gammon","59405":"Dem|Saxon|Bobby Saxon","59404":"GOP|Goddard|Rick Goddard","59397":"Dem|Gillespie|Bill Gillespie","1837":"Dem|Barrow|John Barrow","1701":"GOP|McCain|John McCain","843":"GOP|Gingrey|Phil Gingrey","841":"GOP|Deal|Nathan Deal","1918":"Dem|Obama|Barack Obama","12572":"Dem|Martin|Jim Martin","59398":"GOP|Ferrell|Lee Ferrell","829":"Dem|Marshall|Jim Marshall","828":"GOP|Kingston|Jack Kingston","11650":"GOP|Broun|Paul Broun","823":"GOP|Chambliss|Saxby Chambliss"},
 "locals":
 {"Union":
@@ -822,10 +822,10 @@
 {"President":
 {"":
 {"votes":[
-{"votes":4142,"id":"1701"},
-{"votes":2228,"id":"1918"},
+{"votes":4144,"id":"1701"},
+{"votes":2232,"id":"1918"},
 {"votes":60,"id":"11527"}],
-"total":6430,"final":"1701"}}},
+"total":6436,"final":"1701"}}},
 "precincts":
 {"total":12,"reporting":12},
 "name":"Oglethorpe"},
@@ -1921,8 +1921,8 @@
 "final":"843"},
 "10":
 {"votes":[
-{"votes":177127,"id":"11650"},
-{"votes":114472,"id":"59405"}],
+{"votes":177131,"id":"11650"},
+{"votes":114474,"id":"59405"}],
 "final":"11650"},
 "13":
 {"votes":[
@@ -1980,15 +1980,15 @@
 "President":
 {"":
 {"votes":[
-{"votes":2044453,"electoral":15,"id":"1701"},
-{"votes":1837037,"electoral":0,"id":"1918"},
+{"votes":2044455,"electoral":15,"id":"1701"},
+{"votes":1837041,"electoral":0,"id":"1918"},
 {"votes":28716,"electoral":0,"id":"11527"}],
 "final":"1701"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1863602,"id":"823"},
-{"votes":1752008,"id":"12572"},
-{"votes":127676,"id":"50921"}],
+{"votes":1863603,"id":"823"},
+{"votes":1752011,"id":"12572"},
+{"votes":127677,"id":"50921"}],
 "final":"823"}}},
 "abbr":"GA"}}
