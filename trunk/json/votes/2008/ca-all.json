@@ -21,15 +21,15 @@
 {"President":
 {"":
 {"votes":[
-{"votes":282332,"id":"1918"},
-{"votes":118480,"id":"1701"},
-{"votes":2798,"id":"3850"},
-{"votes":2344,"id":"11527"},
-{"votes":1063,"id":"3635"},
-{"votes":1033,"id":"12619"}],
-"total":408050,"final":"1918"}}},
+{"votes":386279,"id":"1918"},
+{"votes":158630,"id":"1701"},
+{"votes":3904,"id":"3850"},
+{"votes":3254,"id":"11527"},
+{"votes":1460,"id":"3635"},
+{"votes":1452,"id":"12619"}],
+"total":554979,"final":"1918"}}},
 "precincts":
-{"total":1142,"reporting":733},
+{"total":1142,"reporting":1142},
 "name":"Santa Clara"},
 "Lake":
 {"fips":"06033","races":
@@ -873,7 +873,7 @@
 "name":"Santa Barbara"}},
 "totals":
 {"name":"California","precincts":
-{"total":25429,"reporting":24991},
+{"total":25429,"reporting":25400},
 "electoral":55,"races":
 {"U.S. House":
 {"30":

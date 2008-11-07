@@ -1478,7 +1478,7 @@
 "abbr":"MT"},
 "California":
 {"name":"California","precincts":
-{"total":25429,"reporting":24991},
+{"total":25429,"reporting":25400},
 "electoral":55,"races":
 {"U.S. House":
 {"30":
