@@ -471,15 +471,15 @@
 {"President":
 {"":
 {"votes":[
-{"votes":98249,"id":"1918"},
-{"votes":55956,"id":"1701"},
-{"votes":1135,"id":"3850"},
-{"votes":670,"id":"11527"},
-{"votes":473,"id":"59208"},
-{"votes":233,"id":"12619"}],
-"total":156716,"final":"1918"}}},
+{"votes":128402,"id":"1918"},
+{"votes":80203,"id":"1701"},
+{"votes":1654,"id":"3850"},
+{"votes":1013,"id":"11527"},
+{"votes":781,"id":"59208"},
+{"votes":336,"id":"12619"}],
+"total":212389,"final":"1918"}}},
 "precincts":
-{"total":127,"reporting":76},
+{"total":127,"reporting":103},
 "name":"Washington"},
 "Crook":
 {"fips":"41013","races":
@@ -543,7 +543,7 @@
 "name":"Polk"}},
 "totals":
 {"name":"Oregon","precincts":
-{"total":1000,"reporting":796},
+{"total":1000,"reporting":823},
 "electoral":7,"races":
 {"U.S. House":
 {"1":
@@ -602,17 +602,17 @@
 "Measure":
 {"65-Open Primaries":
 {"votes":[
-{"votes":882188,"id":"3"},
-{"votes":463598,"id":"2"}],
+{"votes":889289,"id":"3"},
+{"votes":467061,"id":"2"}],
 "final":"3"},
 "60-Teacher Merit Pay":
 {"votes":[
-{"votes":879487,"id":"3"},
-{"votes":557153,"id":"2"}],
+{"votes":886130,"id":"3"},
+{"votes":562291,"id":"2"}],
 "final":"3"},
 "58-Bilingual Education":
 {"votes":[
-{"votes":805273,"id":"3"},
-{"votes":629528,"id":"2"}],
+{"votes":811173,"id":"3"},
+{"votes":635306,"id":"2"}],
 "final":"3"}}},
 "abbr":"OR"}}
