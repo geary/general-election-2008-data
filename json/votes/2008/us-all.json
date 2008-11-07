@@ -8,11 +8,11 @@
 {"Winning Trend":178,"Leading":5,"Holdovers":0,"Current":199,"Net Change":-20,"Won":173}},
 "President":
 {"Others":
-{"votes":"1588969","won":false,"electoral":"0"},
+{"votes":"1589345","won":false,"electoral":"0"},
 "McCain":
-{"votes":"57069963","won":false,"electoral":"162"},
+{"votes":"57079909","won":false,"electoral":"162"},
 "Obama":
-{"votes":"64894691","won":true,"electoral":"364"}},
+{"votes":"64906492","won":true,"electoral":"364"}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":2,"Leading":0,"Holdovers":2,"Current":2,"Net Change":0,"Won":0},
@@ -1375,8 +1375,8 @@
 "Measure":
 {"65-Open Primaries":
 {"votes":[
-{"votes":1009646,"id":"3"},
-{"votes":521274,"id":"2"}],
+{"votes":1011585,"id":"3"},
+{"votes":522384,"id":"2"}],
 "final":"3"},
 "60-Teacher Merit Pay":
 {"votes":[
@@ -1540,9 +1540,9 @@
 "final":"67"},
 "48":
 {"votes":[
-{"votes":129436,"id":"52471"},
-{"votes":95683,"id":"51833"},
-{"votes":8590,"id":"58800"}],
+{"votes":135708,"id":"52471"},
+{"votes":99212,"id":"51833"},
+{"votes":8927,"id":"58800"}],
 "final":"52471"},
 "49":
 {"votes":[
@@ -1552,16 +1552,16 @@
 "final":"146"},
 "46":
 {"votes":[
-{"votes":114672,"id":"138"},
-{"votes":95522,"id":"58783"},
-{"votes":6163,"id":"7647"},
-{"votes":3278,"id":"58784"}],
+{"votes":119709,"id":"138"},
+{"votes":98644,"id":"58783"},
+{"votes":6351,"id":"7647"},
+{"votes":3384,"id":"58784"}],
 "final":"138"},
 "47":
 {"votes":[
-{"votes":50102,"id":"140"},
-{"votes":21029,"id":"58785"},
-{"votes":4374,"id":"58791"}],
+{"votes":54318,"id":"140"},
+{"votes":22369,"id":"58785"},
+{"votes":4584,"id":"58791"}],
 "final":"140"},
 "44":
 {"votes":[
@@ -1585,8 +1585,8 @@
 "final":"128"},
 "40":
 {"votes":[
-{"votes":109360,"id":"1215"},
-{"votes":64028,"id":"119"}],
+{"votes":114567,"id":"1215"},
+{"votes":66521,"id":"119"}],
 "final":"1215"},
 "41":
 {"votes":[
@@ -1619,8 +1619,8 @@
 "final":"51416"},
 "4":
 {"votes":[
-{"votes":155771,"id":"52499"},
-{"votes":155320,"id":"58696"}]},
+{"votes":156516,"id":"52499"},
+{"votes":155807,"id":"58696"}]},
 "7":
 {"votes":[
 {"votes":128657,"id":"21"},
@@ -1642,10 +1642,10 @@
 "final":"28"},
 "8":
 {"votes":[
-{"votes":126073,"id":"24"},
-{"votes":29951,"id":"59825"},
-{"votes":16149,"id":"58718"},
-{"votes":4024,"id":"51771"}],
+{"votes":134767,"id":"24"},
+{"votes":31445,"id":"59825"},
+{"votes":17477,"id":"58718"},
+{"votes":4296,"id":"51771"}],
 "final":"24"},
 "13":
 {"votes":[
@@ -1654,11 +1654,11 @@
 "final":"38"},
 "12":
 {"votes":[
-{"votes":138272,"id":"52489"},
-{"votes":34042,"id":"6796"},
-{"votes":3939,"id":"7350"},
-{"votes":3889,"id":"58721"},
-{"votes":3875,"id":"58727"}],
+{"votes":140245,"id":"52489"},
+{"votes":34429,"id":"6796"},
+{"votes":4008,"id":"7350"},
+{"votes":3932,"id":"58721"},
+{"votes":3910,"id":"58727"}],
 "final":"52489"},
 "14":
 {"votes":[
@@ -1782,33 +1782,33 @@
 "Proposition":
 {"7-Renewable Energy Generation":
 {"votes":[
-{"votes":6291876,"id":"3"},
-{"votes":3411425,"id":"2"}],
+{"votes":6342396,"id":"3"},
+{"votes":3435712,"id":"2"}],
 "final":"3"},
 "2-Treatment of Farm Animals":
 {"votes":[
-{"votes":6243609,"id":"2"},
-{"votes":3648332,"id":"3"}],
+{"votes":6290767,"id":"2"},
+{"votes":3676855,"id":"3"}],
 "final":"2"},
 "4-Minor Abortion":
 {"votes":[
-{"votes":5143165,"id":"3"},
-{"votes":4751583,"id":"2"}],
+{"votes":5182918,"id":"3"},
+{"votes":4788032,"id":"2"}],
 "final":"3"},
 "5-Sentencing Guidelines":
 {"votes":[
-{"votes":5831648,"id":"3"},
-{"votes":3898700,"id":"2"}],
+{"votes":5876068,"id":"3"},
+{"votes":3928976,"id":"2"}],
 "final":"3"},
 "8-Same Sex Marriage Ban":
 {"votes":[
-{"votes":5376424,"id":"2"},
-{"votes":4870010,"id":"3"}],
+{"votes":5417748,"id":"2"},
+{"votes":4907867,"id":"3"}],
 "final":"2"},
 "11-Redistricting":
 {"votes":[
-{"votes":4656475,"id":"2"},
-{"votes":4554974,"id":"3"}]}}},
+{"votes":4692302,"id":"2"},
+{"votes":4590292,"id":"3"}]}}},
 "abbr":"CA"},
 "Massachusetts":
 {"name":"Massachusetts","electoral":12,"fix":
