@@ -186,15 +186,15 @@
 {"President":
 {"":
 {"votes":[
-{"votes":262800,"id":"1918"},
-{"votes":70475,"id":"1701"},
-{"votes":3883,"id":"3850"},
-{"votes":1128,"id":"11527"},
-{"votes":1116,"id":"12619"},
-{"votes":853,"id":"59208"}],
-"total":340255,"final":"1918"}}},
+{"votes":264741,"id":"1918"},
+{"votes":71084,"id":"1701"},
+{"votes":3920,"id":"3850"},
+{"votes":1141,"id":"11527"},
+{"votes":1128,"id":"12619"},
+{"votes":864,"id":"59208"}],
+"total":342878,"final":"1918"}}},
 "precincts":
-{"total":198,"reporting":163},
+{"total":198,"reporting":164},
 "name":"Multnomah"},
 "Columbia":
 {"fips":"41009","races":
@@ -543,7 +543,7 @@
 "name":"Polk"}},
 "totals":
 {"name":"Oregon","precincts":
-{"total":1000,"reporting":823},
+{"total":1000,"reporting":824},
 "electoral":7,"races":
 {"U.S. House":
 {"1":
