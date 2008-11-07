@@ -198,16 +198,16 @@
 {"President":
 {"":
 {"votes":[
-{"votes":68160,"id":"1918"},
-{"votes":66512,"id":"1701"},
-{"votes":657,"id":"3850"},
-{"votes":624,"id":"11527"},
-{"votes":233,"id":"12619"},
-{"votes":68,"id":"51183"},
-{"votes":33,"id":"7623"}],
-"total":136287,"final":"1918"}}},
+{"votes":73299,"id":"1918"},
+{"votes":68896,"id":"1701"},
+{"votes":724,"id":"3850"},
+{"votes":393,"id":"11527"},
+{"votes":247,"id":"12619"},
+{"votes":72,"id":"51183"},
+{"votes":37,"id":"7623"}],
+"total":143668,"final":"1918"}}},
 "precincts":
-{"total":321,"reporting":317},
+{"total":321,"reporting":321},
 "name":"Orange"},
 "Cortland":
 {"fips":"36023","races":
@@ -997,7 +997,7 @@
 {"name":"New York","electoral":31,"fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
-{"total":16300,"reporting":16214},
+{"total":16300,"reporting":16218},
 "races":
 {"U.S. House":
 {"24":
