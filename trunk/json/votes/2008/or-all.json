@@ -411,15 +411,15 @@
 {"President":
 {"":
 {"votes":[
-{"votes":87282,"id":"1918"},
-{"votes":68117,"id":"1701"},
-{"votes":1370,"id":"3850"},
-{"votes":549,"id":"11527"},
-{"votes":526,"id":"59208"},
-{"votes":212,"id":"12619"}],
-"total":158056,"final":"1918"}}},
+{"votes":93053,"id":"1918"},
+{"votes":74533,"id":"1701"},
+{"votes":1526,"id":"3850"},
+{"votes":617,"id":"11527"},
+{"votes":600,"id":"59208"},
+{"votes":233,"id":"12619"}],
+"total":170562,"final":"1918"}}},
 "precincts":
-{"total":104,"reporting":74},
+{"total":104,"reporting":80},
 "name":"Clackamas"},
 "Gilliam":
 {"fips":"41021","races":
@@ -543,7 +543,7 @@
 "name":"Polk"}},
 "totals":
 {"name":"Oregon","precincts":
-{"total":1000,"reporting":790},
+{"total":1000,"reporting":796},
 "electoral":7,"races":
 {"U.S. House":
 {"1":
