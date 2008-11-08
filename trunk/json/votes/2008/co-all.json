@@ -424,7 +424,7 @@
 {"votes":3,"id":"7623"}],
 "total":159469,"final":"1918"}}},
 "precincts":
-{"total":234,"reporting":187},
+{"total":234,"reporting":234},
 "name":"Boulder"},
 "Eagle":
 {"fips":"08037","races":
@@ -1603,7 +1603,7 @@
 "name":"Las Animas"}},
 "totals":
 {"name":"Colorado","precincts":
-{"total":3215,"reporting":3168},
+{"total":3215,"reporting":3215},
 "electoral":9,"races":
 {"U.S. House":
 {"1":
