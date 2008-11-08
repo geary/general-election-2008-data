@@ -1,4 +1,4 @@
-{"state":"AZ","total":2011741,"candidates":
+{"state":"AZ","total":2039500,"candidates":
 {"1128":"Lib|Severin|Warren Severin","59891":"Lib|Eichenauer|Thane Eichenauer","59892":"Grn|Crum|William Crum","59893":"Grn|DeWitt|Rebecca DeWitt","5397":"GOP|Schweikert|David Schweikert","59895":"Lib|Petrulsky|Raymond Petrulsky","52516":"Dem|Mitchell|Harry Mitchell","59897":"Lib|Shoen|Michael Shoen","1121":"GOP|Franks|Trent Franks","1122":"GOP|Shadegg|John Shadegg","1124":"Dem|Pastor|Ed Pastor","5474":"GOP|Sweeney|Joseph Sweeney","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","59894":"Lib|Biondi|Rick Biondi","5051":"GOP|Karg|Don Karg","59896":"Lib|Davis|Paul Davis","59683":"NPD|Maupin|Brent Maupin","4948":"GOP|Hay|Sydney Hay","59537":"Dem|Schneider|Rebecca Schneider","57149":"Lib|Cobb|Joe Cobb","3":"|No| No","2":"|Yes| Yes","3850":"Ind|Nader|Ralph Nader","51674":"Dem|Thrasher|John Thrasher","59526":"Dem|Kirkpatrick|Ann Kirkpatrick","1131":"Dem|Grijalva|Raul Grijalva","1918":"Dem|Obama|Barack Obama","59500":"Dem|Lord|Bob Lord","52527":"Dem|Giffords|Gabrielle Giffords","1701":"GOP|McCain|John McCain","1129":"GOP|Flake|Jeff Flake","51356":"Lib|Gammill|Powell Gammill","4583":"GOP|Bee|Tim Bee"},
 "locals":
 {"Yuma":
@@ -146,12 +146,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":177257,"id":"1918"},
-{"votes":155439,"id":"1701"},
-{"votes":1685,"id":"3850"},
-{"votes":1653,"id":"11527"},
-{"votes":586,"id":"12619"}],
-"total":336620,"final":"1701"}}},
+{"votes":191465,"id":"1918"},
+{"votes":168670,"id":"1701"},
+{"votes":1835,"id":"3850"},
+{"votes":1778,"id":"11527"},
+{"votes":631,"id":"12619"}],
+"total":364379,"final":"1701"}}},
 "precincts":
 {"total":417,"reporting":417},
 "name":"Pima"},
@@ -251,9 +251,9 @@
 "final":"1124"},
 "7":
 {"votes":[
-{"votes":106570,"id":"1131"},
-{"votes":55514,"id":"5474"},
-{"votes":6592,"id":"59895"}],
+{"votes":111584,"id":"1131"},
+{"votes":56978,"id":"5474"},
+{"votes":6854,"id":"59895"}],
 "final":"1131"},
 "6":
 {"votes":[
@@ -263,33 +263,33 @@
 "final":"1129"},
 "8":
 {"votes":[
-{"votes":158054,"id":"52527"},
-{"votes":122967,"id":"4583"},
-{"votes":7042,"id":"59896"}],
+{"votes":168493,"id":"52527"},
+{"votes":131181,"id":"4583"},
+{"votes":7453,"id":"59896"}],
 "final":"52527"}},
 "President":
 {"":
 {"votes":[
-{"votes":1080606,"electoral":10,"id":"1701"},
-{"votes":907344,"electoral":0,"id":"1918"},
-{"votes":11018,"electoral":0,"id":"11527"},
-{"votes":9806,"electoral":0,"id":"3850"},
-{"votes":2967,"electoral":0,"id":"12619"}],
+{"votes":1093837,"electoral":10,"id":"1701"},
+{"votes":921552,"electoral":0,"id":"1918"},
+{"votes":11143,"electoral":0,"id":"11527"},
+{"votes":9956,"electoral":0,"id":"3850"},
+{"votes":3012,"electoral":0,"id":"12619"}],
 "final":"1701"}},
 "Proposition":
 {"102-Define Marriage":
 {"votes":[
-{"votes":1106669,"id":"2"},
-{"votes":858554,"id":"3"}],
+{"votes":1119827,"id":"2"},
+{"votes":872555,"id":"3"}],
 "final":"2"},
 "105-Majority Rules":
 {"votes":[
-{"votes":1227040,"id":"3"},
-{"votes":629134,"id":"2"}],
+{"votes":1245687,"id":"3"},
+{"votes":636085,"id":"2"}],
 "final":"3"},
 "202-Illegal Hiring":
 {"votes":[
-{"votes":1123260,"id":"3"},
-{"votes":771330,"id":"2"}],
+{"votes":1138219,"id":"3"},
+{"votes":782404,"id":"2"}],
 "final":"3"}}},
 "abbr":"AZ"}}
