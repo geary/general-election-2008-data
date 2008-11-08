@@ -295,17 +295,17 @@
 {"President":
 {"":
 {"votes":[
-{"votes":12738,"id":"1918"},
-{"votes":10679,"id":"1701"},
-{"votes":255,"id":"3850"},
-{"votes":84,"id":"11527"},
-{"votes":54,"id":"59208"},
-{"votes":28,"id":"12619"},
-{"votes":6,"id":"3486"},
-{"votes":5,"id":"7623"}],
-"total":23849,"final":"1918"}}},
+{"votes":17512,"id":"1918"},
+{"votes":15978,"id":"1701"},
+{"votes":400,"id":"3850"},
+{"votes":142,"id":"11527"},
+{"votes":87,"id":"59208"},
+{"votes":43,"id":"12619"},
+{"votes":13,"id":"7623"},
+{"votes":10,"id":"3486"}],
+"total":34185,"final":"1918"}}},
 "precincts":
-{"total":86,"reporting":52},
+{"total":86,"reporting":75},
 "name":"Clallam"},
 "King":
 {"fips":"53033","races":
@@ -666,7 +666,7 @@
 "name":"Asotin"}},
 "totals":
 {"name":"Washington","precincts":
-{"total":6719,"reporting":5713},
+{"total":6719,"reporting":5736},
 "electoral":11,"races":
 {"U.S. House":
 {"1":
