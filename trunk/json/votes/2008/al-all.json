@@ -1,4 +1,4 @@
-{"state":"AL","total":2091143,"candidates":
+{"state":"AL","total":2092546,"candidates":
 {"59447":"Dem|Sparks|Nicholas Sparks","59446":"Dem|Segall|Joshua Segall","59445":"Dem|Bright|Bobby Bright","52878":"GOP|Love|Jay Love","1161":"GOP|Rogers|Mike Rogers","3883":"GOP|Parker|Wayne Parker","1701":"GOP|McCain|John McCain","3346":"Dem|Figures|Vivian Figures","59208":"AKI|Baldwin|Chuck Baldwin","59448":"Dem|Griffith|Parker Griffith","1918":"Dem|Obama|Barack Obama","526":"GOP|Bachus|Spencer Bachus","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","523":"GOP|Aderholt|Robert Aderholt","1004":"GOP|Bonner|Jo Bonner","1167":"GOP|Sessions|Jeff Sessions","1172":"Dem|Davis|Artur Davis"},
 "locals":
 {"Perry":
@@ -146,14 +146,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":27699,"id":"1701"},
-{"votes":5601,"id":"1918"},
-{"votes":220,"id":"3850"},
-{"votes":147,"id":"59208"},
-{"votes":88,"id":"11527"}],
-"total":33755,"final":"1701"}}},
+{"votes":28837,"id":"1701"},
+{"votes":5855,"id":"1918"},
+{"votes":227,"id":"3850"},
+{"votes":150,"id":"59208"},
+{"votes":89,"id":"11527"}],
+"total":35158,"final":"1701"}}},
 "precincts":
-{"total":52,"reporting":50},
+{"total":52,"reporting":52},
 "name":"Cullman"},
 "Covington":
 {"fips":"01039","races":
@@ -941,7 +941,7 @@
 "name":"Autauga"}},
 "totals":
 {"name":"Alabama","precincts":
-{"total":2843,"reporting":2838},
+{"total":2843,"reporting":2840},
 "electoral":9,"races":
 {"U.S. House":
 {"1":
@@ -979,16 +979,16 @@
 "President":
 {"":
 {"votes":[
-{"votes":1263741,"electoral":9,"id":"1701"},
-{"votes":811510,"electoral":0,"id":"1918"},
-{"votes":6609,"electoral":0,"id":"3850"},
-{"votes":4983,"electoral":0,"id":"11527"},
-{"votes":4300,"electoral":0,"id":"59208"}],
+{"votes":1264879,"electoral":9,"id":"1701"},
+{"votes":811764,"electoral":0,"id":"1918"},
+{"votes":6616,"electoral":0,"id":"3850"},
+{"votes":4984,"electoral":0,"id":"11527"},
+{"votes":4303,"electoral":0,"id":"59208"}],
 "final":"1701"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1302316,"id":"1167"},
-{"votes":750518,"id":"3346"}],
+{"votes":1303435,"id":"1167"},
+{"votes":750775,"id":"3346"}],
 "final":"1167"}}},
 "abbr":"AL"}}
