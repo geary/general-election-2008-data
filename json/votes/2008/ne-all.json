@@ -1,4 +1,4 @@
-{"state":"NE","total":767074,"candidates":
+{"state":"NE","total":782310,"candidates":
 {"12619":"Grn|McKinney|Cynthia McKinney","30014":"Dem|Stoddard|Jay Stoddard","2":"|Yes| Yes","30010":"GOP|Smith|Adrian Smith","1701":"GOP|McCain|John McCain","57811":"Dem|Yashirin|Max Yashirin","51570":"Dem|Kleeb|Scott Kleeb","59208":"AKI|Baldwin|Chuck Baldwin","445":"GOP|Johanns|Mike Johanns","51569":"Dem|Esch|Jim Esch","1918":"Dem|Obama|Barack Obama","49989":"GOP|Fortenberry|Jeff Fortenberry","11527":"Lib|Barr|Bob Barr","50446":"Grn|Larrick|Steve Larrick","3850":"Ind|Nader|Ralph Nader","29993":"Neb|Rosberg|Kelly Rosberg","231":"GOP|Terry|Lee Terry","3":"|No| No"},
 "locals":
 {"Colfax":
@@ -1086,13 +1086,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":104026,"id":"1918"},
-{"votes":97425,"id":"1701"},
-{"votes":1184,"id":"3850"},
-{"votes":698,"id":"11527"},
-{"votes":412,"id":"59208"},
-{"votes":243,"id":"12619"}],
-"total":203988,"final":"1701"}}},
+{"votes":112460,"id":"1918"},
+{"votes":104030,"id":"1701"},
+{"votes":1278,"id":"3850"},
+{"votes":756,"id":"11527"},
+{"votes":437,"id":"59208"},
+{"votes":263,"id":"12619"}],
+"total":219224,"final":"1701"}}},
 "precincts":
 {"total":352,"reporting":352},
 "name":"Douglas"},
@@ -1413,26 +1413,26 @@
 "final":"30010"},
 "2":
 {"votes":[
-{"votes":132505,"id":"231"},
-{"votes":119917,"id":"51569"}],
+{"votes":139641,"id":"231"},
+{"votes":127716,"id":"51569"}],
 "final":"231"}},
 "President":
 {"":
 {"votes":[
-{"votes":439434,"electoral":4,"id":"1701"},
-{"votes":315918,"electoral":0,"id":"1918"},
-{"votes":5212,"electoral":0,"id":"3850"},
-{"votes":2902,"electoral":0,"id":"59208"},
-{"votes":2626,"electoral":0,"id":"11527"},
-{"votes":982,"electoral":0,"id":"12619"}],
+{"votes":446039,"electoral":4,"id":"1701"},
+{"votes":324352,"electoral":0,"id":"1918"},
+{"votes":5306,"electoral":0,"id":"3850"},
+{"votes":2927,"electoral":0,"id":"59208"},
+{"votes":2684,"electoral":0,"id":"11527"},
+{"votes":1002,"electoral":0,"id":"12619"}],
 "final":"1701"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":439293,"id":"445"},
-{"votes":304388,"id":"51570"},
-{"votes":10942,"id":"29993"},
-{"votes":7235,"id":"50446"}],
+{"votes":447360,"id":"445"},
+{"votes":310855,"id":"51570"},
+{"votes":11079,"id":"29993"},
+{"votes":7505,"id":"50446"}],
 "final":"445"}},
 "Initiative":
 {"424-Ban Affirmative Action":
