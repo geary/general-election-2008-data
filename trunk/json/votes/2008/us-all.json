@@ -8,11 +8,11 @@
 {"Winning Trend":177,"Leading":3,"Holdovers":0,"Current":199,"Net Change":-21,"Won":174}},
 "President":
 {"Others":
-{"votes":"1605215","won":false,"electoral":"0"},
+{"votes":"1605210","won":false,"electoral":"0"},
 "McCain":
-{"votes":"57447095","won":false,"electoral":"162"},
+{"votes":"57447400","won":false,"electoral":"162"},
 "Obama":
-{"votes":"65446351","won":true,"electoral":"364"}},
+{"votes":"65446984","won":true,"electoral":"364"}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":2,"Leading":0,"Holdovers":2,"Current":2,"Net Change":0,"Won":0},
@@ -60,7 +60,7 @@
 {"name":"Mississippi","electoral":6,"fix":
 {"Jeff Davis":"Jefferson Davis"},
 "precincts":
-{"total":1887,"reporting":1886},
+{"total":1887,"reporting":1887},
 "races":
 {"U.S. House":
 {"1":
