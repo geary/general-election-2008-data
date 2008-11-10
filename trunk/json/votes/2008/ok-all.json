@@ -1,4 +1,4 @@
-{"state":"OK","total":1461931,"candidates":
+{"state":"OK","total":1461939,"candidates":
 {"59450":"Dem|Robbins|Frankie Robbins","59451":"Ind|Michael|Forrest Michael","59452":"Dem|Cummings|Blake Cummings","59453":"Ind|Joyce|David Joyce","1701":"GOP|McCain|John McCain","50571":"GOP|Wickson|Raymond Wickson","1398":"GOP|Cole|Tom Cole","59449":"Ind|Wallace|Stephen Wallace","1048":"GOP|Inhofe|Jim Inhofe","1918":"Dem|Obama|Barack Obama","58815":"Dem|Rice|Andrew Rice","37501":"GOP|Fallin|Mary Fallin","50187":"Dem|Boren|Dan Boren","58823":"Dem|Perry|Steven Perry","1396":"GOP|Lucas|Frank Lucas","1394":"GOP|Sullivan|John Sullivan","58819":"Dem|Oliver|Georgianna Oliver"},
 "locals":
 {"Ellis":
@@ -117,8 +117,8 @@
 {"":
 {"votes":[
 {"votes":2642,"id":"1701"},
-{"votes":1470,"id":"1918"}],
-"total":4112,"final":"1701"}}},
+{"votes":1478,"id":"1918"}],
+"total":4120,"final":"1701"}}},
 "precincts":
 {"total":16,"reporting":16},
 "name":"Okfuskee"},
@@ -886,7 +886,7 @@
 {"":
 {"votes":[
 {"votes":959645,"electoral":7,"id":"1701"},
-{"votes":502286,"electoral":0,"id":"1918"}],
+{"votes":502294,"electoral":0,"id":"1918"}],
 "final":"1701"}},
 "U.S. Senate":
 {"":
