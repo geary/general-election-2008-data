@@ -10,9 +10,9 @@
 {"Others":
 {"votes":"1617330","won":false,"electoral":"0"},
 "McCain":
-{"votes":"57700767","won":false,"electoral":"162"},
+{"votes":"57700768","won":false,"electoral":"162"},
 "Obama":
-{"votes":"65825400","won":true,"electoral":"364"}},
+{"votes":"65825399","won":true,"electoral":"364"}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":2,"Leading":0,"Holdovers":2,"Current":2,"Net Change":0,"Won":0},
@@ -25,8 +25,8 @@
 {"President":
 {"":
 {"votes":[
-{"votes":65825400,"electoral":364,"id":"1918"},
-{"votes":57700767,"electoral":162,"id":"1701"},
+{"votes":65825399,"electoral":364,"id":"1918"},
+{"votes":57700768,"electoral":162,"id":"1701"},
 {"votes":684577,"electoral":0,"id":"3850"},
 {"votes":503372,"electoral":0,"id":"11527"},
 {"votes":181130,"electoral":0,"id":"59208"},
@@ -207,7 +207,7 @@
 "final":"51531"},
 "3":
 {"votes":[
-{"votes":178935,"id":"55233"},
+{"votes":178936,"id":"55233"},
 {"votes":150787,"id":"59603"},
 {"votes":38970,"id":"59602"}],
 "final":"55233"},
@@ -246,8 +246,8 @@
 "President":
 {"":
 {"votes":[
-{"votes":1573324,"electoral":10,"id":"1918"},
-{"votes":1275399,"electoral":0,"id":"1701"},
+{"votes":1573323,"electoral":10,"id":"1918"},
+{"votes":1275400,"electoral":0,"id":"1701"},
 {"votes":30154,"electoral":0,"id":"3850"},
 {"votes":9176,"electoral":0,"id":"11527"},
 {"votes":6787,"electoral":0,"id":"59208"},
@@ -257,7 +257,7 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1211564,"id":"972"},
+{"votes":1211565,"id":"972"},
 {"votes":1211359,"id":"59608"},
 {"votes":437389,"id":"59679"},
 {"votes":13916,"id":"51525"},
