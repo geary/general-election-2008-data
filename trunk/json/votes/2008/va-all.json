@@ -1,4 +1,4 @@
-{"state":"VA","total":3642120,"candidates":
+{"state":"VA","total":3642519,"candidates":
 {"1782":"Dem|Warner|Mark Warner","50483":"IGr|Oddo|Joseph Oddo","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","59000":"Dem|Miller|Andrea Miller","50496":"Lib|Redpath|William Redpath","59040":"Dem|Connolly|Gerry Connolly","59208":"AKI|Baldwin|Chuck Baldwin","59027":"Dem|Rasoul|Sam Rasoul","59827":"Dem|Day|Bill Day","59829":"Ind|Allen|Janice Lee Allen","59828":"Lib|Larson|Nathan Larson","45618":"GOP|Drake|Thelma Drake","57798":"GOP|Wittman|Rob Wittman","45650":"GOP|Gilmore|Jim Gilmore","3850":"Ind|Nader|Ralph Nader","719":"GOP|Wolf|Frank Wolf","1701":"GOP|McCain|John McCain","717":"Dem|Boucher|Rick Boucher","715":"GOP|Cantor|Eric Cantor","714":"GOP|Goodlatte|Bob Goodlatte","713":"GOP|Goode|Virgil Goode","711":"GOP|Forbes|Randy Forbes","1918":"Dem|Obama|Barack Obama","59015":"Dem|Perriello|Tom Perriello","59750":"GOP|Ellmore|Mark Ellmore","58993":"Dem|Nye|Glenn Nye","51706":"Dem|Feder|Judy Feder","59032":"Dem|Hartke|Anita Hartke","59052":"GOP|Fimian|Keith Fimian","59830":"IGr|Fisher|J. Ron Fisher","1451":"Dem|Scott|Bobby Scott","1453":"Dem|Moran|Jim Moran","59800":"IGr|Parker|Gail Parker","51928":"Ind|Nigam|Neeraj Nigam"},
 "locals":
 {"Roanoke":
@@ -216,13 +216,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":5885,"id":"1701"},
-{"votes":4471,"id":"1918"},
+{"votes":5888,"id":"1701"},
+{"votes":4473,"id":"1918"},
 {"votes":33,"id":"59208"},
 {"votes":30,"id":"3850"},
 {"votes":26,"id":"11527"},
 {"votes":6,"id":"12619"}],
-"total":10451,"final":"1918"}}},
+"total":10456,"final":"1918"}}},
 "precincts":
 {"total":6,"reporting":6},
 "name":"King George"},
@@ -1506,13 +1506,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":8591,"id":"1701"},
-{"votes":8107,"id":"1918"},
+{"votes":8600,"id":"1701"},
+{"votes":8126,"id":"1918"},
 {"votes":35,"id":"11527"},
 {"votes":33,"id":"59208"},
 {"votes":32,"id":"3850"},
 {"votes":12,"id":"12619"}],
-"total":16810,"final":"1918"}}},
+"total":16838,"final":"1918"}}},
 "precincts":
 {"total":22,"reporting":22},
 "name":"Halifax"},
@@ -1671,13 +1671,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":20779,"id":"1701"},
-{"votes":17218,"id":"1918"},
+{"votes":20912,"id":"1701"},
+{"votes":17352,"id":"1918"},
 {"votes":123,"id":"11527"},
 {"votes":92,"id":"3850"},
 {"votes":51,"id":"59208"},
 {"votes":18,"id":"12619"}],
-"total":38281,"final":"1918"}}},
+"total":38548,"final":"1918"}}},
 "precincts":
 {"total":16,"reporting":16},
 "name":"James City"},
@@ -1776,13 +1776,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":37244,"id":"1701"},
-{"votes":18443,"id":"1918"},
+{"votes":37344,"id":"1701"},
+{"votes":18447,"id":"1918"},
 {"votes":146,"id":"11527"},
 {"votes":137,"id":"3850"},
 {"votes":70,"id":"59208"},
 {"votes":16,"id":"12619"}],
-"total":56056,"final":"1918"}}},
+"total":56160,"final":"1918"}}},
 "precincts":
 {"total":34,"reporting":34},
 "name":"Hanover"},
@@ -2078,8 +2078,8 @@
 "President":
 {"":
 {"votes":[
-{"votes":1906295,"electoral":13,"id":"1918"},
-{"votes":1703932,"electoral":0,"id":"1701"},
+{"votes":1906452,"electoral":13,"id":"1918"},
+{"votes":1704174,"electoral":0,"id":"1701"},
 {"votes":11302,"electoral":0,"id":"3850"},
 {"votes":10879,"electoral":0,"id":"11527"},
 {"votes":7390,"electoral":0,"id":"59208"},
