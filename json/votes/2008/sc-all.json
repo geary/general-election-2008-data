@@ -366,13 +366,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":37777,"id":"1701"},
-{"votes":30363,"id":"1918"},
+{"votes":37821,"id":"1701"},
+{"votes":30396,"id":"1918"},
 {"votes":260,"id":"11527"},
 {"votes":156,"id":"3850"},
 {"votes":151,"id":"12619"},
-{"votes":85,"id":"59208"}],
-"total":68792,"final":"1701"}}},
+{"votes":86,"id":"59208"}],
+"total":68870,"final":"1701"}}},
 "precincts":
 {"total":89,"reporting":89},
 "name":"Beaufort"},
