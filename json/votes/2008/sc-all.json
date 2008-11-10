@@ -1,4 +1,4 @@
-{"state":"SC","total":1915751,"candidates":
+{"state":"SC","total":1915789,"candidates":
 {"608":"GOP|Barrett|Gresham Barrett","11527":"Lib|Barr|Bob Barr","58321":"Dem|Conley|Bob Conley","12619":"Grn|McKinney|Cynthia McKinney","50263":"GOP|Inglis|Bob Inglis","50369":"GOP|Spencer|Albert Spencer","59208":"AKI|Baldwin|Chuck Baldwin","1409":"GOP|Brown|Henry Brown","1408":"GOP|Graham|Lindsey Graham","3850":"Ind|Nader|Ralph Nader","59674":"Dem|Ketner|Linda Ketner","59675":"Dem|Miller|Rob Miller","59676":"Dem|Dyer|Jane Dyer","59677":"Dem|Corden|Paul Corden","612":"Dem|Spratt|John Spratt","611":"Grn|Walters|C. Faye Walters","59678":"GOP|Harrelson|Nancy Harrelson","1918":"Dem|Obama|Barack Obama","59751":"CST|Waggoner|Frank Waggoner","1701":"GOP|McCain|John McCain","1410":"GOP|Wilson|Joe Wilson","1414":"Dem|Clyburn|Jim Clyburn"},
 "locals":
 {"Lancaster":
@@ -36,13 +36,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":104029,"id":"1918"},
-{"votes":57234,"id":"1701"},
-{"votes":513,"id":"11527"},
+{"votes":105656,"id":"1918"},
+{"votes":57941,"id":"1701"},
+{"votes":516,"id":"11527"},
 {"votes":321,"id":"3850"},
-{"votes":304,"id":"12619"},
-{"votes":296,"id":"59208"}],
-"total":162697,"final":"1701"}}},
+{"votes":305,"id":"12619"},
+{"votes":298,"id":"59208"}],
+"total":165037,"final":"1701"}}},
 "precincts":
 {"total":130,"reporting":130},
 "name":"Richland"},
@@ -291,13 +291,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":5168,"id":"1701"},
-{"votes":3308,"id":"1918"},
+{"votes":5191,"id":"1701"},
+{"votes":3323,"id":"1918"},
 {"votes":28,"id":"12619"},
 {"votes":22,"id":"3850"},
 {"votes":20,"id":"59208"},
 {"votes":19,"id":"11527"}],
-"total":8565,"final":"1701"}}},
+"total":8603,"final":"1701"}}},
 "precincts":
 {"total":23,"reporting":23},
 "name":"Saluda"},
@@ -731,8 +731,8 @@
 "President":
 {"":
 {"votes":[
-{"votes":1031748,"electoral":8,"id":"1701"},
-{"votes":860455,"electoral":0,"id":"1918"},
+{"votes":1031771,"electoral":8,"id":"1701"},
+{"votes":860470,"electoral":0,"id":"1918"},
 {"votes":7262,"electoral":0,"id":"11527"},
 {"votes":6800,"electoral":0,"id":"59208"},
 {"votes":5035,"electoral":0,"id":"3850"},
