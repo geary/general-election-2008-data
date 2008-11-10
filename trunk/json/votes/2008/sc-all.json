@@ -1,4 +1,4 @@
-{"state":"SC","total":1899524,"candidates":
+{"state":"SC","total":1900249,"candidates":
 {"608":"GOP|Barrett|Gresham Barrett","11527":"Lib|Barr|Bob Barr","58321":"Dem|Conley|Bob Conley","12619":"Grn|McKinney|Cynthia McKinney","50263":"GOP|Inglis|Bob Inglis","50369":"GOP|Spencer|Albert Spencer","59208":"AKI|Baldwin|Chuck Baldwin","1409":"GOP|Brown|Henry Brown","1408":"GOP|Graham|Lindsey Graham","3850":"Ind|Nader|Ralph Nader","59674":"Dem|Ketner|Linda Ketner","59675":"Dem|Miller|Rob Miller","59676":"Dem|Dyer|Jane Dyer","59677":"Dem|Corden|Paul Corden","612":"Dem|Spratt|John Spratt","611":"Grn|Walters|C. Faye Walters","59678":"GOP|Harrelson|Nancy Harrelson","1918":"Dem|Obama|Barack Obama","59751":"CST|Waggoner|Frank Waggoner","1701":"GOP|McCain|John McCain","1410":"GOP|Wilson|Joe Wilson","1414":"Dem|Clyburn|Jim Clyburn"},
 "locals":
 {"Lancaster":
@@ -501,13 +501,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":82280,"id":"1918"},
-{"votes":69521,"id":"1701"},
-{"votes":757,"id":"11527"},
-{"votes":418,"id":"3850"},
-{"votes":377,"id":"59208"},
-{"votes":356,"id":"12619"}],
-"total":153709,"final":"1701"}}},
+{"votes":82698,"id":"1918"},
+{"votes":69822,"id":"1701"},
+{"votes":758,"id":"11527"},
+{"votes":419,"id":"3850"},
+{"votes":380,"id":"59208"},
+{"votes":357,"id":"12619"}],
+"total":154434,"final":"1701"}}},
 "precincts":
 {"total":187,"reporting":187},
 "name":"Charleston"},
@@ -698,8 +698,8 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":176705,"id":"1409"},
-{"votes":162898,"id":"59674"}],
+{"votes":176968,"id":"1409"},
+{"votes":163227,"id":"59674"}],
 "final":"1409"},
 "3":
 {"votes":[
@@ -725,23 +725,23 @@
 "final":"50263"},
 "6":
 {"votes":[
-{"votes":190758,"id":"1414"},
-{"votes":90592,"id":"59678"}],
+{"votes":190852,"id":"1414"},
+{"votes":90608,"id":"59678"}],
 "final":"1414"}},
 "President":
 {"":
 {"votes":[
-{"votes":1022158,"electoral":8,"id":"1701"},
-{"votes":854034,"electoral":0,"id":"1918"},
-{"votes":7213,"electoral":0,"id":"11527"},
-{"votes":6679,"electoral":0,"id":"59208"},
-{"votes":5002,"electoral":0,"id":"3850"},
-{"votes":4438,"electoral":0,"id":"12619"}],
+{"votes":1022459,"electoral":8,"id":"1701"},
+{"votes":854452,"electoral":0,"id":"1918"},
+{"votes":7214,"electoral":0,"id":"11527"},
+{"votes":6682,"electoral":0,"id":"59208"},
+{"votes":5003,"electoral":0,"id":"3850"},
+{"votes":4439,"electoral":0,"id":"12619"}],
 "final":"1701"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1063530,"id":"1408"},
-{"votes":783914,"id":"58321"}],
+{"votes":1063895,"id":"1408"},
+{"votes":784251,"id":"58321"}],
 "final":"1408"}}},
 "abbr":"SC"}}
