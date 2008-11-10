@@ -1,4 +1,4 @@
-{"state":"NC","total":4258510,"candidates":
+{"state":"NC","total":4258506,"candidates":
 {"458":"Dem|Watt|Mel Watt","56014":"GOP|Webster|Hugh Webster","56017":"Dem|Hagan|Kay Hagan","450":"Dem|Price|David Price","453":"GOP|Coble|Howard Coble","34352":"Dem|Butterfield|G.K. Butterfield","35254":"GOP|McCrory|Pat McCrory","59436":"GOP|Mumpower|Carl Mumpower","1877":"GOP|Foxx|Virginia Foxx","59434":"Dem|Taylor|Harry Taylor","59435":"Dem|Johnson|Daniel Johnson","59432":"Dem|Bratton|Teresa Sue Bratton","59433":"GOP|Breazeale|Will Breazeale","59430":"GOP|Lawson|William Lawson","59431":"Dem|Carter|Roy Carter","59438":"GOP|Cobb|Ty Cobb","59439":"Lib|Munger|Michael Munger","1372":"Dem|Miller|Brad Miller","51652":"Dem|Kissell|Larry Kissell","1033":"GOP|Dole|Elizabeth Dole","448":"Dem|Etheridge|Bob Etheridge","454":"GOP|Myrick|Sue Myrick","35209":"GOP|Mansell|Dan Mansell","35265":"GOP|McHenry|Patrick McHenry","51910":"Dem|Weber|Craig Weber","1918":"Dem|Obama|Barack Obama","51655":"Dem|Shuler|Heath Shuler","35450":"Dem|Perdue|Bev Perdue","59429":"Lib|Adkins|Will Adkins","59428":"GOP|Stephens|Dean Stephens","1025":"Dem|McIntyre|Mike McIntyre","1701":"GOP|McCain|John McCain","59437":"Lib|Smith|Keith Smith","1028":"Lib|Cole|Christopher Cole","1366":"GOP|Hayes|Robin Hayes","11527":"Lib|Barr|Bob Barr","1362":"GOP|Jones|Walter Jones","34795":"Lib|Grum|Andy Grum"},
 "locals":
 {"Bladen":
@@ -378,10 +378,10 @@
 {"President":
 {"":
 {"votes":[
-{"votes":13011,"id":"1918"},
-{"votes":11375,"id":"1701"},
+{"votes":13010,"id":"1918"},
+{"votes":11373,"id":"1701"},
 {"votes":127,"id":"11527"}],
-"total":24513,"final":"1918"}}},
+"total":24510,"final":"1918"}}},
 "precincts":
 {"total":17,"reporting":17},
 "name":"Granville"},
@@ -1219,8 +1219,8 @@
 "final":"35265"},
 "13":
 {"votes":[
-{"votes":214831,"id":"1372"},
-{"votes":109250,"id":"56014"}],
+{"votes":214829,"id":"1372"},
+{"votes":109247,"id":"56014"}],
 "final":"1372"},
 "12":
 {"votes":[
@@ -1229,8 +1229,8 @@
 "final":"458"},
 "1":
 {"votes":[
-{"votes":190343,"id":"34352"},
-{"votes":81845,"id":"59428"}],
+{"votes":190344,"id":"34352"},
+{"votes":81846,"id":"59428"}],
 "final":"34352"},
 "3":
 {"votes":[
@@ -1272,27 +1272,27 @@
 "8":
 {"votes":[
 {"votes":155746,"id":"51652"},
-{"votes":125356,"id":"1366"}],
+{"votes":125355,"id":"1366"}],
 "final":"51652"}},
 "President":
 {"":
 {"votes":[
-{"votes":2123391,"electoral":15,"id":"1918"},
-{"votes":2109700,"electoral":0,"id":"1701"},
+{"votes":2123390,"electoral":15,"id":"1918"},
+{"votes":2109697,"electoral":0,"id":"1701"},
 {"votes":25419,"electoral":0,"id":"11527"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2225636,"id":"56017"},
-{"votes":1867970,"id":"1033"},
+{"votes":2225634,"id":"56017"},
+{"votes":1867969,"id":"1033"},
 {"votes":131905,"id":"1028"}],
 "final":"56017"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":2120961,"id":"35450"},
-{"votes":1980770,"id":"35254"},
+{"votes":2120959,"id":"35450"},
+{"votes":1980768,"id":"35254"},
 {"votes":121254,"id":"59439"}],
 "final":"35450"}}},
 "abbr":"NC"}}
