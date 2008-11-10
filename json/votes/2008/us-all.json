@@ -10,9 +10,9 @@
 {"Others":
 {"votes":"1605199","won":false,"electoral":"0"},
 "McCain":
-{"votes":"57446226","won":false,"electoral":"162"},
+{"votes":"57446266","won":false,"electoral":"162"},
 "Obama":
-{"votes":"65445417","won":true,"electoral":"364"}},
+{"votes":"65445424","won":true,"electoral":"364"}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":2,"Leading":0,"Holdovers":2,"Current":2,"Net Change":0,"Won":0},
@@ -2213,9 +2213,9 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1865011,"id":"823"},
-{"votes":1753984,"id":"12572"},
-{"votes":127802,"id":"50921"}],
+{"votes":1865181,"id":"823"},
+{"votes":1754090,"id":"12572"},
+{"votes":127808,"id":"50921"}],
 "final":"823"}}},
 "abbr":"GA"},
 "North Dakota":
