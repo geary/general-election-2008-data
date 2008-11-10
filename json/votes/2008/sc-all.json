@@ -51,13 +51,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":13266,"id":"1701"},
-{"votes":7191,"id":"1918"},
+{"votes":13305,"id":"1701"},
+{"votes":7215,"id":"1918"},
 {"votes":76,"id":"59208"},
 {"votes":63,"id":"11527"},
 {"votes":60,"id":"12619"},
 {"votes":47,"id":"3850"}],
-"total":20703,"final":"1701"}}},
+"total":20766,"final":"1701"}}},
 "precincts":
 {"total":38,"reporting":38},
 "name":"Cherokee"},
