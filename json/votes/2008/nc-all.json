@@ -426,10 +426,10 @@
 {"President":
 {"":
 {"votes":[
-{"votes":5619,"id":"1701"},
+{"votes":5617,"id":"1701"},
 {"votes":2163,"id":"1918"},
 {"votes":40,"id":"11527"}],
-"total":7822,"final":"1918"}}},
+"total":7820,"final":"1918"}}},
 "precincts":
 {"total":21,"reporting":21},
 "name":"Avery"},
