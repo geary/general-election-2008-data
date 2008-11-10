@@ -1,4 +1,4 @@
-{"state":"MS","total":1216656,"candidates":
+{"state":"MS","total":1218286,"candidates":
 {"57822":"GOP|Cook|Richard Cook","57814":"Dem|Childers|Travis Childers","690":"GOP|Cochran|Thad Cochran","212":"GOP|Wicker|Roger Wicker","58430":"Grn|Wages|John Wages","57825":"GOP|Harper|Gregg Harper","57824":"Dem|Gill|Joel Gill","1335":"Dem|Thompson|Bennie Thompson","27387":"GOP|Davis|Greg Davis","55619":"Dem|Fleming|Erik Fleming","57830":"GOP|McCay|John McCay","59208":"AKI|Baldwin|Chuck Baldwin","58428":"Ind|Pang|Wally Pang","1701":"GOP|McCain|John McCain","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader","1300":"Dem|Musgrove|Ronnie Musgrove","28726":"RP|Weill|Ted Weill","12619":"Grn|McKinney|Cynthia McKinney","1918":"Dem|Obama|Barack Obama","220":"Dem|Taylor|Gene Taylor"},
 "locals":
 {"Yalobusha":
@@ -1334,8 +1334,8 @@
 "final":"57825"},
 "2":
 {"votes":[
-{"votes":184198,"id":"1335"},
-{"votes":81857,"id":"57822"}],
+{"votes":185215,"id":"1335"},
+{"votes":82448,"id":"57822"}],
 "final":"1335"},
 "4":
 {"votes":[
@@ -1345,10 +1345,10 @@
 "President":
 {"":
 {"votes":[
-{"votes":686605,"electoral":6,"id":"1701"},
-{"votes":519897,"electoral":0,"id":"1918"},
-{"votes":3726,"electoral":0,"id":"3850"},
-{"votes":2446,"electoral":0,"id":"59208"},
+{"votes":687266,"electoral":6,"id":"1701"},
+{"votes":520864,"electoral":0,"id":"1918"},
+{"votes":3727,"electoral":0,"id":"3850"},
+{"votes":2447,"electoral":0,"id":"59208"},
 {"votes":2425,"electoral":0,"id":"11527"},
 {"votes":1087,"electoral":0,"id":"12619"},
 {"votes":470,"electoral":0,"id":"28726"}],
@@ -1356,12 +1356,12 @@
 "U.S. Senate":
 {"2008":
 {"votes":[
-{"votes":722594,"id":"690"},
-{"votes":448950,"id":"55619"}],
+{"votes":723304,"id":"690"},
+{"votes":449845,"id":"55619"}],
 "final":"690"},
 "2006":
 {"votes":[
-{"votes":648651,"id":"212"},
-{"votes":524148,"id":"1300"}],
+{"votes":649302,"id":"212"},
+{"votes":525088,"id":"1300"}],
 "final":"212"}}},
 "abbr":"MS"}}
