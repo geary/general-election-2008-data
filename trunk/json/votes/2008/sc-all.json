@@ -1,4 +1,4 @@
-{"state":"SC","total":1905727,"candidates":
+{"state":"SC","total":1906048,"candidates":
 {"608":"GOP|Barrett|Gresham Barrett","11527":"Lib|Barr|Bob Barr","58321":"Dem|Conley|Bob Conley","12619":"Grn|McKinney|Cynthia McKinney","50263":"GOP|Inglis|Bob Inglis","50369":"GOP|Spencer|Albert Spencer","59208":"AKI|Baldwin|Chuck Baldwin","1409":"GOP|Brown|Henry Brown","1408":"GOP|Graham|Lindsey Graham","3850":"Ind|Nader|Ralph Nader","59674":"Dem|Ketner|Linda Ketner","59675":"Dem|Miller|Rob Miller","59676":"Dem|Dyer|Jane Dyer","59677":"Dem|Corden|Paul Corden","612":"Dem|Spratt|John Spratt","611":"Grn|Walters|C. Faye Walters","59678":"GOP|Harrelson|Nancy Harrelson","1918":"Dem|Obama|Barack Obama","59751":"CST|Waggoner|Frank Waggoner","1701":"GOP|McCain|John McCain","1410":"GOP|Wilson|Joe Wilson","1414":"Dem|Clyburn|Jim Clyburn"},
 "locals":
 {"Lancaster":
@@ -703,8 +703,8 @@
 "final":"1409"},
 "3":
 {"votes":[
-{"votes":186476,"id":"608"},
-{"votes":101522,"id":"59676"}],
+{"votes":186668,"id":"608"},
+{"votes":101641,"id":"59676"}],
 "final":"608"},
 "2":
 {"votes":[
@@ -731,17 +731,17 @@
 "President":
 {"":
 {"votes":[
-{"votes":1025762,"electoral":8,"id":"1701"},
-{"votes":856595,"electoral":0,"id":"1918"},
+{"votes":1025953,"electoral":8,"id":"1701"},
+{"votes":856724,"electoral":0,"id":"1918"},
 {"votes":7225,"electoral":0,"id":"11527"},
 {"votes":6695,"electoral":0,"id":"59208"},
-{"votes":5008,"electoral":0,"id":"3850"},
+{"votes":5009,"electoral":0,"id":"3850"},
 {"votes":4442,"electoral":0,"id":"12619"}],
 "final":"1701"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1067328,"id":"1408"},
-{"votes":786159,"id":"58321"}],
+{"votes":1067526,"id":"1408"},
+{"votes":786275,"id":"58321"}],
 "final":"1408"}}},
 "abbr":"SC"}}
