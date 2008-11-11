@@ -1,4 +1,4 @@
-{"state":"RI","total":447244,"candidates":
+{"state":"RI","total":447661,"candidates":
 {"964":"Dem|Reed|Jack Reed","1701":"GOP|McCain|John McCain","966":"Dem|Kennedy|Patrick Kennedy","967":"Dem|Langevin|Jim Langevin","12619":"Grn|McKinney|Cynthia McKinney","965":"GOP|Tingle|Bob Tingle","51914":"GOP|Scott|Jonathan Scott","59208":"AKI|Baldwin|Chuck Baldwin","59621":"GOP|Zaccaria|Mark Zaccaria","56221":"Ind|Capalbo|Kenneth Capalbo","7623":"PSL|La Riva|Gloria La Riva","1918":"Dem|Obama|Barack Obama","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Cumberland":
@@ -38,14 +38,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":3105,"id":"1918"},
-{"votes":632,"id":"1701"},
-{"votes":26,"id":"3850"},
+{"votes":3191,"id":"1918"},
+{"votes":661,"id":"1701"},
+{"votes":28,"id":"3850"},
 {"votes":6,"id":"11527"},
-{"votes":3,"id":"12619"},
-{"votes":2,"id":"59208"},
+{"votes":4,"id":"12619"},
+{"votes":3,"id":"59208"},
 {"votes":1,"id":"7623"}],
-"total":3775,"final":"1918"}}},
+"total":3894,"final":"1918"}}},
 "precincts":
 {"total":8,"reporting":8},
 "name":"Central Falls"},
@@ -246,14 +246,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":2523,"id":"1918"},
-{"votes":1589,"id":"1701"},
-{"votes":56,"id":"3850"},
+{"votes":2670,"id":"1918"},
+{"votes":1693,"id":"1701"},
+{"votes":57,"id":"3850"},
 {"votes":16,"id":"11527"},
 {"votes":12,"id":"12619"},
 {"votes":6,"id":"59208"},
 {"votes":1,"id":"7623"}],
-"total":4203,"final":"1918"}}},
+"total":4455,"final":"1918"}}},
 "precincts":
 {"total":7,"reporting":7},
 "name":"Charlestown"},
@@ -358,14 +358,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":3547,"id":"1918"},
-{"votes":3048,"id":"1701"},
-{"votes":102,"id":"3850"},
-{"votes":30,"id":"11527"},
+{"votes":3730,"id":"1918"},
+{"votes":3160,"id":"1701"},
+{"votes":104,"id":"3850"},
+{"votes":31,"id":"11527"},
 {"votes":15,"id":"59208"},
 {"votes":13,"id":"12619"},
 {"votes":2,"id":"7623"}],
-"total":6757,"final":"1918"}}},
+"total":7055,"final":"1918"}}},
 "precincts":
 {"total":6,"reporting":6},
 "name":"Burrillville"},
@@ -632,9 +632,9 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":138197,"id":"966"},
-{"votes":48728,"id":"51914"},
-{"votes":14427,"id":"56221"}],
+{"votes":138482,"id":"966"},
+{"votes":48810,"id":"51914"},
+{"votes":14454,"id":"56221"}],
 "final":"966"},
 "2":
 {"votes":[
@@ -644,18 +644,18 @@
 "President":
 {"":
 {"votes":[
-{"votes":282007,"electoral":4,"id":"1918"},
-{"votes":157743,"electoral":0,"id":"1701"},
-{"votes":4652,"electoral":0,"id":"3850"},
-{"votes":1329,"electoral":0,"id":"11527"},
-{"votes":750,"electoral":0,"id":"12619"},
-{"votes":645,"electoral":0,"id":"59208"},
+{"votes":282276,"electoral":4,"id":"1918"},
+{"votes":157884,"electoral":0,"id":"1701"},
+{"votes":4656,"electoral":0,"id":"3850"},
+{"votes":1330,"electoral":0,"id":"11527"},
+{"votes":751,"electoral":0,"id":"12619"},
+{"votes":646,"electoral":0,"id":"59208"},
 {"votes":118,"electoral":0,"id":"7623"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":304650,"id":"964"},
-{"votes":111115,"id":"965"}],
+{"votes":304969,"id":"964"},
+{"votes":111192,"id":"965"}],
 "final":"964"}}},
 "abbr":"RI"}}
