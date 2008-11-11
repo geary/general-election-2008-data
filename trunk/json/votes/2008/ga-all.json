@@ -1482,10 +1482,10 @@
 {"President":
 {"":
 {"votes":[
-{"votes":1939,"id":"1701"},
-{"votes":932,"id":"1918"},
+{"votes":1941,"id":"1701"},
+{"votes":938,"id":"1918"},
 {"votes":23,"id":"11527"}],
-"total":2894,"final":"1701"}}},
+"total":2902,"final":"1701"}}},
 "precincts":
 {"total":6,"reporting":6},
 "name":"Atkinson"},
