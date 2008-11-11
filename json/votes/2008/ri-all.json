@@ -1,4 +1,4 @@
-{"state":"RI","total":446697,"candidates":
+{"state":"RI","total":447244,"candidates":
 {"964":"Dem|Reed|Jack Reed","1701":"GOP|McCain|John McCain","966":"Dem|Kennedy|Patrick Kennedy","967":"Dem|Langevin|Jim Langevin","12619":"Grn|McKinney|Cynthia McKinney","965":"GOP|Tingle|Bob Tingle","51914":"GOP|Scott|Jonathan Scott","59208":"AKI|Baldwin|Chuck Baldwin","59621":"GOP|Zaccaria|Mark Zaccaria","56221":"Ind|Capalbo|Kenneth Capalbo","7623":"PSL|La Riva|Gloria La Riva","1918":"Dem|Obama|Barack Obama","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Cumberland":
@@ -390,14 +390,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":6482,"id":"1918"},
-{"votes":3648,"id":"1701"},
-{"votes":110,"id":"3850"},
-{"votes":21,"id":"11527"},
-{"votes":12,"id":"59208"},
-{"votes":8,"id":"12619"},
+{"votes":6833,"id":"1918"},
+{"votes":3834,"id":"1701"},
+{"votes":112,"id":"3850"},
+{"votes":25,"id":"11527"},
+{"votes":13,"id":"59208"},
+{"votes":11,"id":"12619"},
 {"votes":5,"id":"7623"}],
-"total":10286,"final":"1918"}}},
+"total":10833,"final":"1918"}}},
 "precincts":
 {"total":10,"reporting":10},
 "name":"Bristol"},
@@ -632,9 +632,9 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":137425,"id":"966"},
-{"votes":48410,"id":"51914"},
-{"votes":14372,"id":"56221"}],
+{"votes":137847,"id":"966"},
+{"votes":48591,"id":"51914"},
+{"votes":14403,"id":"56221"}],
 "final":"966"},
 "2":
 {"votes":[
@@ -644,12 +644,12 @@
 "President":
 {"":
 {"votes":[
-{"votes":281656,"electoral":4,"id":"1918"},
-{"votes":157557,"electoral":0,"id":"1701"},
-{"votes":4650,"electoral":0,"id":"3850"},
-{"votes":1325,"electoral":0,"id":"11527"},
-{"votes":747,"electoral":0,"id":"12619"},
-{"votes":644,"electoral":0,"id":"59208"},
+{"votes":282007,"electoral":4,"id":"1918"},
+{"votes":157743,"electoral":0,"id":"1701"},
+{"votes":4652,"electoral":0,"id":"3850"},
+{"votes":1329,"electoral":0,"id":"11527"},
+{"votes":750,"electoral":0,"id":"12619"},
+{"votes":645,"electoral":0,"id":"59208"},
 {"votes":118,"electoral":0,"id":"7623"}],
 "final":"1918"}},
 "U.S. Senate":
