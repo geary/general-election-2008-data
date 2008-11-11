@@ -1,4 +1,4 @@
-{"state":"GA","total":3911878,"candidates":
+{"state":"GA","total":3914850,"candidates":
 {"12873":"GOP|Price|Tom Price","11527":"Lib|Barr|Bob Barr","51799":"GOP|Honeycutt|Deborah Honeycutt","13348":"GOP|Westmoreland|Lynn Westmoreland","833":"Dem|Lewis|John Lewis","837":"GOP|Linder|John Linder","1257":"Dem|Scott|David Scott","1253":"Dem|Bishop|Sanford Bishop","50921":"Lib|Buckley|Allen Buckley","59442":"GOP|Stone|John Stone","59441":"Dem|Scott|Jeff Scott","59440":"Dem|Jones|Bill Jones","59402":"Dem|Heckman|Doug Heckman","59399":"Dem|Camp|Stephen Camp","59400":"Dem|Johnson|Hank Johnson","59406":"Dem|Gammon|Bud Gammon","59405":"Dem|Saxon|Bobby Saxon","59404":"GOP|Goddard|Rick Goddard","59397":"Dem|Gillespie|Bill Gillespie","1837":"Dem|Barrow|John Barrow","1701":"GOP|McCain|John McCain","843":"GOP|Gingrey|Phil Gingrey","841":"GOP|Deal|Nathan Deal","1918":"Dem|Obama|Barack Obama","12572":"Dem|Martin|Jim Martin","59398":"GOP|Ferrell|Lee Ferrell","829":"Dem|Marshall|Jim Marshall","828":"GOP|Kingston|Jack Kingston","11650":"GOP|Broun|Paul Broun","823":"GOP|Chambliss|Saxby Chambliss"},
 "locals":
 {"Union":
@@ -894,10 +894,10 @@
 {"President":
 {"":
 {"votes":[
-{"votes":269839,"id":"1918"},
-{"votes":129338,"id":"1701"},
-{"votes":2485,"id":"11527"}],
-"total":401662,"final":"1701"}}},
+{"votes":272000,"id":"1918"},
+{"votes":130136,"id":"1701"},
+{"votes":2498,"id":"11527"}],
+"total":404634,"final":"1701"}}},
 "precincts":
 {"total":344,"reporting":344},
 "name":"Fulton"},
@@ -1926,8 +1926,8 @@
 "final":"11650"},
 "13":
 {"votes":[
-{"votes":205287,"id":"1257"},
-{"votes":92170,"id":"51799"}],
+{"votes":205557,"id":"1257"},
+{"votes":92209,"id":"51799"}],
 "final":"1257"},
 "12":
 {"votes":[
@@ -1964,8 +1964,8 @@
 "final":"837"},
 "6":
 {"votes":[
-{"votes":230869,"id":"12873"},
-{"votes":106144,"id":"59440"}],
+{"votes":231366,"id":"12873"},
+{"votes":106427,"id":"59440"}],
 "final":"12873"},
 "9":
 {"votes":[
@@ -1980,15 +1980,15 @@
 "President":
 {"":
 {"votes":[
-{"votes":2044870,"electoral":15,"id":"1701"},
-{"votes":1838281,"electoral":0,"id":"1918"},
-{"votes":28727,"electoral":0,"id":"11527"}],
+{"votes":2045668,"electoral":15,"id":"1701"},
+{"votes":1840442,"electoral":0,"id":"1918"},
+{"votes":28740,"electoral":0,"id":"11527"}],
 "final":"1701"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1865336,"id":"823"},
-{"votes":1754383,"id":"12572"},
-{"votes":127822,"id":"50921"}],
+{"votes":1866165,"id":"823"},
+{"votes":1756296,"id":"12572"},
+{"votes":127925,"id":"50921"}],
 "final":"823"}}},
 "abbr":"GA"}}
