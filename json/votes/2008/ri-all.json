@@ -1,4 +1,4 @@
-{"state":"RI","total":459776,"candidates":
+{"state":"RI","total":460801,"candidates":
 {"964":"Dem|Reed|Jack Reed","1701":"GOP|McCain|John McCain","966":"Dem|Kennedy|Patrick Kennedy","967":"Dem|Langevin|Jim Langevin","12619":"Grn|McKinney|Cynthia McKinney","965":"GOP|Tingle|Bob Tingle","51914":"GOP|Scott|Jonathan Scott","59208":"AKI|Baldwin|Chuck Baldwin","59621":"GOP|Zaccaria|Mark Zaccaria","56221":"Ind|Capalbo|Kenneth Capalbo","7623":"PSL|La Riva|Gloria La Riva","1918":"Dem|Obama|Barack Obama","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Cumberland":
@@ -598,14 +598,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":17751,"id":"1918"},
-{"votes":5827,"id":"1701"},
-{"votes":258,"id":"3850"},
-{"votes":58,"id":"11527"},
-{"votes":45,"id":"12619"},
-{"votes":36,"id":"59208"},
+{"votes":18486,"id":"1918"},
+{"votes":6098,"id":"1701"},
+{"votes":269,"id":"3850"},
+{"votes":61,"id":"11527"},
+{"votes":47,"id":"12619"},
+{"votes":39,"id":"59208"},
 {"votes":9,"id":"7623"}],
-"total":23984,"final":"1918"}}},
+"total":25009,"final":"1918"}}},
 "precincts":
 {"total":31,"reporting":31},
 "name":"Pawtucket"},
@@ -632,9 +632,9 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":141686,"id":"966"},
-{"votes":50322,"id":"51914"},
-{"votes":14831,"id":"56221"}],
+{"votes":142445,"id":"966"},
+{"votes":50490,"id":"51914"},
+{"votes":14890,"id":"56221"}],
 "final":"966"},
 "2":
 {"votes":[
@@ -644,18 +644,18 @@
 "President":
 {"":
 {"votes":[
-{"votes":289772,"electoral":4,"id":"1918"},
-{"votes":162342,"electoral":0,"id":"1701"},
-{"votes":4747,"electoral":0,"id":"3850"},
-{"votes":1359,"electoral":0,"id":"11527"},
-{"votes":777,"electoral":0,"id":"12619"},
-{"votes":657,"electoral":0,"id":"59208"},
+{"votes":290507,"electoral":4,"id":"1918"},
+{"votes":162613,"electoral":0,"id":"1701"},
+{"votes":4758,"electoral":0,"id":"3850"},
+{"votes":1362,"electoral":0,"id":"11527"},
+{"votes":779,"electoral":0,"id":"12619"},
+{"votes":660,"electoral":0,"id":"59208"},
 {"votes":122,"electoral":0,"id":"7623"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":313267,"id":"964"},
-{"votes":114135,"id":"965"}],
+{"votes":314058,"id":"964"},
+{"votes":114320,"id":"965"}],
 "final":"964"}}},
 "abbr":"RI"}}
