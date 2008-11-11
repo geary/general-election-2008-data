@@ -1,4 +1,4 @@
-{"state":"RI","total":453847,"candidates":
+{"state":"RI","total":454413,"candidates":
 {"964":"Dem|Reed|Jack Reed","1701":"GOP|McCain|John McCain","966":"Dem|Kennedy|Patrick Kennedy","967":"Dem|Langevin|Jim Langevin","12619":"Grn|McKinney|Cynthia McKinney","965":"GOP|Tingle|Bob Tingle","51914":"GOP|Scott|Jonathan Scott","59208":"AKI|Baldwin|Chuck Baldwin","59621":"GOP|Zaccaria|Mark Zaccaria","56221":"Ind|Capalbo|Kenneth Capalbo","7623":"PSL|La Riva|Gloria La Riva","1918":"Dem|Obama|Barack Obama","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Cumberland":
@@ -22,16 +22,16 @@
 {"President":
 {"":
 {"votes":[
-{"votes":2076,"id":"1918"},
-{"votes":1590,"id":"1701"},
-{"votes":64,"id":"3850"},
+{"votes":2247,"id":"1918"},
+{"votes":1691,"id":"1701"},
+{"votes":66,"id":"3850"},
 {"votes":19,"id":"11527"},
 {"votes":7,"id":"59208"},
-{"votes":6,"id":"12619"},
+{"votes":7,"id":"12619"},
 {"votes":4,"id":"7623"}],
-"total":3766,"final":"1918"}}},
+"total":4041,"final":"1918"}}},
 "precincts":
-{"total":3,"reporting":2},
+{"total":3,"reporting":3},
 "name":"Hopkinton"},
 "Central Falls":
 {"fips":"44007","races":
@@ -627,7 +627,7 @@
 "name":"Warren"}},
 "totals":
 {"name":"Rhode Island","precincts":
-{"total":541,"reporting":542},
+{"total":541,"reporting":543},
 "electoral":4,"races":
 {"U.S. House":
 {"1":
@@ -638,24 +638,24 @@
 "final":"966"},
 "2":
 {"votes":[
-{"votes":153409,"id":"967"},
-{"votes":65588,"id":"59621"}],
+{"votes":153510,"id":"967"},
+{"votes":65637,"id":"59621"}],
 "final":"967"}},
 "President":
 {"":
 {"votes":[
-{"votes":286039,"electoral":4,"id":"1918"},
-{"votes":160223,"electoral":0,"id":"1701"},
-{"votes":4700,"electoral":0,"id":"3850"},
+{"votes":286408,"electoral":4,"id":"1918"},
+{"votes":160415,"electoral":0,"id":"1701"},
+{"votes":4704,"electoral":0,"id":"3850"},
 {"votes":1350,"electoral":0,"id":"11527"},
-{"votes":765,"electoral":0,"id":"12619"},
+{"votes":766,"electoral":0,"id":"12619"},
 {"votes":650,"electoral":0,"id":"59208"},
 {"votes":120,"electoral":0,"id":"7623"}],
 "final":"1918"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":309221,"id":"964"},
-{"votes":112746,"id":"965"}],
+{"votes":309544,"id":"964"},
+{"votes":112849,"id":"965"}],
 "final":"964"}}},
 "abbr":"RI"}}
