@@ -1,4 +1,4 @@
-{"state":"RI","total":455443,"candidates":
+{"state":"RI","total":455646,"candidates":
 {"964":"Dem|Reed|Jack Reed","1701":"GOP|McCain|John McCain","966":"Dem|Kennedy|Patrick Kennedy","967":"Dem|Langevin|Jim Langevin","12619":"Grn|McKinney|Cynthia McKinney","965":"GOP|Tingle|Bob Tingle","51914":"GOP|Scott|Jonathan Scott","59208":"AKI|Baldwin|Chuck Baldwin","59621":"GOP|Zaccaria|Mark Zaccaria","56221":"Ind|Capalbo|Kenneth Capalbo","7623":"PSL|La Riva|Gloria La Riva","1918":"Dem|Obama|Barack Obama","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Cumberland":
@@ -214,14 +214,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":1206,"id":"1918"},
-{"votes":831,"id":"1701"},
-{"votes":21,"id":"3850"},
+{"votes":1327,"id":"1918"},
+{"votes":912,"id":"1701"},
+{"votes":22,"id":"3850"},
 {"votes":12,"id":"11527"},
 {"votes":4,"id":"59208"},
 {"votes":2,"id":"12619"},
 {"votes":0,"id":"7623"}],
-"total":2076,"final":"1918"}}},
+"total":2279,"final":"1918"}}},
 "precincts":
 {"total":2,"reporting":2},
 "name":"Little Compton"},
@@ -632,9 +632,9 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":140038,"id":"966"},
-{"votes":49392,"id":"51914"},
-{"votes":14587,"id":"56221"}],
+{"votes":140221,"id":"966"},
+{"votes":49773,"id":"51914"},
+{"votes":14702,"id":"56221"}],
 "final":"966"},
 "2":
 {"votes":[
@@ -644,9 +644,9 @@
 "President":
 {"":
 {"votes":[
-{"votes":287034,"electoral":4,"id":"1918"},
-{"votes":160799,"electoral":0,"id":"1701"},
-{"votes":4716,"electoral":0,"id":"3850"},
+{"votes":287155,"electoral":4,"id":"1918"},
+{"votes":160880,"electoral":0,"id":"1701"},
+{"votes":4717,"electoral":0,"id":"3850"},
 {"votes":1351,"electoral":0,"id":"11527"},
 {"votes":770,"electoral":0,"id":"12619"},
 {"votes":652,"electoral":0,"id":"59208"},
@@ -655,7 +655,7 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":310272,"id":"964"},
-{"votes":113076,"id":"965"}],
+{"votes":310404,"id":"964"},
+{"votes":113143,"id":"965"}],
 "final":"964"}}},
 "abbr":"RI"}}
