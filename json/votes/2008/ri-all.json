@@ -1,4 +1,4 @@
-{"state":"RI","total":474881,"candidates":
+{"state":"RI","total":475835,"candidates":
 {"964":"Dem|Reed|Jack Reed","1701":"GOP|McCain|John McCain","966":"Dem|Kennedy|Patrick Kennedy","967":"Dem|Langevin|Jim Langevin","12619":"Grn|McKinney|Cynthia McKinney","965":"GOP|Tingle|Bob Tingle","51914":"GOP|Scott|Jonathan Scott","59208":"AKI|Baldwin|Chuck Baldwin","59621":"GOP|Zaccaria|Mark Zaccaria","56221":"Ind|Capalbo|Kenneth Capalbo","7623":"PSL|La Riva|Gloria La Riva","1918":"Dem|Obama|Barack Obama","11527":"Lib|Barr|Bob Barr","3850":"Ind|Nader|Ralph Nader"},
 "locals":
 {"Cumberland":
@@ -326,14 +326,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":8685,"id":"1918"},
-{"votes":4398,"id":"1701"},
-{"votes":125,"id":"3850"},
-{"votes":67,"id":"11527"},
-{"votes":28,"id":"12619"},
-{"votes":12,"id":"59208"},
+{"votes":9336,"id":"1918"},
+{"votes":4689,"id":"1701"},
+{"votes":129,"id":"3850"},
+{"votes":69,"id":"11527"},
+{"votes":32,"id":"12619"},
+{"votes":14,"id":"59208"},
 {"votes":2,"id":"7623"}],
-"total":13317,"final":"1918"}}},
+"total":14271,"final":"1918"}}},
 "precincts":
 {"total":12,"reporting":12},
 "name":"South Kingstown"},
@@ -644,12 +644,12 @@
 "President":
 {"":
 {"votes":[
-{"votes":298749,"electoral":4,"id":"1918"},
-{"votes":168190,"electoral":0,"id":"1701"},
-{"votes":4924,"electoral":0,"id":"3850"},
-{"votes":1404,"electoral":0,"id":"11527"},
-{"votes":807,"electoral":0,"id":"12619"},
-{"votes":682,"electoral":0,"id":"59208"},
+{"votes":299400,"electoral":4,"id":"1918"},
+{"votes":168481,"electoral":0,"id":"1701"},
+{"votes":4928,"electoral":0,"id":"3850"},
+{"votes":1406,"electoral":0,"id":"11527"},
+{"votes":811,"electoral":0,"id":"12619"},
+{"votes":684,"electoral":0,"id":"59208"},
 {"votes":125,"electoral":0,"id":"7623"}],
 "final":"1918"}},
 "U.S. Senate":
