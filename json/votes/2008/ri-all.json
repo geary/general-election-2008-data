@@ -182,14 +182,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":14687,"id":"1918"},
-{"votes":5919,"id":"1701"},
-{"votes":247,"id":"3850"},
-{"votes":56,"id":"11527"},
-{"votes":33,"id":"59208"},
-{"votes":30,"id":"12619"},
-{"votes":5,"id":"7623"}],
-"total":20977,"final":"1918"}}},
+{"votes":15380,"id":"1918"},
+{"votes":6216,"id":"1701"},
+{"votes":249,"id":"3850"},
+{"votes":59,"id":"11527"},
+{"votes":34,"id":"59208"},
+{"votes":31,"id":"12619"},
+{"votes":6,"id":"7623"}],
+"total":21975,"final":"1918"}}},
 "precincts":
 {"total":23,"reporting":23},
 "name":"East Providence"},
@@ -582,14 +582,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":3495,"id":"1918"},
-{"votes":3318,"id":"1701"},
-{"votes":66,"id":"3850"},
-{"votes":28,"id":"11527"},
+{"votes":3916,"id":"1918"},
+{"votes":3570,"id":"1701"},
+{"votes":72,"id":"3850"},
+{"votes":31,"id":"11527"},
 {"votes":7,"id":"59208"},
 {"votes":7,"id":"12619"},
 {"votes":1,"id":"7623"}],
-"total":6922,"final":"1918"}}},
+"total":7604,"final":"1918"}}},
 "precincts":
 {"total":8,"reporting":8},
 "name":"East Greenwich"},
