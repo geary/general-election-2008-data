@@ -1,4 +1,4 @@
-{"state":"MO","total":2920954,"candidates":
+{"state":"MO","total":2920963,"candidates":
 {"1342":"GOP|Graves|Sam Graves","1343":"GOP|Blunt|Roy Blunt","954":"GOP|Hulshof|Kenny Hulshof","11527":"Lib|Barr|Bob Barr","59472":"GOP|Sander|Chris Sander","50053":"GOP|Parnell|Jeff Parnell","51616":"Lib|McCullough|Branden McCullough","951":"GOP|Emerson|Jo Ann Emerson","1852":"Dem|Carnahan|Russ Carnahan","59208":"AKI|Baldwin|Chuck Baldwin","3":"|No| No","2":"|Yes| Yes","3850":"Ind|Nader|Ralph Nader","51610":"Lib|Cunningham|Robb Cunningham","50436":"Lib|Craig|Kevin Craig","50040":"Dem|Cleaver|Emanuel Cleaver","51614":"GOP|Turk|Jacob Turk","934":"Lib|Millay|Tamara Millay","55466":"GOP|Luetkemeyer|Blaine Luetkemeyer","59483":"Dem|Monroe|Richard Monroe","59482":"Lib|Browning|Dave Browning","1337":"Dem|Clay|Lacy Clay","59480":"Dem|Barnes|Kay Barnes","59486":"Dem|Baker|Judy Baker","59485":"Dem|Allen|Joe Allen","28829":"Lib|Babcock|Kevin Babcock","59468":"Dem|Haas|Bill Haas","59467":"Lib|Finkenstadt|Andrew Finkenstadt","29087":"Lib|Knapp|Thomas Knapp","1701":"GOP|McCain|John McCain","1918":"Dem|Obama|Barack Obama","937":"GOP|Akin|Todd Akin","942":"Dem|Skelton|Ike Skelton","59832":"CST|Redburn|Cindy Redburn","59833":"CST|Maddox|Travis Maddox","59831":"CST|Thompson|Gregory Thompson","50510":"CST|Smith|Richard Smith","29169":"Dem|Nixon|Jay Nixon"},
 "locals":
 {"Daviess":
@@ -146,12 +146,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":10872,"id":"1701"},
-{"votes":5217,"id":"1918"},
+{"votes":10875,"id":"1701"},
+{"votes":5218,"id":"1918"},
 {"votes":109,"id":"3850"},
 {"votes":69,"id":"11527"},
 {"votes":52,"id":"59208"}],
-"total":16319}}},
+"total":16323}}},
 "precincts":
 {"total":20,"reporting":20},
 "name":"Laclede"},
@@ -188,12 +188,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":6092,"id":"1701"},
+{"votes":6095,"id":"1701"},
 {"votes":4869,"id":"1918"},
 {"votes":94,"id":"3850"},
 {"votes":58,"id":"11527"},
 {"votes":43,"id":"59208"}],
-"total":11156}}},
+"total":11159}}},
 "precincts":
 {"total":20,"reporting":20},
 "name":"Henry"},
@@ -1560,12 +1560,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":2596,"id":"1701"},
-{"votes":1836,"id":"1918"},
+{"votes":2594,"id":"1701"},
+{"votes":1837,"id":"1918"},
 {"votes":45,"id":"3850"},
 {"votes":21,"id":"11527"},
 {"votes":5,"id":"59208"}],
-"total":4503}}},
+"total":4502}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Lewis"},
@@ -1643,8 +1643,8 @@
 "final":"50040"},
 "4":
 {"votes":[
-{"votes":199952,"id":"942"},
-{"votes":103430,"id":"50053"}],
+{"votes":199955,"id":"942"},
+{"votes":103434,"id":"50053"}],
 "final":"942"},
 "7":
 {"votes":[
@@ -1662,7 +1662,7 @@
 "9":
 {"votes":[
 {"votes":160956,"id":"55466"},
-{"votes":152851,"id":"59486"},
+{"votes":152852,"id":"59486"},
 {"votes":8100,"id":"934"}],
 "final":"55466"},
 "8":
@@ -1675,8 +1675,8 @@
 "President":
 {"":
 {"votes":[
-{"votes":1444288,"electoral":0,"id":"1701"},
-{"votes":1439319,"electoral":0,"id":"1918"},
+{"votes":1444293,"electoral":0,"id":"1701"},
+{"votes":1439323,"electoral":0,"id":"1918"},
 {"votes":17787,"electoral":0,"id":"3850"},
 {"votes":11370,"electoral":0,"id":"11527"},
 {"votes":8190,"electoral":0,"id":"59208"}]}},
@@ -1689,14 +1689,14 @@
 "Proposition":
 {"C-Renewable Energy":
 {"votes":[
-{"votes":1775037,"id":"2"},
-{"votes":913161,"id":"3"}],
+{"votes":1775043,"id":"2"},
+{"votes":913167,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1677942,"id":"29169"},
-{"votes":1135075,"id":"954"},
+{"votes":1677947,"id":"29169"},
+{"votes":1135081,"id":"954"},
 {"votes":31823,"id":"59467"},
 {"votes":28902,"id":"59831"}],
 "final":"29169"}}},
