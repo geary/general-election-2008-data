@@ -1,4 +1,4 @@
-{"state":"AK","total":266085,"candidates":
+{"state":"AK","total":280530,"candidates":
 {"1701":"GOP|McCain|John McCain","1174":"AKI|Wright|Don Wright","59900":"Lib|Haase|Fredrick Haase","59901":"AKI|Bird|Bob Bird","59208":"AKI|Baldwin|Chuck Baldwin","51351":"Una|Gianoutsos|Ted Gianoutsos","1918":"Dem|Obama|Barack Obama","11527":"Lib|Barr|Bob Barr","52025":"Dem|Berkowitz|Ethan Berkowitz","3850":"Ind|Nader|Ralph Nader","511":"GOP|Stevens|Ted Stevens","513":"GOP|Young|Don Young","59501":"Dem|Begich|Mark Begich"},
 "locals":
 {"Alaska":
@@ -6,12 +6,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":161173,"id":"1701"},
-{"votes":99085,"id":"1918"},
-{"votes":3126,"id":"3850"},
-{"votes":1409,"id":"59208"},
-{"votes":1292,"id":"11527"}],
-"total":266085,"final":"1701"}}},
+{"votes":168844,"id":"1701"},
+{"votes":105650,"id":"1918"},
+{"votes":3248,"id":"3850"},
+{"votes":1435,"id":"59208"},
+{"votes":1353,"id":"11527"}],
+"total":280530,"final":"1701"}}},
 "precincts":
 {"total":438,"reporting":438},
 "name":"Alaska"}},
@@ -22,25 +22,25 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":133798,"id":"513"},
-{"votes":118088,"id":"52025"},
-{"votes":11583,"id":"1174"}],
+{"votes":140269,"id":"513"},
+{"votes":125184,"id":"52025"},
+{"votes":12071,"id":"1174"}],
 "final":"513"}},
 "President":
 {"":
 {"votes":[
-{"votes":161173,"electoral":3,"id":"1701"},
-{"votes":99085,"electoral":0,"id":"1918"},
-{"votes":3126,"electoral":0,"id":"3850"},
-{"votes":1409,"electoral":0,"id":"59208"},
-{"votes":1292,"electoral":0,"id":"11527"}],
+{"votes":168844,"electoral":3,"id":"1701"},
+{"votes":105650,"electoral":0,"id":"1918"},
+{"votes":3248,"electoral":0,"id":"3850"},
+{"votes":1435,"electoral":0,"id":"59208"},
+{"votes":1353,"electoral":0,"id":"11527"}],
 "final":"1701"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":125019,"id":"59501"},
-{"votes":125016,"id":"511"},
-{"votes":10913,"id":"59901"},
-{"votes":1961,"id":"59900"},
-{"votes":1076,"id":"51351"}]}}},
+{"votes":132196,"id":"59501"},
+{"votes":131382,"id":"511"},
+{"votes":11315,"id":"59901"},
+{"votes":2086,"id":"59900"},
+{"votes":1140,"id":"51351"}]}}},
 "abbr":"AK"}}
