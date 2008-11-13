@@ -104,12 +104,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":12659,"id":"1701"},
-{"votes":11538,"id":"1918"},
+{"votes":12660,"id":"1701"},
+{"votes":11540,"id":"1918"},
 {"votes":194,"id":"3850"},
 {"votes":105,"id":"11527"},
 {"votes":50,"id":"59208"}],
-"total":24546}}},
+"total":24549}}},
 "precincts":
 {"total":27,"reporting":27},
 "name":"St. Francois"},
@@ -1588,12 +1588,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":6445,"id":"1701"},
-{"votes":3978,"id":"1918"},
+{"votes":6457,"id":"1701"},
+{"votes":3984,"id":"1918"},
 {"votes":94,"id":"3850"},
 {"votes":56,"id":"11527"},
 {"votes":33,"id":"59208"}],
-"total":10606}}},
+"total":10624}}},
 "precincts":
 {"total":15,"reporting":15},
 "name":"Randolph"},
