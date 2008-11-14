@@ -1,4 +1,4 @@
-{"state":"MO","total":2921065,"candidates":
+{"state":"MO","total":2921067,"candidates":
 {"1342":"GOP|Graves|Sam Graves","1343":"GOP|Blunt|Roy Blunt","954":"GOP|Hulshof|Kenny Hulshof","11527":"Lib|Barr|Bob Barr","59472":"GOP|Sander|Chris Sander","50053":"GOP|Parnell|Jeff Parnell","51616":"Lib|McCullough|Branden McCullough","951":"GOP|Emerson|Jo Ann Emerson","1852":"Dem|Carnahan|Russ Carnahan","59208":"AKI|Baldwin|Chuck Baldwin","3":"|No| No","2":"|Yes| Yes","3850":"Ind|Nader|Ralph Nader","51610":"Lib|Cunningham|Robb Cunningham","50436":"Lib|Craig|Kevin Craig","50040":"Dem|Cleaver|Emanuel Cleaver","51614":"GOP|Turk|Jacob Turk","934":"Lib|Millay|Tamara Millay","55466":"GOP|Luetkemeyer|Blaine Luetkemeyer","59483":"Dem|Monroe|Richard Monroe","59482":"Lib|Browning|Dave Browning","1337":"Dem|Clay|Lacy Clay","59480":"Dem|Barnes|Kay Barnes","59486":"Dem|Baker|Judy Baker","59485":"Dem|Allen|Joe Allen","28829":"Lib|Babcock|Kevin Babcock","59468":"Dem|Haas|Bill Haas","59467":"Lib|Finkenstadt|Andrew Finkenstadt","29087":"Lib|Knapp|Thomas Knapp","1701":"GOP|McCain|John McCain","1918":"Dem|Obama|Barack Obama","937":"GOP|Akin|Todd Akin","942":"Dem|Skelton|Ike Skelton","59832":"CST|Redburn|Cindy Redburn","59833":"CST|Maddox|Travis Maddox","59831":"CST|Thompson|Gregory Thompson","50510":"CST|Smith|Richard Smith","29169":"Dem|Nixon|Jay Nixon"},
 "locals":
 {"Daviess":
@@ -819,11 +819,11 @@
 {"":
 {"votes":[
 {"votes":4962,"id":"1701"},
-{"votes":4710,"id":"1918"},
+{"votes":4712,"id":"1918"},
 {"votes":93,"id":"3850"},
 {"votes":64,"id":"11527"},
 {"votes":17,"id":"59208"}],
-"total":9846}}},
+"total":9848}}},
 "precincts":
 {"total":20,"reporting":20},
 "name":"Saline"},
@@ -1676,7 +1676,7 @@
 {"":
 {"votes":[
 {"votes":1444352,"electoral":0,"id":"1701"},
-{"votes":1439364,"electoral":0,"id":"1918"},
+{"votes":1439366,"electoral":0,"id":"1918"},
 {"votes":17790,"electoral":0,"id":"3850"},
 {"votes":11370,"electoral":0,"id":"11527"},
 {"votes":8189,"electoral":0,"id":"59208"}]}},
@@ -1698,6 +1698,6 @@
 {"votes":1677987,"id":"29169"},
 {"votes":1135126,"id":"954"},
 {"votes":31795,"id":"59467"},
-{"votes":28904,"id":"59831"}],
+{"votes":28905,"id":"59831"}],
 "final":"29169"}}},
 "abbr":"MO"}}
