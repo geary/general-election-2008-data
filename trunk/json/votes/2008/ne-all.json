@@ -741,13 +741,13 @@
 {"President":
 {"":
 {"votes":[
-{"votes":38443,"id":"1701"},
-{"votes":27663,"id":"1918"},
+{"votes":38816,"id":"1701"},
+{"votes":28010,"id":"1918"},
 {"votes":395,"id":"3850"},
 {"votes":295,"id":"11527"},
 {"votes":185,"id":"59208"},
 {"votes":58,"id":"12619"}],
-"total":67039,"final":"1701"}}},
+"total":67759,"final":"1701"}}},
 "precincts":
 {"total":88,"reporting":88},
 "name":"Sarpy"},
