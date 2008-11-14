@@ -1,4 +1,4 @@
-{"state":"NE","total":789132,"candidates":
+{"state":"NE","total":789852,"candidates":
 {"12619":"Grn|McKinney|Cynthia McKinney","30014":"Dem|Stoddard|Jay Stoddard","2":"|Yes| Yes","30010":"GOP|Smith|Adrian Smith","1701":"GOP|McCain|John McCain","57811":"Dem|Yashirin|Max Yashirin","51570":"Dem|Kleeb|Scott Kleeb","59208":"AKI|Baldwin|Chuck Baldwin","445":"GOP|Johanns|Mike Johanns","51569":"Dem|Esch|Jim Esch","1918":"Dem|Obama|Barack Obama","49989":"GOP|Fortenberry|Jeff Fortenberry","11527":"Lib|Barr|Bob Barr","50446":"Grn|Larrick|Steve Larrick","3850":"Ind|Nader|Ralph Nader","29993":"Neb|Rosberg|Kelly Rosberg","231":"GOP|Terry|Lee Terry","3":"|No| No"},
 "locals":
 {"Colfax":
@@ -1419,8 +1419,8 @@
 "President":
 {"":
 {"votes":[
-{"votes":448428,"electoral":4,"id":"1701"},
-{"votes":328785,"electoral":0,"id":"1918"},
+{"votes":448801,"electoral":4,"id":"1701"},
+{"votes":329132,"electoral":0,"id":"1918"},
 {"votes":5306,"electoral":0,"id":"3850"},
 {"votes":2927,"electoral":0,"id":"59208"},
 {"votes":2684,"electoral":0,"id":"11527"},
