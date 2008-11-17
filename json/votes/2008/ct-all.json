@@ -1,4 +1,4 @@
-{"state":"CT","total":1635285,"candidates":
+{"state":"CT","total":1640678,"candidates":
 {"1701":"GOP|McCain|John McCain","1139":"Dem|Larson|John Larson","1141":"Dem|DeLauro|Rosa DeLauro","59883":"Ind|Winn|Thomas Winn","1231":"Dem|Courtney|Joe Courtney","59878":"Grn|Deshefy|Scott Deshefy","59880":"Grn|Burbank|Harold Burbank","59877":"Grn|Fournier|Stephen Fournier","59879":"Lib|Carrano|Michael Carrano","52147":"Dem|Murphy|Chris Murphy","59590":"Dem|Himes|Jim Himes","1144":"GOP|Shays|Christopher Shays","59587":"GOP|Visconti|Joe Visconti","3850":"Ind|Nader|Ralph Nader","9700":"Grn|Ferrucci|Ralph Ferrucci","59588":"GOP|Sullivan|Sean Sullivan","59589":"GOP|Itshaky|Bo Itshaky","53798":"Grn|Duffee|Richard Duffee","1918":"Dem|Obama|Barack Obama","52155":"GOP|Cappiello|David Cappiello"},
 "locals":
 {"New London":
@@ -978,10 +978,10 @@
 {"President":
 {"":
 {"votes":[
-{"votes":22156,"id":"1918"},
-{"votes":11508,"id":"1701"},
-{"votes":224,"id":"3850"}],
-"total":33888,"final":"1918"}}},
+{"votes":24489,"id":"1918"},
+{"votes":12651,"id":"1701"},
+{"votes":244,"id":"3850"}],
+"total":37384,"final":"1918"}}},
 "precincts":
 {"total":14,"reporting":14},
 "name":"Norwalk"},
@@ -1746,10 +1746,10 @@
 {"President":
 {"":
 {"votes":[
-{"votes":29405,"id":"1918"},
-{"votes":3147,"id":"1701"},
-{"votes":143,"id":"3850"}],
-"total":32695,"final":"1918"}}},
+{"votes":31741,"id":"1918"},
+{"votes":2686,"id":"1701"},
+{"votes":165,"id":"3850"}],
+"total":34592,"final":"1918"}}},
 "precincts":
 {"total":23,"reporting":23},
 "name":"Hartford"},
@@ -2036,9 +2036,9 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":207982,"id":"1139"},
-{"votes":76541,"id":"59587"},
-{"votes":7077,"id":"59877"}],
+{"votes":209895,"id":"1139"},
+{"votes":76694,"id":"59587"},
+{"votes":7123,"id":"59877"}],
 "final":"1139"},
 "3":
 {"votes":[
@@ -2061,16 +2061,16 @@
 "final":"52147"},
 "4":
 {"votes":[
-{"votes":155975,"id":"59590"},
-{"votes":145660,"id":"1144"},
-{"votes":1949,"id":"59879"},
-{"votes":1371,"id":"53798"}],
+{"votes":158524,"id":"59590"},
+{"votes":146821,"id":"1144"},
+{"votes":2017,"id":"59879"},
+{"votes":1431,"id":"53798"}],
 "final":"59590"}},
 "President":
 {"":
 {"votes":[
-{"votes":989604,"electoral":7,"id":"1918"},
-{"votes":627013,"electoral":0,"id":"1701"},
-{"votes":18668,"electoral":0,"id":"3850"}],
+{"votes":994273,"electoral":7,"id":"1918"},
+{"votes":627695,"electoral":0,"id":"1701"},
+{"votes":18710,"electoral":0,"id":"3850"}],
 "final":"1918"}}},
 "abbr":"CT","votesby":"town"}}
