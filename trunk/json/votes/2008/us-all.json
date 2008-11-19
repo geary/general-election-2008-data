@@ -10,7 +10,7 @@
 {"Others":
 {"votes":"1653986","won":false,"electoral":"0"},
 "McCain":
-{"votes":"58421377","won":false,"electoral":"162"},
+{"votes":"58421377","won":false,"electoral":"173"},
 "Obama":
 {"votes":"67066915","won":true,"electoral":"365"}},
 "U.S. Senate":
@@ -26,7 +26,7 @@
 {"":
 {"votes":[
 {"votes":67066915,"electoral":365,"id":"1918"},
-{"votes":58421377,"electoral":162,"id":"1701"},
+{"votes":58421377,"electoral":173,"id":"1701"},
 {"votes":701139,"electoral":0,"id":"3850"},
 {"votes":512643,"electoral":0,"id":"11527"},
 {"votes":181935,"electoral":0,"id":"59208"},
@@ -2748,11 +2748,12 @@
 "President":
 {"":
 {"votes":[
-{"votes":1445812,"electoral":0,"id":"1701"},
+{"votes":1445812,"electoral":11,"id":"1701"},
 {"votes":1442180,"electoral":0,"id":"1918"},
 {"votes":17813,"electoral":0,"id":"3850"},
 {"votes":11386,"electoral":0,"id":"11527"},
-{"votes":8201,"electoral":0,"id":"59208"}]}},
+{"votes":8201,"electoral":0,"id":"59208"}],
+"final":"1701"}},
 "Amendment":
 {"1-Make English Official":
 {"votes":[

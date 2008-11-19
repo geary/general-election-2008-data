@@ -11,7 +11,7 @@
 {"votes":54,"id":"3850"},
 {"votes":47,"id":"59208"},
 {"votes":22,"id":"11527"}],
-"total":3786}}},
+"total":3786,"final":"1701"}}},
 "precincts":
 {"total":8,"reporting":8},
 "name":"Daviess"},
@@ -25,7 +25,7 @@
 {"votes":16,"id":"11527"},
 {"votes":16,"id":"3850"},
 {"votes":4,"id":"59208"}],
-"total":3316}}},
+"total":3316,"final":"1701"}}},
 "precincts":
 {"total":9,"reporting":9},
 "name":"Shelby"},
@@ -39,7 +39,7 @@
 {"votes":125,"id":"3850"},
 {"votes":69,"id":"11527"},
 {"votes":62,"id":"59208"}],
-"total":14644}}},
+"total":14644,"final":"1701"}}},
 "precincts":
 {"total":19,"reporting":19},
 "name":"Barry"},
@@ -53,7 +53,7 @@
 {"votes":39,"id":"3850"},
 {"votes":25,"id":"11527"},
 {"votes":11,"id":"59208"}],
-"total":5356}}},
+"total":5356,"final":"1701"}}},
 "precincts":
 {"total":9,"reporting":9},
 "name":"Mississippi"},
@@ -67,7 +67,7 @@
 {"votes":43,"id":"3850"},
 {"votes":22,"id":"11527"},
 {"votes":16,"id":"59208"}],
-"total":5856}}},
+"total":5856,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Montgomery"},
@@ -81,7 +81,7 @@
 {"votes":115,"id":"3850"},
 {"votes":38,"id":"11527"},
 {"votes":27,"id":"59208"}],
-"total":11764}}},
+"total":11764,"final":"1701"}}},
 "precincts":
 {"total":22,"reporting":22},
 "name":"Dunklin"},
@@ -95,7 +95,7 @@
 {"votes":68,"id":"3850"},
 {"votes":38,"id":"11527"},
 {"votes":21,"id":"59208"}],
-"total":6154}}},
+"total":6154,"final":"1701"}}},
 "precincts":
 {"total":20,"reporting":20},
 "name":"Wayne"},
@@ -109,7 +109,7 @@
 {"votes":194,"id":"3850"},
 {"votes":105,"id":"11527"},
 {"votes":50,"id":"59208"}],
-"total":24549}}},
+"total":24549,"final":"1701"}}},
 "precincts":
 {"total":27,"reporting":27},
 "name":"St. Francois"},
@@ -123,7 +123,7 @@
 {"votes":23,"id":"3850"},
 {"votes":12,"id":"11527"},
 {"votes":5,"id":"59208"}],
-"total":1174}}},
+"total":1174,"final":"1701"}}},
 "precincts":
 {"total":8,"reporting":8},
 "name":"Worth"},
@@ -137,7 +137,7 @@
 {"votes":103,"id":"3850"},
 {"votes":64,"id":"59208"},
 {"votes":59,"id":"11527"}],
-"total":10851}}},
+"total":10851,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Texas"},
@@ -151,7 +151,7 @@
 {"votes":109,"id":"3850"},
 {"votes":69,"id":"11527"},
 {"votes":52,"id":"59208"}],
-"total":16323}}},
+"total":16323,"final":"1701"}}},
 "precincts":
 {"total":20,"reporting":20},
 "name":"Laclede"},
@@ -165,7 +165,7 @@
 {"votes":42,"id":"3850"},
 {"votes":30,"id":"11527"},
 {"votes":22,"id":"59208"}],
-"total":5115}}},
+"total":5115,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Hickory"},
@@ -179,7 +179,7 @@
 {"votes":104,"id":"3850"},
 {"votes":88,"id":"11527"},
 {"votes":52,"id":"59208"}],
-"total":11870}}},
+"total":11870,"final":"1701"}}},
 "precincts":
 {"total":12,"reporting":12},
 "name":"Adair"},
@@ -193,7 +193,7 @@
 {"votes":94,"id":"3850"},
 {"votes":58,"id":"11527"},
 {"votes":43,"id":"59208"}],
-"total":11159}}},
+"total":11159,"final":"1701"}}},
 "precincts":
 {"total":20,"reporting":20},
 "name":"Henry"},
@@ -207,7 +207,7 @@
 {"votes":90,"id":"3850"},
 {"votes":79,"id":"59208"},
 {"votes":71,"id":"11527"}],
-"total":16356}}},
+"total":16356,"final":"1701"}}},
 "precincts":
 {"total":14,"reporting":14},
 "name":"Webster"},
@@ -221,7 +221,7 @@
 {"votes":63,"id":"3850"},
 {"votes":35,"id":"59208"},
 {"votes":31,"id":"11527"}],
-"total":8092}}},
+"total":8092,"final":"1701"}}},
 "precincts":
 {"total":23,"reporting":23},
 "name":"New Madrid"},
@@ -235,7 +235,7 @@
 {"votes":38,"id":"3850"},
 {"votes":35,"id":"59208"},
 {"votes":16,"id":"11527"}],
-"total":2869}}},
+"total":2869,"final":"1701"}}},
 "precincts":
 {"total":14,"reporting":14},
 "name":"Sullivan"},
@@ -249,7 +249,7 @@
 {"votes":403,"id":"3850"},
 {"votes":209,"id":"11527"},
 {"votes":152,"id":"59208"}],
-"total":39038}}},
+"total":39038,"final":"1701"}}},
 "precincts":
 {"total":35,"reporting":35},
 "name":"Buchanan"},
@@ -263,7 +263,7 @@
 {"votes":158,"id":"3850"},
 {"votes":87,"id":"11527"},
 {"votes":74,"id":"59208"}],
-"total":25406}}},
+"total":25406,"final":"1701"}}},
 "precincts":
 {"total":25,"reporting":25},
 "name":"Newton"},
@@ -277,7 +277,7 @@
 {"votes":125,"id":"3850"},
 {"votes":37,"id":"11527"},
 {"votes":35,"id":"59208"}],
-"total":9614}}},
+"total":9614,"final":"1701"}}},
 "precincts":
 {"total":19,"reporting":19},
 "name":"Washington"},
@@ -291,7 +291,7 @@
 {"votes":50,"id":"3850"},
 {"votes":34,"id":"11527"},
 {"votes":30,"id":"59208"}],
-"total":6665}}},
+"total":6665,"final":"1701"}}},
 "precincts":
 {"total":13,"reporting":13},
 "name":"Moniteau"},
@@ -305,7 +305,7 @@
 {"votes":72,"id":"3850"},
 {"votes":40,"id":"11527"},
 {"votes":33,"id":"59208"}],
-"total":12553}}},
+"total":12553,"final":"1701"}}},
 "precincts":
 {"total":17,"reporting":17},
 "name":"Marion"},
@@ -319,7 +319,7 @@
 {"votes":311,"id":"3850"},
 {"votes":194,"id":"11527"},
 {"votes":123,"id":"59208"}],
-"total":48025}}},
+"total":48025,"final":"1701"}}},
 "precincts":
 {"total":46,"reporting":46},
 "name":"Jasper"},
@@ -333,7 +333,7 @@
 {"votes":97,"id":"3850"},
 {"votes":59,"id":"11527"},
 {"votes":32,"id":"59208"}],
-"total":13697}}},
+"total":13697,"final":"1701"}}},
 "precincts":
 {"total":22,"reporting":22},
 "name":"Polk"},
@@ -347,7 +347,7 @@
 {"votes":59,"id":"3850"},
 {"votes":31,"id":"11527"},
 {"votes":19,"id":"59208"}],
-"total":7771}}},
+"total":7771,"final":"1701"}}},
 "precincts":
 {"total":18,"reporting":18},
 "name":"Gasconade"},
@@ -361,7 +361,7 @@
 {"votes":96,"id":"3850"},
 {"votes":72,"id":"59208"},
 {"votes":47,"id":"11527"}],
-"total":11049}}},
+"total":11049,"final":"1701"}}},
 "precincts":
 {"total":14,"reporting":14},
 "name":"Ray"},
@@ -375,7 +375,7 @@
 {"votes":50,"id":"3850"},
 {"votes":34,"id":"59208"},
 {"votes":31,"id":"11527"}],
-"total":8647}}},
+"total":8647,"final":"1701"}}},
 "precincts":
 {"total":18,"reporting":18},
 "name":"Perry"},
@@ -389,7 +389,7 @@
 {"votes":1803,"id":"3850"},
 {"votes":1016,"id":"11527"},
 {"votes":926,"id":"59208"}],
-"total":339256}}},
+"total":339256,"final":"1701"}}},
 "precincts":
 {"total":400,"reporting":400},
 "name":"Jackson"},
@@ -403,7 +403,7 @@
 {"votes":50,"id":"3850"},
 {"votes":40,"id":"11527"},
 {"votes":21,"id":"59208"}],
-"total":4855}}},
+"total":4855,"final":"1701"}}},
 "precincts":
 {"total":10,"reporting":10},
 "name":"Howard"},
@@ -417,7 +417,7 @@
 {"votes":47,"id":"3850"},
 {"votes":25,"id":"59208"},
 {"votes":24,"id":"11527"}],
-"total":4564}}},
+"total":4564,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Caldwell"},
@@ -431,7 +431,7 @@
 {"votes":40,"id":"3850"},
 {"votes":25,"id":"11527"},
 {"votes":11,"id":"59208"}],
-"total":4214}}},
+"total":4214,"final":"1701"}}},
 "precincts":
 {"total":13,"reporting":13},
 "name":"Chariton"},
@@ -445,7 +445,7 @@
 {"votes":74,"id":"3850"},
 {"votes":72,"id":"59208"},
 {"votes":27,"id":"11527"}],
-"total":8514}}},
+"total":8514,"final":"1701"}}},
 "precincts":
 {"total":10,"reporting":10},
 "name":"Wright"},
@@ -459,7 +459,7 @@
 {"votes":761,"id":"3850"},
 {"votes":413,"id":"11527"},
 {"votes":258,"id":"59208"}],
-"total":105703}}},
+"total":105703,"final":"1701"}}},
 "precincts":
 {"total":73,"reporting":73},
 "name":"Jefferson"},
@@ -473,7 +473,7 @@
 {"votes":123,"id":"3850"},
 {"votes":80,"id":"11527"},
 {"votes":42,"id":"59208"}],
-"total":21664}}},
+"total":21664,"final":"1701"}}},
 "precincts":
 {"total":24,"reporting":24},
 "name":"Taney"},
@@ -487,7 +487,7 @@
 {"votes":108,"id":"3850"},
 {"votes":70,"id":"11527"},
 {"votes":39,"id":"59208"}],
-"total":17337}}},
+"total":17337,"final":"1701"}}},
 "precincts":
 {"total":27,"reporting":27},
 "name":"Butler"},
@@ -501,7 +501,7 @@
 {"votes":27,"id":"3850"},
 {"votes":15,"id":"59208"},
 {"votes":11,"id":"11527"}],
-"total":2339}}},
+"total":2339,"final":"1701"}}},
 "precincts":
 {"total":9,"reporting":9},
 "name":"Putnam"},
@@ -515,7 +515,7 @@
 {"votes":858,"id":"3850"},
 {"votes":598,"id":"11527"},
 {"votes":337,"id":"59208"}],
-"total":188526}}},
+"total":188526,"final":"1701"}}},
 "precincts":
 {"total":121,"reporting":121},
 "name":"St. Charles"},
@@ -529,7 +529,7 @@
 {"votes":18,"id":"3850"},
 {"votes":11,"id":"11527"},
 {"votes":8,"id":"59208"}],
-"total":2633}}},
+"total":2633,"final":"1701"}}},
 "precincts":
 {"total":7,"reporting":7},
 "name":"Holt"},
@@ -543,7 +543,7 @@
 {"votes":54,"id":"59208"},
 {"votes":52,"id":"3850"},
 {"votes":22,"id":"11527"}],
-"total":4591}}},
+"total":4591,"final":"1701"}}},
 "precincts":
 {"total":13,"reporting":13},
 "name":"Oregon"},
@@ -557,7 +557,7 @@
 {"votes":95,"id":"3850"},
 {"votes":61,"id":"11527"},
 {"votes":35,"id":"59208"}],
-"total":13262}}},
+"total":13262,"final":"1701"}}},
 "precincts":
 {"total":21,"reporting":21},
 "name":"Stoddard"},
@@ -571,7 +571,7 @@
 {"votes":74,"id":"3850"},
 {"votes":40,"id":"59208"},
 {"votes":39,"id":"11527"}],
-"total":5931}}},
+"total":5931,"final":"1701"}}},
 "precincts":
 {"total":14,"reporting":14},
 "name":"Linn"},
@@ -585,7 +585,7 @@
 {"votes":145,"id":"11527"},
 {"votes":116,"id":"3850"},
 {"votes":91,"id":"59208"}],
-"total":19591}}},
+"total":19591,"final":"1701"}}},
 "precincts":
 {"total":27,"reporting":27},
 "name":"Callaway"},
@@ -599,7 +599,7 @@
 {"votes":140,"id":"3850"},
 {"votes":80,"id":"11527"},
 {"votes":38,"id":"59208"}],
-"total":18208}}},
+"total":18208,"final":"1701"}}},
 "precincts":
 {"total":26,"reporting":26},
 "name":"Pettis"},
@@ -613,7 +613,7 @@
 {"votes":151,"id":"3850"},
 {"votes":75,"id":"11527"},
 {"votes":59,"id":"59208"}],
-"total":22132}}},
+"total":22132,"final":"1701"}}},
 "precincts":
 {"total":25,"reporting":25},
 "name":"Camden"},
@@ -627,7 +627,7 @@
 {"votes":99,"id":"3850"},
 {"votes":65,"id":"11527"},
 {"votes":47,"id":"59208"}],
-"total":16387}}},
+"total":16387,"final":"1701"}}},
 "precincts":
 {"total":22,"reporting":22},
 "name":"Stone"},
@@ -641,7 +641,7 @@
 {"votes":205,"id":"3850"},
 {"votes":108,"id":"11527"},
 {"votes":104,"id":"59208"}],
-"total":22080}}},
+"total":22080,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Johnson"},
@@ -655,7 +655,7 @@
 {"votes":604,"id":"3850"},
 {"votes":494,"id":"11527"},
 {"votes":167,"id":"59208"}],
-"total":158852}}},
+"total":158852,"final":"1701"}}},
 "precincts":
 {"total":204,"reporting":204},
 "name":"St. Louis City"},
@@ -669,7 +669,7 @@
 {"votes":30,"id":"3850"},
 {"votes":27,"id":"11527"},
 {"votes":22,"id":"59208"}],
-"total":5948}}},
+"total":5948,"final":"1701"}}},
 "precincts":
 {"total":17,"reporting":17},
 "name":"Barton"},
@@ -683,7 +683,7 @@
 {"votes":52,"id":"3850"},
 {"votes":28,"id":"59208"},
 {"votes":16,"id":"11527"}],
-"total":4548}}},
+"total":4548,"final":"1701"}}},
 "precincts":
 {"total":10,"reporting":10},
 "name":"Maries"},
@@ -697,7 +697,7 @@
 {"votes":804,"id":"3850"},
 {"votes":649,"id":"11527"},
 {"votes":375,"id":"59208"}],
-"total":135692}}},
+"total":135692,"final":"1701"}}},
 "precincts":
 {"total":82,"reporting":82},
 "name":"Greene"},
@@ -711,7 +711,7 @@
 {"votes":70,"id":"3850"},
 {"votes":52,"id":"11527"},
 {"votes":39,"id":"59208"}],
-"total":5363}}},
+"total":5363,"final":"1701"}}},
 "precincts":
 {"total":14,"reporting":14},
 "name":"Ripley"},
@@ -725,7 +725,7 @@
 {"votes":636,"id":"3850"},
 {"votes":384,"id":"11527"},
 {"votes":303,"id":"59208"}],
-"total":109600}}},
+"total":109600,"final":"1701"}}},
 "precincts":
 {"total":78,"reporting":78},
 "name":"Clay"},
@@ -739,7 +739,7 @@
 {"votes":51,"id":"3850"},
 {"votes":30,"id":"11527"},
 {"votes":23,"id":"59208"}],
-"total":7474}}},
+"total":7474,"final":"1701"}}},
 "precincts":
 {"total":15,"reporting":15},
 "name":"Macon"},
@@ -753,7 +753,7 @@
 {"votes":46,"id":"3850"},
 {"votes":23,"id":"59208"},
 {"votes":20,"id":"11527"}],
-"total":5028}}},
+"total":5028,"final":"1701"}}},
 "precincts":
 {"total":8,"reporting":8},
 "name":"Madison"},
@@ -767,7 +767,7 @@
 {"votes":98,"id":"3850"},
 {"votes":54,"id":"11527"},
 {"votes":47,"id":"59208"}],
-"total":10451}}},
+"total":10451,"final":"1701"}}},
 "precincts":
 {"total":9,"reporting":9},
 "name":"Clinton"},
@@ -781,7 +781,7 @@
 {"votes":46,"id":"3850"},
 {"votes":29,"id":"59208"},
 {"votes":27,"id":"11527"}],
-"total":3456}}},
+"total":3456,"final":"1701"}}},
 "precincts":
 {"total":9,"reporting":9},
 "name":"Clark"},
@@ -795,7 +795,7 @@
 {"votes":84,"id":"3850"},
 {"votes":56,"id":"59208"},
 {"votes":42,"id":"11527"}],
-"total":8135}}},
+"total":8135,"final":"1701"}}},
 "precincts":
 {"total":19,"reporting":19},
 "name":"McDonald"},
@@ -809,7 +809,7 @@
 {"votes":95,"id":"3850"},
 {"votes":64,"id":"11527"},
 {"votes":36,"id":"59208"}],
-"total":15575}}},
+"total":15575,"final":"1701"}}},
 "precincts":
 {"total":24,"reporting":24},
 "name":"Warren"},
@@ -823,7 +823,7 @@
 {"votes":93,"id":"3850"},
 {"votes":64,"id":"11527"},
 {"votes":17,"id":"59208"}],
-"total":9848}}},
+"total":9848,"final":"1701"}}},
 "precincts":
 {"total":20,"reporting":20},
 "name":"Saline"},
@@ -837,7 +837,7 @@
 {"votes":63,"id":"11527"},
 {"votes":53,"id":"3850"},
 {"votes":12,"id":"59208"}],
-"total":8026}}},
+"total":8026,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Cooper"},
@@ -851,7 +851,7 @@
 {"votes":303,"id":"3850"},
 {"votes":177,"id":"59208"},
 {"votes":160,"id":"11527"}],
-"total":50179}}},
+"total":50179,"final":"1701"}}},
 "precincts":
 {"total":48,"reporting":48},
 "name":"Cass"},
@@ -865,7 +865,7 @@
 {"votes":57,"id":"3850"},
 {"votes":49,"id":"59208"},
 {"votes":26,"id":"11527"}],
-"total":7683}}},
+"total":7683,"final":"1701"}}},
 "precincts":
 {"total":14,"reporting":14},
 "name":"Dallas"},
@@ -879,7 +879,7 @@
 {"votes":29,"id":"3850"},
 {"votes":15,"id":"11527"},
 {"votes":12,"id":"59208"}],
-"total":2098}}},
+"total":2098,"final":"1701"}}},
 "precincts":
 {"total":8,"reporting":8},
 "name":"Scotland"},
@@ -893,7 +893,7 @@
 {"votes":66,"id":"3850"},
 {"votes":43,"id":"11527"},
 {"votes":24,"id":"59208"}],
-"total":9149}}},
+"total":9149,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Morgan"},
@@ -907,7 +907,7 @@
 {"votes":124,"id":"3850"},
 {"votes":82,"id":"59208"},
 {"votes":71,"id":"11527"}],
-"total":16637}}},
+"total":16637,"final":"1701"}}},
 "precincts":
 {"total":21,"reporting":21},
 "name":"Lawrence"},
@@ -921,7 +921,7 @@
 {"votes":53,"id":"3850"},
 {"votes":20,"id":"11527"},
 {"votes":14,"id":"59208"}],
-"total":3284}}},
+"total":3284,"final":"1701"}}},
 "precincts":
 {"total":14,"reporting":14},
 "name":"Reynolds"},
@@ -935,7 +935,7 @@
 {"votes":86,"id":"3850"},
 {"votes":44,"id":"59208"},
 {"votes":33,"id":"11527"}],
-"total":8878}}},
+"total":8878,"final":"1701"}}},
 "precincts":
 {"total":18,"reporting":18},
 "name":"Vernon"},
@@ -949,7 +949,7 @@
 {"votes":45,"id":"59208"},
 {"votes":41,"id":"3850"},
 {"votes":21,"id":"11527"}],
-"total":4686}}},
+"total":4686,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Ozark"},
@@ -963,7 +963,7 @@
 {"votes":56,"id":"3850"},
 {"votes":22,"id":"11527"},
 {"votes":15,"id":"59208"}],
-"total":3292}}},
+"total":3292,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Gentry"},
@@ -977,7 +977,7 @@
 {"votes":54,"id":"3850"},
 {"votes":28,"id":"11527"},
 {"votes":18,"id":"59208"}],
-"total":6354}}},
+"total":6354,"final":"1701"}}},
 "precincts":
 {"total":10,"reporting":10},
 "name":"Cedar"},
@@ -991,7 +991,7 @@
 {"votes":61,"id":"3850"},
 {"votes":36,"id":"59208"},
 {"votes":29,"id":"11527"}],
-"total":7881}}},
+"total":7881,"final":"1701"}}},
 "precincts":
 {"total":15,"reporting":15},
 "name":"Pike"},
@@ -1005,7 +1005,7 @@
 {"votes":172,"id":"3850"},
 {"votes":111,"id":"59208"},
 {"votes":109,"id":"11527"}],
-"total":23550}}},
+"total":23550,"final":"1701"}}},
 "precincts":
 {"total":28,"reporting":28},
 "name":"Lincoln"},
@@ -1019,7 +1019,7 @@
 {"votes":27,"id":"3850"},
 {"votes":26,"id":"59208"},
 {"votes":11,"id":"11527"}],
-"total":4112}}},
+"total":4112,"final":"1701"}}},
 "precincts":
 {"total":9,"reporting":9},
 "name":"Dade"},
@@ -1033,7 +1033,7 @@
 {"votes":73,"id":"59208"},
 {"votes":52,"id":"3850"},
 {"votes":32,"id":"11527"}],
-"total":6868}}},
+"total":6868,"final":"1701"}}},
 "precincts":
 {"total":9,"reporting":9},
 "name":"Dent"},
@@ -1047,7 +1047,7 @@
 {"votes":80,"id":"3850"},
 {"votes":39,"id":"11527"},
 {"votes":39,"id":"59208"}],
-"total":10219}}},
+"total":10219,"final":"1701"}}},
 "precincts":
 {"total":19,"reporting":19},
 "name":"Nodaway"},
@@ -1061,7 +1061,7 @@
 {"votes":64,"id":"3850"},
 {"votes":30,"id":"11527"},
 {"votes":30,"id":"59208"}],
-"total":6552}}},
+"total":6552,"final":"1701"}}},
 "precincts":
 {"total":13,"reporting":13},
 "name":"Livingston"},
@@ -1075,7 +1075,7 @@
 {"votes":364,"id":"3850"},
 {"votes":179,"id":"11527"},
 {"votes":139,"id":"59208"}],
-"total":49293}}},
+"total":49293,"final":"1701"}}},
 "precincts":
 {"total":52,"reporting":52},
 "name":"Franklin"},
@@ -1089,7 +1089,7 @@
 {"votes":84,"id":"3850"},
 {"votes":64,"id":"11527"},
 {"votes":31,"id":"59208"}],
-"total":10780}}},
+"total":10780,"final":"1701"}}},
 "precincts":
 {"total":18,"reporting":18},
 "name":"Audrain"},
@@ -1103,7 +1103,7 @@
 {"votes":45,"id":"3850"},
 {"votes":40,"id":"11527"},
 {"votes":25,"id":"59208"}],
-"total":7079}}},
+"total":7079,"final":"1701"}}},
 "precincts":
 {"total":19,"reporting":19},
 "name":"Osage"},
@@ -1117,7 +1117,7 @@
 {"votes":33,"id":"3850"},
 {"votes":10,"id":"11527"},
 {"votes":5,"id":"59208"}],
-"total":4538}}},
+"total":4538,"final":"1701"}}},
 "precincts":
 {"total":15,"reporting":15},
 "name":"Carroll"},
@@ -1131,7 +1131,7 @@
 {"votes":32,"id":"3850"},
 {"votes":24,"id":"59208"},
 {"votes":13,"id":"11527"}],
-"total":1983}}},
+"total":1983,"final":"1701"}}},
 "precincts":
 {"total":6,"reporting":6},
 "name":"Schuyler"},
@@ -1145,7 +1145,7 @@
 {"votes":31,"id":"3850"},
 {"votes":13,"id":"11527"},
 {"votes":12,"id":"59208"}],
-"total":5084}}},
+"total":5084,"final":"1701"}}},
 "precincts":
 {"total":8,"reporting":8},
 "name":"Ralls"},
@@ -1159,7 +1159,7 @@
 {"votes":83,"id":"59208"},
 {"votes":45,"id":"3850"},
 {"votes":25,"id":"11527"}],
-"total":4739}}},
+"total":4739,"final":"1701"}}},
 "precincts":
 {"total":13,"reporting":13},
 "name":"Grundy"},
@@ -1173,7 +1173,7 @@
 {"votes":65,"id":"3850"},
 {"votes":37,"id":"59208"},
 {"votes":14,"id":"11527"}],
-"total":3915}}},
+"total":3915,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Harrison"},
@@ -1187,7 +1187,7 @@
 {"votes":98,"id":"3850"},
 {"votes":54,"id":"11527"},
 {"votes":33,"id":"59208"}],
-"total":11535}}},
+"total":11535,"final":"1701"}}},
 "precincts":
 {"total":21,"reporting":21},
 "name":"Miller"},
@@ -1201,7 +1201,7 @@
 {"votes":175,"id":"3850"},
 {"votes":164,"id":"11527"},
 {"votes":62,"id":"59208"}],
-"total":38745}}},
+"total":38745,"final":"1701"}}},
 "precincts":
 {"total":39,"reporting":39},
 "name":"Cole"},
@@ -1215,7 +1215,7 @@
 {"votes":30,"id":"59208"},
 {"votes":20,"id":"3850"},
 {"votes":10,"id":"11527"}],
-"total":1748}}},
+"total":1748,"final":"1701"}}},
 "precincts":
 {"total":10,"reporting":10},
 "name":"Mercer"},
@@ -1229,7 +1229,7 @@
 {"votes":55,"id":"3850"},
 {"votes":53,"id":"59208"},
 {"votes":17,"id":"11527"}],
-"total":3837}}},
+"total":3837,"final":"1701"}}},
 "precincts":
 {"total":8,"reporting":8},
 "name":"Shannon"},
@@ -1243,7 +1243,7 @@
 {"votes":66,"id":"3850"},
 {"votes":30,"id":"11527"},
 {"votes":26,"id":"59208"}],
-"total":5784}}},
+"total":5784,"final":"1701"}}},
 "precincts":
 {"total":14,"reporting":14},
 "name":"Bollinger"},
@@ -1257,7 +1257,7 @@
 {"votes":63,"id":"3850"},
 {"votes":28,"id":"59208"},
 {"votes":20,"id":"11527"}],
-"total":4414}}},
+"total":4414,"final":"1701"}}},
 "precincts":
 {"total":10,"reporting":10},
 "name":"Iron"},
@@ -1271,7 +1271,7 @@
 {"votes":92,"id":"59208"},
 {"votes":51,"id":"3850"},
 {"votes":24,"id":"11527"}],
-"total":6712}}},
+"total":6712,"final":"1701"}}},
 "precincts":
 {"total":25,"reporting":25},
 "name":"Douglas"},
@@ -1285,7 +1285,7 @@
 {"votes":112,"id":"3850"},
 {"votes":59,"id":"11527"},
 {"votes":28,"id":"59208"}],
-"total":15000}}},
+"total":15000,"final":"1701"}}},
 "precincts":
 {"total":10,"reporting":10},
 "name":"Pulaski"},
@@ -1299,7 +1299,7 @@
 {"votes":52,"id":"3850"},
 {"votes":27,"id":"11527"},
 {"votes":23,"id":"59208"}],
-"total":4683}}},
+"total":4683,"final":"1701"}}},
 "precincts":
 {"total":12,"reporting":12},
 "name":"DeKalb"},
@@ -1313,7 +1313,7 @@
 {"votes":79,"id":"3850"},
 {"votes":46,"id":"59208"},
 {"votes":42,"id":"11527"}],
-"total":10085}}},
+"total":10085,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Crawford"},
@@ -1327,7 +1327,7 @@
 {"votes":57,"id":"3850"},
 {"votes":31,"id":"11527"},
 {"votes":26,"id":"59208"}],
-"total":8825}}},
+"total":8825,"final":"1701"}}},
 "precincts":
 {"total":14,"reporting":14},
 "name":"Ste. Genevieve"},
@@ -1341,7 +1341,7 @@
 {"votes":201,"id":"3850"},
 {"votes":133,"id":"11527"},
 {"votes":98,"id":"59208"}],
-"total":37697}}},
+"total":37697,"final":"1701"}}},
 "precincts":
 {"total":28,"reporting":28},
 "name":"Christian"},
@@ -1355,7 +1355,7 @@
 {"votes":152,"id":"3850"},
 {"votes":95,"id":"59208"},
 {"votes":91,"id":"11527"}],
-"total":19438}}},
+"total":19438,"final":"1701"}}},
 "precincts":
 {"total":25,"reporting":25},
 "name":"Phelps"},
@@ -1369,7 +1369,7 @@
 {"votes":92,"id":"3850"},
 {"votes":45,"id":"11527"},
 {"votes":29,"id":"59208"}],
-"total":8790}}},
+"total":8790,"final":"1701"}}},
 "precincts":
 {"total":23,"reporting":23},
 "name":"Andrew"},
@@ -1383,7 +1383,7 @@
 {"votes":23,"id":"3850"},
 {"votes":11,"id":"11527"},
 {"votes":6,"id":"59208"}],
-"total":2976}}},
+"total":2976,"final":"1701"}}},
 "precincts":
 {"total":6,"reporting":6},
 "name":"Atchison"},
@@ -1397,7 +1397,7 @@
 {"votes":58,"id":"3850"},
 {"votes":32,"id":"59208"},
 {"votes":31,"id":"11527"}],
-"total":4988}}},
+"total":4988,"final":"1701"}}},
 "precincts":
 {"total":19,"reporting":19},
 "name":"St. Clair"},
@@ -1411,7 +1411,7 @@
 {"votes":28,"id":"3850"},
 {"votes":17,"id":"11527"},
 {"votes":8,"id":"59208"}],
-"total":2024}}},
+"total":2024,"final":"1701"}}},
 "precincts":
 {"total":7,"reporting":7},
 "name":"Knox"},
@@ -1425,7 +1425,7 @@
 {"votes":236,"id":"3850"},
 {"votes":179,"id":"11527"},
 {"votes":145,"id":"59208"}],
-"total":46479}}},
+"total":46479,"final":"1701"}}},
 "precincts":
 {"total":35,"reporting":35},
 "name":"Platte"},
@@ -1439,7 +1439,7 @@
 {"votes":47,"id":"3850"},
 {"votes":10,"id":"11527"},
 {"votes":7,"id":"59208"}],
-"total":7047}}},
+"total":7047,"final":"1701"}}},
 "precincts":
 {"total":19,"reporting":19},
 "name":"Pemiscot"},
@@ -1453,7 +1453,7 @@
 {"votes":88,"id":"3850"},
 {"votes":50,"id":"59208"},
 {"votes":41,"id":"11527"}],
-"total":8283}}},
+"total":8283,"final":"1701"}}},
 "precincts":
 {"total":16,"reporting":16},
 "name":"Bates"},
@@ -1467,7 +1467,7 @@
 {"votes":164,"id":"3850"},
 {"votes":157,"id":"11527"},
 {"votes":58,"id":"59208"}],
-"total":37355}}},
+"total":37355,"final":"1701"}}},
 "precincts":
 {"total":35,"reporting":35},
 "name":"Cape Girardeau"},
@@ -1481,7 +1481,7 @@
 {"votes":92,"id":"3850"},
 {"votes":51,"id":"11527"},
 {"votes":34,"id":"59208"}],
-"total":9565}}},
+"total":9565,"final":"1701"}}},
 "precincts":
 {"total":13,"reporting":13},
 "name":"Benton"},
@@ -1495,7 +1495,7 @@
 {"votes":130,"id":"3850"},
 {"votes":70,"id":"11527"},
 {"votes":56,"id":"59208"}],
-"total":16600}}},
+"total":16600,"final":"1701"}}},
 "precincts":
 {"total":15,"reporting":15},
 "name":"Lafayette"},
@@ -1509,7 +1509,7 @@
 {"votes":120,"id":"59208"},
 {"votes":110,"id":"3850"},
 {"votes":81,"id":"11527"}],
-"total":17029}}},
+"total":17029,"final":"1701"}}},
 "precincts":
 {"total":21,"reporting":21},
 "name":"Howell"},
@@ -1523,7 +1523,7 @@
 {"votes":662,"id":"11527"},
 {"votes":482,"id":"3850"},
 {"votes":188,"id":"59208"}],
-"total":85243}}},
+"total":85243,"final":"1701"}}},
 "precincts":
 {"total":103,"reporting":103},
 "name":"Boone"},
@@ -1537,7 +1537,7 @@
 {"votes":2372,"id":"3850"},
 {"votes":1674,"id":"11527"},
 {"votes":954,"id":"59208"}],
-"total":559828}}},
+"total":559828,"final":"1701"}}},
 "precincts":
 {"total":659,"reporting":659},
 "name":"St. Louis"},
@@ -1551,7 +1551,7 @@
 {"votes":48,"id":"3850"},
 {"votes":16,"id":"59208"},
 {"votes":10,"id":"11527"}],
-"total":2898}}},
+"total":2898,"final":"1701"}}},
 "precincts":
 {"total":8,"reporting":8},
 "name":"Carter"},
@@ -1565,7 +1565,7 @@
 {"votes":45,"id":"3850"},
 {"votes":21,"id":"11527"},
 {"votes":5,"id":"59208"}],
-"total":4502}}},
+"total":4502,"final":"1701"}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Lewis"},
@@ -1579,7 +1579,7 @@
 {"votes":112,"id":"3850"},
 {"votes":61,"id":"11527"},
 {"votes":32,"id":"59208"}],
-"total":18026}}},
+"total":18026,"final":"1701"}}},
 "precincts":
 {"total":23,"reporting":23},
 "name":"Scott"},
@@ -1593,7 +1593,7 @@
 {"votes":94,"id":"3850"},
 {"votes":56,"id":"11527"},
 {"votes":33,"id":"59208"}],
-"total":10624}}},
+"total":10624,"final":"1701"}}},
 "precincts":
 {"total":15,"reporting":15},
 "name":"Randolph"},
@@ -1607,7 +1607,7 @@
 {"votes":43,"id":"3850"},
 {"votes":26,"id":"11527"},
 {"votes":9,"id":"59208"}],
-"total":4314}}},
+"total":4314,"final":"1701"}}},
 "precincts":
 {"total":8,"reporting":8},
 "name":"Monroe"}},
@@ -1675,11 +1675,12 @@
 "President":
 {"":
 {"votes":[
-{"votes":1445812,"electoral":0,"id":"1701"},
+{"votes":1445812,"electoral":11,"id":"1701"},
 {"votes":1442180,"electoral":0,"id":"1918"},
 {"votes":17813,"electoral":0,"id":"3850"},
 {"votes":11386,"electoral":0,"id":"11527"},
-{"votes":8201,"electoral":0,"id":"59208"}]}},
+{"votes":8201,"electoral":0,"id":"59208"}],
+"final":"1701"}},
 "Amendment":
 {"1-Make English Official":
 {"votes":[
