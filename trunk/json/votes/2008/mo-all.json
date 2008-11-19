@@ -1,4 +1,4 @@
-{"state":"MO","total":2924806,"candidates":
+{"state":"MO","total":2925322,"candidates":
 {"1342":"GOP|Graves|Sam Graves","1343":"GOP|Blunt|Roy Blunt","954":"GOP|Hulshof|Kenny Hulshof","11527":"Lib|Barr|Bob Barr","59472":"GOP|Sander|Chris Sander","50053":"GOP|Parnell|Jeff Parnell","51616":"Lib|McCullough|Branden McCullough","951":"GOP|Emerson|Jo Ann Emerson","1852":"Dem|Carnahan|Russ Carnahan","59208":"AKI|Baldwin|Chuck Baldwin","3":"|No| No","2":"|Yes| Yes","3850":"Ind|Nader|Ralph Nader","51610":"Lib|Cunningham|Robb Cunningham","50436":"Lib|Craig|Kevin Craig","50040":"Dem|Cleaver|Emanuel Cleaver","51614":"GOP|Turk|Jacob Turk","934":"Lib|Millay|Tamara Millay","55466":"GOP|Luetkemeyer|Blaine Luetkemeyer","59483":"Dem|Monroe|Richard Monroe","59482":"Lib|Browning|Dave Browning","1337":"Dem|Clay|Lacy Clay","59480":"Dem|Barnes|Kay Barnes","59486":"Dem|Baker|Judy Baker","59485":"Dem|Allen|Joe Allen","28829":"Lib|Babcock|Kevin Babcock","59468":"Dem|Haas|Bill Haas","59467":"Lib|Finkenstadt|Andrew Finkenstadt","29087":"Lib|Knapp|Thomas Knapp","1701":"GOP|McCain|John McCain","1918":"Dem|Obama|Barack Obama","937":"GOP|Akin|Todd Akin","942":"Dem|Skelton|Ike Skelton","59832":"CST|Redburn|Cindy Redburn","59833":"CST|Maddox|Travis Maddox","59831":"CST|Thompson|Gregory Thompson","50510":"CST|Smith|Richard Smith","29169":"Dem|Nixon|Jay Nixon"},
 "locals":
 {"Daviess":
@@ -62,12 +62,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":3426,"id":"1701"},
-{"votes":2346,"id":"1918"},
+{"votes":3428,"id":"1701"},
+{"votes":2347,"id":"1918"},
 {"votes":43,"id":"3850"},
 {"votes":22,"id":"11527"},
 {"votes":16,"id":"59208"}],
-"total":5853}}},
+"total":5856}}},
 "precincts":
 {"total":11,"reporting":11},
 "name":"Montgomery"},
@@ -650,12 +650,12 @@
 {"President":
 {"":
 {"votes":[
-{"votes":132486,"id":"1918"},
-{"votes":24594,"id":"1701"},
-{"votes":602,"id":"3850"},
-{"votes":493,"id":"11527"},
-{"votes":164,"id":"59208"}],
-"total":158339}}},
+{"votes":132925,"id":"1918"},
+{"votes":24662,"id":"1701"},
+{"votes":604,"id":"3850"},
+{"votes":494,"id":"11527"},
+{"votes":167,"id":"59208"}],
+"total":158852}}},
 "precincts":
 {"total":204,"reporting":204},
 "name":"St. Louis City"},
@@ -1620,15 +1620,15 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":242309,"id":"1337"},
-{"votes":36678,"id":"51610"}],
+{"votes":242570,"id":"1337"},
+{"votes":36700,"id":"51610"}],
 "final":"1337"},
 "3":
 {"votes":[
-{"votes":202331,"id":"1852"},
-{"votes":92717,"id":"59472"},
-{"votes":5519,"id":"28829"},
-{"votes":4317,"id":"59832"}],
+{"votes":202470,"id":"1852"},
+{"votes":92759,"id":"59472"},
+{"votes":5518,"id":"28829"},
+{"votes":4324,"id":"59832"}],
 "final":"1852"},
 "2":
 {"votes":[
@@ -1661,8 +1661,8 @@
 "final":"1342"},
 "9":
 {"votes":[
-{"votes":161029,"id":"55466"},
-{"votes":152953,"id":"59486"},
+{"votes":161031,"id":"55466"},
+{"votes":152956,"id":"59486"},
 {"votes":8108,"id":"934"}],
 "final":"55466"},
 "8":
@@ -1675,29 +1675,29 @@
 "President":
 {"":
 {"votes":[
-{"votes":1445711,"electoral":0,"id":"1701"},
-{"votes":1441705,"electoral":0,"id":"1918"},
-{"votes":17809,"electoral":0,"id":"3850"},
-{"votes":11384,"electoral":0,"id":"11527"},
-{"votes":8197,"electoral":0,"id":"59208"}]}},
+{"votes":1445781,"electoral":0,"id":"1701"},
+{"votes":1442145,"electoral":0,"id":"1918"},
+{"votes":17811,"electoral":0,"id":"3850"},
+{"votes":11385,"electoral":0,"id":"11527"},
+{"votes":8200,"electoral":0,"id":"59208"}]}},
 "Amendment":
 {"1-Make English Official":
 {"votes":[
-{"votes":2407046,"id":"2"},
-{"votes":381749,"id":"3"}],
+{"votes":2407406,"id":"2"},
+{"votes":381842,"id":"3"}],
 "final":"2"}},
 "Proposition":
 {"C-Renewable Energy":
 {"votes":[
-{"votes":1777178,"id":"2"},
-{"votes":914200,"id":"3"}],
+{"votes":1777524,"id":"2"},
+{"votes":914307,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1680155,"id":"29169"},
-{"votes":1136268,"id":"954"},
-{"votes":31844,"id":"59467"},
-{"votes":28935,"id":"59831"}],
+{"votes":1680572,"id":"29169"},
+{"votes":1136342,"id":"954"},
+{"votes":31847,"id":"59467"},
+{"votes":28937,"id":"59831"}],
 "final":"29169"}}},
 "abbr":"MO"}}
