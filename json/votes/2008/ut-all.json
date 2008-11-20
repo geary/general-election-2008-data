@@ -1,4 +1,4 @@
-{"state":"UT","total":883658,"candidates":
+{"state":"UT","total":913019,"candidates":
 {"1701":"GOP|McCain|John McCain","618":"GOP|Bishop|Rob Bishop","620":"Dem|Matheson|Jim Matheson","3850":"Ind|Nader|Ralph Nader","51693":"CST|Noorlander|Jim Noorlander","59347":"Lib|Schanze|Dell Schanze","59208":"AKI|Baldwin|Chuck Baldwin","7623":"PSL|La Riva|Gloria La Riva","59340":"CST|Pearson|Kirk Pearson","59341":"Dem|Bowen|Morgan Bowen","59342":"Lib|Buchman|Joseph Buchman","59343":"Lib|Arndt|Mathew Arndt","59344":"GOP|Dew|Bill Dew","59345":"CST|Emery|Dennis Emery","59346":"GOP|Chaffetz|Jason Chaffetz","50061":"GOP|Huntsman|Jon Huntsman","44895":"Dem|Spencer|Bennion Spencer","11527":"Lib|Barr|Bob Barr","12619":"Grn|McKinney|Cynthia McKinney","1918":"Dem|Obama|Barack Obama","58654":"Dem|Springmeyer|Bob Springmeyer"},
 "locals":
 {"San Juan":
@@ -406,14 +406,14 @@
 {"President":
 {"":
 {"votes":[
-{"votes":163579,"id":"1701"},
-{"votes":161696,"id":"1918"},
-{"votes":3362,"id":"3850"},
-{"votes":2939,"id":"59208"},
-{"votes":2347,"id":"11527"},
-{"votes":338,"id":"12619"},
-{"votes":103,"id":"7623"}],
-"total":334364,"final":"1701"}}},
+{"votes":176988,"id":"1918"},
+{"votes":176692,"id":"1701"},
+{"votes":3768,"id":"3850"},
+{"votes":3229,"id":"59208"},
+{"votes":2556,"id":"11527"},
+{"votes":381,"id":"12619"},
+{"votes":111,"id":"7623"}],
+"total":363725,"final":"1701"}}},
 "precincts":
 {"total":989,"reporting":989},
 "name":"Salt Lake"},
@@ -493,13 +493,13 @@
 "President":
 {"":
 {"votes":[
-{"votes":555497,"electoral":5,"id":"1701"},
-{"votes":301771,"electoral":0,"id":"1918"},
-{"votes":11131,"electoral":0,"id":"59208"},
-{"votes":7644,"electoral":0,"id":"3850"},
-{"votes":6461,"electoral":0,"id":"11527"},
-{"votes":908,"electoral":0,"id":"12619"},
-{"votes":246,"electoral":0,"id":"7623"}],
+{"votes":568610,"electoral":5,"id":"1701"},
+{"votes":317063,"electoral":0,"id":"1918"},
+{"votes":11421,"electoral":0,"id":"59208"},
+{"votes":8050,"electoral":0,"id":"3850"},
+{"votes":6670,"electoral":0,"id":"11527"},
+{"votes":951,"electoral":0,"id":"12619"},
+{"votes":254,"electoral":0,"id":"7623"}],
 "final":"1701"}},
 "Governor":
 {"":
